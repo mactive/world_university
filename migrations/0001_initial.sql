@@ -11,6 +11,8 @@ CREATE TABLE IF NOT EXISTS universities (
   longitude REAL NOT NULL,
   qs_rank INTEGER,
   rank_year INTEGER,
+  ranking_system TEXT,
+  enrollment INTEGER,
   website TEXT NOT NULL DEFAULT '',
   admissions_url TEXT NOT NULL DEFAULT '',
   tuition_json TEXT,

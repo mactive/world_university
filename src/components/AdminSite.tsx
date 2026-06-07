@@ -150,12 +150,10 @@ export function AdminSite({ universities, source, onRefresh }: Props) {
           <p>所有时效性字段都应填写数据年份与一手来源。</p>
         </div>
         <div className="admin-actions">
-          {source === "seed" && (
-            <button className="secondary-button" onClick={bootstrap} disabled={working}>
-              <UploadCloud size={17} />
-              初始化到 D1
-            </button>
-          )}
+          <button className="secondary-button" onClick={bootstrap} disabled={working}>
+            <UploadCloud size={17} />
+            同步内置目录到 D1
+          </button>
           <button className="primary-button" onClick={() => setEditing(newUniversity())}>
             <Plus size={17} />
             新增学校
@@ -177,7 +175,7 @@ export function AdminSite({ universities, source, onRefresh }: Props) {
         <div>
           <Database size={20} />
           <span>当前数据源</span>
-          <strong>{source === "d1" ? "Cloudflare D1" : "内置种子数据"}</strong>
+          <strong>{source.includes("d1") ? "D1 + 内置目录" : "内置目录"}</strong>
         </div>
         <div>
           <Check size={20} />
@@ -191,7 +189,7 @@ export function AdminSite({ universities, source, onRefresh }: Props) {
         </div>
       </section>
 
-      {source === "seed" && (
+      {!source.includes("d1") && (
         <div className="admin-notice">
           目前展示的是内置样例数据。创建 D1、执行迁移后，点击“初始化到 D1”即可开始持久化编辑。
         </div>
@@ -216,7 +214,7 @@ export function AdminSite({ universities, source, onRefresh }: Props) {
               <tr>
                 <th>学校</th>
                 <th>地区</th>
-                <th>QS 排名</th>
+                <th>排名</th>
                 <th>学费</th>
                 <th>更新日期</th>
                 <th />
@@ -233,7 +231,10 @@ export function AdminSite({ universities, source, onRefresh }: Props) {
                     {REGION_LABELS[university.countryCode]}
                     <small>{university.city}</small>
                   </td>
-                  <td>#{university.qsRank ?? "—"}</td>
+                  <td>
+                    {university.rankingSystem === "U.S. News" ? "USN" : "QS"} #
+                    {university.qsRank ?? "—"}
+                  </td>
                   <td>
                     {university.tuition
                       ? `${university.tuition.amount.toLocaleString()} ${university.tuition.currency}`

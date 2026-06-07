@@ -116,7 +116,7 @@ export function PublicSite({ universities, loading }: Props) {
                 onClick={() => selectUniversity(university)}
               >
                 <span className="school-rank">
-                  <small>QS</small>
+                  <small>{university.rankingSystem === "U.S. News" ? "USN" : "QS"}</small>
                   <strong>{university.qsRank ?? "—"}</strong>
                 </span>
                 <span className="school-card-copy">

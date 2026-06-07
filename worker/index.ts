@@ -20,6 +20,8 @@ type UniversityRow = {
   longitude: number;
   qs_rank: number | null;
   rank_year: number | null;
+  ranking_system: University["rankingSystem"] | null;
+  enrollment: number | null;
   website: string;
   admissions_url: string;
   tuition_json: string | null;
@@ -68,6 +70,8 @@ function rowToUniversity(row: UniversityRow): University {
     longitude: row.longitude,
     qsRank: row.qs_rank ?? undefined,
     rankYear: row.rank_year ?? undefined,
+    rankingSystem: row.ranking_system ?? undefined,
+    enrollment: row.enrollment ?? undefined,
     website: row.website,
     admissionsUrl: row.admissions_url,
     tuition: parseJson(row.tuition_json, undefined),
@@ -103,6 +107,8 @@ function universityParams(university: University) {
     university.longitude,
     university.qsRank ?? null,
     university.rankYear ?? null,
+    university.rankingSystem ?? null,
+    university.enrollment ?? null,
     university.website,
     university.admissionsUrl,
     university.tuition ? JSON.stringify(university.tuition) : null,
@@ -224,10 +230,36 @@ async function listUniversities(env: Env) {
   if (!env.DB) return { universities: seedUniversities, source: "seed" };
   try {
     const result = await env.DB.prepare(
-      "SELECT * FROM universities WHERE status = 'published' ORDER BY qs_rank IS NULL, qs_rank, name_en",
+      "SELECT * FROM universities ORDER BY qs_rank IS NULL, qs_rank, name_en",
     ).all<UniversityRow>();
     if (!result.results.length) return { universities: seedUniversities, source: "seed" };
-    return { universities: result.results.map(rowToUniversity), source: "d1" };
+    const merged = new Map(seedUniversities.map((university) => [university.id, university]));
+    for (const row of result.results) {
+      if (row.status === "draft") merged.delete(row.id);
+      else {
+        const databaseUniversity = rowToUniversity(row);
+        const base = merged.get(row.id);
+        merged.set(
+          row.id,
+          base && !databaseUniversity.rankingSystem
+            ? {
+                ...base,
+                ...databaseUniversity,
+                qsRank: base.qsRank,
+                rankYear: base.rankYear,
+                rankingSystem: base.rankingSystem,
+                enrollment: databaseUniversity.enrollment ?? base.enrollment,
+              }
+            : databaseUniversity,
+        );
+      }
+    }
+    return {
+      universities: [...merged.values()].sort(
+        (a, b) => (a.qsRank ?? 9999) - (b.qsRank ?? 9999),
+      ),
+      source: "d1+seed",
+    };
   } catch {
     return { universities: seedUniversities, source: "seed" };
   }
@@ -239,16 +271,17 @@ async function saveUniversity(env: Env, request: Request) {
   await env.DB.prepare(
     `INSERT INTO universities (
       id, slug, name_en, name_zh, abbreviation, country, country_code, city,
-      latitude, longitude, qs_rank, rank_year, website, admissions_url,
+      latitude, longitude, qs_rank, rank_year, ranking_system, enrollment, website, admissions_url,
       tuition_json, mainland_china_intake_json, strengths_json, housing_json,
       requirements_json, admission_history_json, sources_json, status, updated_at
-    ) VALUES (${Array.from({ length: 23 }, () => "?").join(",")})
+    ) VALUES (${Array.from({ length: 25 }, () => "?").join(",")})
     ON CONFLICT(id) DO UPDATE SET
       slug=excluded.slug, name_en=excluded.name_en, name_zh=excluded.name_zh,
       abbreviation=excluded.abbreviation, country=excluded.country,
       country_code=excluded.country_code, city=excluded.city,
       latitude=excluded.latitude, longitude=excluded.longitude,
       qs_rank=excluded.qs_rank, rank_year=excluded.rank_year,
+      ranking_system=excluded.ranking_system, enrollment=excluded.enrollment,
       website=excluded.website, admissions_url=excluded.admissions_url,
       tuition_json=excluded.tuition_json,
       mainland_china_intake_json=excluded.mainland_china_intake_json,

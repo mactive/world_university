@@ -1,4 +1,5 @@
 import type { University } from "../types";
+import generatedCatalog from "./catalog.generated.json";
 
 const updatedAt = "2026-06-07T00:00:00.000Z";
 
@@ -9,7 +10,7 @@ const sharedRequirements = {
   language: "非英语母语申请人通常需提交 IELTS、TOEFL 或学校认可的替代成绩。",
 };
 
-export const seedUniversities: University[] = [
+const richUniversities: University[] = [
   {
     id: "mit",
     slug: "massachusetts-institute-of-technology",
@@ -584,3 +585,109 @@ export const seedUniversities: University[] = [
     updatedAt,
   },
 ];
+
+type CatalogRecord = {
+  id: string;
+  nameEn: string;
+  nameZh: string;
+  abbreviation: string;
+  country: string;
+  countryCode: University["countryCode"];
+  city: string;
+  latitude: number;
+  longitude: number;
+  rank?: number;
+  rankYear?: number;
+  rankingSystem?: University["rankingSystem"];
+  website?: string;
+  tuition?: University["tuition"];
+  admissionHistory?: University["admissionHistory"];
+  enrollment?: number;
+  sources?: University["sources"];
+};
+
+const generatedUniversities = (generatedCatalog as CatalogRecord[]).map(
+  (record): University => ({
+    id: record.id,
+    slug: record.id,
+    nameEn: record.nameEn,
+    nameZh: record.nameZh,
+    abbreviation: record.abbreviation,
+    country: record.country,
+    countryCode: record.countryCode,
+    city: record.city,
+    latitude: record.latitude,
+    longitude: record.longitude,
+    qsRank: record.rank,
+    rankYear: record.rankYear,
+    rankingSystem: record.rankingSystem,
+    enrollment: record.enrollment,
+    website: record.website ?? "",
+    admissionsUrl: record.website ?? "",
+    tuition: record.tuition,
+    mainlandChinaIntake: {
+      year: 2026,
+      note: "学校未按中国大陆生源单独公开统一口径的本科录取人数。",
+    },
+    strengths: ["综合性研究型大学"],
+    requirements: {
+      ...sharedRequirements,
+      summary: "申请要求因学院、专业和申请年度而异，请以学校本科招生官网为准。",
+      source: record.website,
+      year: 2026,
+    },
+    admissionHistory: record.admissionHistory ?? [],
+    sources: record.sources ?? [],
+    status: "published",
+    updatedAt,
+  }),
+);
+
+function normalizeName(value: string) {
+  return value.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function mergeAdmissionHistory(
+  detailed: University["admissionHistory"],
+  generated: University["admissionHistory"],
+) {
+  const byYear = new Map(detailed.map((item) => [item.year, item]));
+  for (const item of generated) byYear.set(item.year, item);
+  return [...byYear.values()].sort((a, b) => b.year - a.year);
+}
+
+const richByName = new Map(
+  richUniversities.map((university) => [normalizeName(university.nameEn), university]),
+);
+const generatedNames = new Set(generatedUniversities.map((item) => normalizeName(item.nameEn)));
+
+export const seedUniversities: University[] = [
+  ...generatedUniversities.map((generated) => {
+    const detailed = richByName.get(normalizeName(generated.nameEn));
+    if (!detailed) return generated;
+    return {
+      ...generated,
+      ...detailed,
+      city: generated.city,
+      latitude: generated.latitude,
+      longitude: generated.longitude,
+      qsRank: generated.qsRank ?? detailed.qsRank,
+      rankYear: generated.rankYear ?? detailed.rankYear,
+      rankingSystem: generated.rankingSystem ?? detailed.rankingSystem ?? "QS",
+      enrollment: generated.enrollment ?? detailed.enrollment,
+      website: detailed.website || generated.website,
+      tuition: generated.tuition ?? detailed.tuition,
+      admissionHistory: mergeAdmissionHistory(
+        detailed.admissionHistory,
+        generated.admissionHistory,
+      ),
+      sources: [...generated.sources, ...detailed.sources],
+    };
+  }),
+  ...richUniversities.filter(
+    (university) => !generatedNames.has(normalizeName(university.nameEn)),
+  ),
+].sort((a, b) => {
+  if (a.countryCode !== b.countryCode) return a.countryCode.localeCompare(b.countryCode);
+  return (a.qsRank ?? 9999) - (b.qsRank ?? 9999);
+});

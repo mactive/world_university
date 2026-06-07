@@ -29,6 +29,8 @@ export interface University {
   longitude: number;
   qsRank?: number;
   rankYear?: number;
+  rankingSystem?: "QS" | "U.S. News";
+  enrollment?: number;
   website: string;
   admissionsUrl: string;
   tuition?: {

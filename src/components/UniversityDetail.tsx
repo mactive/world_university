@@ -32,7 +32,9 @@ export function UniversityDetail({ university, onClose }: Props) {
         <p>{university.nameEn}</p>
         <div className="detail-badges">
           {university.qsRank && (
-            <span className="rank-badge">QS {university.rankYear} #{university.qsRank}</span>
+            <span className="rank-badge">
+              {university.rankingSystem ?? "QS"} {university.rankYear} #{university.qsRank}
+            </span>
           )}
           <span>{university.abbreviation}</span>
         </div>
@@ -61,6 +63,13 @@ export function UniversityDetail({ university, onClose }: Props) {
             note={university.housing ? `${university.housing.year} 年估算` : undefined}
           />
         </section>
+
+        {university.enrollment && (
+          <div className="enrollment-note">
+            <Users size={15} />
+            美国教育部口径本科在校规模约 {university.enrollment.toLocaleString()} 人
+          </div>
+        )}
 
         <section className="detail-section">
           <div className="section-heading">

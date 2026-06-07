@@ -1,0 +1,5674 @@
+[
+  {
+    "id": "princeton-university",
+    "nameEn": "Princeton University",
+    "nameZh": "普林斯顿大学",
+    "abbreviation": "PU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Princeton, NJ",
+    "latitude": 40.348732,
+    "longitude": -74.659365,
+    "rank": 1,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.princeton.edu/",
+    "tuition": {
+      "amount": 62688,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 4.62,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5709,
+    "wikidataId": "Q21578",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q21578",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "massachusetts-institute-of-technology",
+    "nameEn": "Massachusetts Institute of Technology",
+    "nameZh": "麻省理工学院",
+    "abbreviation": "MIT",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Cambridge, MA",
+    "latitude": 42.359243,
+    "longitude": -71.093226,
+    "rank": 2,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://web.mit.edu/",
+    "tuition": {
+      "amount": 62396,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 4.55,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 4535,
+    "wikidataId": "Q49108",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49108",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "harvard-university",
+    "nameEn": "Harvard University",
+    "nameZh": "哈佛大学",
+    "abbreviation": "HU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Cambridge, MA",
+    "latitude": 42.374471,
+    "longitude": -71.118313,
+    "rank": 3,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.harvard.edu/",
+    "tuition": {
+      "amount": 61676,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 3.65,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7601,
+    "wikidataId": "Q13371",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q13371",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "stanford-university",
+    "nameEn": "Stanford University",
+    "nameZh": "斯坦福大学",
+    "abbreviation": "SU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Stanford, CA",
+    "latitude": 37.429434,
+    "longitude": -122.167359,
+    "rank": 4,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.stanford.edu/",
+    "tuition": {
+      "amount": 65910,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 3.61,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7554,
+    "wikidataId": "Q41506",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q41506",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "yale-university",
+    "nameEn": "Yale University",
+    "nameZh": "耶鲁大学",
+    "abbreviation": "YU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New Haven, CT",
+    "latitude": 41.311158,
+    "longitude": -72.926688,
+    "rank": 4,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.yale.edu/",
+    "tuition": {
+      "amount": 67250,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 3.87,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6758,
+    "wikidataId": "Q49112",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49112",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-chicago",
+    "nameEn": "University of Chicago",
+    "nameZh": "芝加哥大学",
+    "abbreviation": "UC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "latitude": 41.787994,
+    "longitude": -87.599539,
+    "rank": 6,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.uchicago.edu/",
+    "tuition": {
+      "amount": 70662,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 4.48,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7569,
+    "wikidataId": "Q131252",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q131252",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "duke-university",
+    "nameEn": "Duke University",
+    "nameZh": "杜克大学",
+    "abbreviation": "DU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Durham, NC",
+    "latitude": 36.001135,
+    "longitude": -78.937624,
+    "rank": 7,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.duke.edu/",
+    "tuition": {
+      "amount": 68758,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.71,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6442,
+    "wikidataId": "Q168751",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q168751",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "johns-hopkins-university",
+    "nameEn": "Johns Hopkins University",
+    "nameZh": "约翰斯·霍普金斯大学",
+    "abbreviation": "JHU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Baltimore, MD",
+    "latitude": 39.328977,
+    "longitude": -76.621595,
+    "rank": 7,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.jhu.edu/",
+    "tuition": {
+      "amount": 65230,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 6.44,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5693,
+    "wikidataId": "Q193727",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q193727",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "northwestern-university",
+    "nameEn": "Northwestern University",
+    "nameZh": "西北大学",
+    "abbreviation": "NU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Evanston, IL",
+    "latitude": 42.050356,
+    "longitude": -87.679858,
+    "rank": 7,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.northwestern.edu/",
+    "tuition": {
+      "amount": 68322,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 7.69,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 9201,
+    "wikidataId": "Q309350",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q309350",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-pennsylvania",
+    "nameEn": "University of Pennsylvania",
+    "nameZh": "宾夕法尼亚大学",
+    "abbreviation": "UP",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Philadelphia, PA",
+    "latitude": 39.950929,
+    "longitude": -75.19391,
+    "rank": 7,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.upenn.edu/",
+    "tuition": {
+      "amount": 68686,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.4,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 10650,
+    "wikidataId": "Q49117",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49117",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "california-institute-of-technology",
+    "nameEn": "California Institute of Technology",
+    "nameZh": "加州理工学院",
+    "abbreviation": "Caltech",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Pasadena, CA",
+    "latitude": 34.137349,
+    "longitude": -118.125878,
+    "rank": 11,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.caltech.edu/",
+    "tuition": {
+      "amount": 65898,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 2.57,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 987,
+    "wikidataId": "Q161562",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q161562",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "cornell-university",
+    "nameEn": "Cornell University",
+    "nameZh": "康奈尔大学",
+    "abbreviation": "CU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Ithaca, NY",
+    "latitude": 42.4472,
+    "longitude": -76.483084,
+    "rank": 12,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.cornell.edu/",
+    "tuition": {
+      "amount": 69314,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 8.76,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 15995,
+    "wikidataId": "Q49115",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49115",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "brown-university",
+    "nameEn": "Brown University",
+    "nameZh": "布朗大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Providence, RI",
+    "latitude": 41.82617,
+    "longitude": -71.40385,
+    "rank": 13,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.brown.edu/",
+    "tuition": {
+      "amount": 71412,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.39,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7226,
+    "wikidataId": "Q49114",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49114",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "dartmouth-college",
+    "nameEn": "Dartmouth College",
+    "nameZh": "达特茅斯学院",
+    "abbreviation": "DC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Hanover, NH",
+    "latitude": 43.704115,
+    "longitude": -72.289949,
+    "rank": 13,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://dartmouth.edu/",
+    "tuition": {
+      "amount": 68268,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.4,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 4541,
+    "wikidataId": "Q49116",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49116",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "columbia-university",
+    "nameEn": "Columbia University",
+    "nameZh": "哥伦比亚大学",
+    "abbreviation": "CU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "latitude": 40.810216,
+    "longitude": -73.960194,
+    "rank": 15,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.tc.columbia.edu/",
+    "tuition": {
+      "amount": 71845,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 3.99,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 8973,
+    "wikidataId": "Q49088",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49088",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-berkeley",
+    "nameEn": "University of California, Berkeley",
+    "nameZh": "加州大学伯克利分校",
+    "abbreviation": "UC Berkeley",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Berkeley, CA",
+    "latitude": 37.871918,
+    "longitude": -122.260463,
+    "rank": 15,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.berkeley.edu/",
+    "tuition": {
+      "amount": 50547,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 10.98,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 33068,
+    "wikidataId": "Q168756",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q168756",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "rice-university",
+    "nameEn": "Rice University",
+    "nameZh": "莱斯大学",
+    "abbreviation": "RU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Houston, TX",
+    "latitude": 29.717897,
+    "longitude": -95.402035,
+    "rank": 17,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.rice.edu/",
+    "tuition": {
+      "amount": 64144,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 8,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 4776,
+    "wikidataId": "Q842909",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q842909",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-los-angeles",
+    "nameEn": "University of California, Los Angeles",
+    "nameZh": "加州大学洛杉矶分校",
+    "abbreviation": "UCLA",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "latitude": 34.07178,
+    "longitude": -118.442179,
+    "rank": 17,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ucla.edu/",
+    "tuition": {
+      "amount": 49403,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 8.97,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 33475,
+    "wikidataId": "Q174710",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q174710",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "vanderbilt-university",
+    "nameEn": "Vanderbilt University",
+    "nameZh": "范德比尔特大学",
+    "abbreviation": "VU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Nashville, TN",
+    "latitude": 36.14659,
+    "longitude": -86.803369,
+    "rank": 17,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.vanderbilt.edu/",
+    "tuition": {
+      "amount": 67498,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.86,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7208,
+    "wikidataId": "Q29052",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q29052",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "carnegie-mellon-university",
+    "nameEn": "Carnegie Mellon University",
+    "nameZh": "卡内基梅隆大学",
+    "abbreviation": "CMU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Pittsburgh, PA",
+    "latitude": 40.44357,
+    "longitude": -79.941993,
+    "rank": 20,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.cmu.edu/",
+    "tuition": {
+      "amount": 66246,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 11.66,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7304,
+    "wikidataId": "Q190080",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q190080",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-michigan-ann-arbor",
+    "nameEn": "University of Michigan-Ann Arbor",
+    "nameZh": "密歇根大学安娜堡分校",
+    "abbreviation": "UMA",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Ann Arbor, MI",
+    "latitude": 42.278374,
+    "longitude": -83.73481,
+    "rank": 20,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://umich.edu/",
+    "tuition": {
+      "amount": 60946,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 15.64,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 34177,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-notre-dame",
+    "nameEn": "University of Notre Dame",
+    "nameZh": "圣母大学",
+    "abbreviation": "UND",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "latitude": 41.7056,
+    "longitude": -86.2353,
+    "rank": 20,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.nd.edu/",
+    "tuition": {
+      "amount": 65025,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 11.27,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 8818,
+    "wikidataId": "Q178848",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q178848",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "washington-university-in-st-louis",
+    "nameEn": "Washington University in St Louis",
+    "nameZh": "圣路易斯华盛顿大学",
+    "abbreviation": "WUSL",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "St. Louis, MO",
+    "latitude": 38.647929,
+    "longitude": -90.310604,
+    "rank": 20,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://washu.edu/",
+    "tuition": {
+      "amount": 65790,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 12.06,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7857,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "georgetown-university",
+    "nameEn": "Georgetown University",
+    "nameZh": "乔治敦大学",
+    "abbreviation": "GU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Washington, DC",
+    "latitude": 38.908809,
+    "longitude": -77.073463,
+    "rank": 24,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.georgetown.edu/",
+    "tuition": {
+      "amount": 68017,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 12.91,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7569,
+    "wikidataId": "Q333886",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q333886",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "emory-university",
+    "nameEn": "Emory University",
+    "nameZh": "埃默里大学",
+    "abbreviation": "EU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "latitude": 33.790183,
+    "longitude": -84.325512,
+    "rank": 24,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.emory.edu/",
+    "tuition": {
+      "amount": 64280,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 10.65,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7298,
+    "wikidataId": "Q621043",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q621043",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-virginia",
+    "nameEn": "University of Virginia",
+    "nameZh": "弗吉尼亚大学",
+    "abbreviation": "UV",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Charlottesville, VA",
+    "latitude": 38.035665,
+    "longitude": -78.503428,
+    "rank": 26,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.virginia.edu/",
+    "tuition": {
+      "amount": 59512,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 16.81,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 17597,
+    "wikidataId": "Q213439",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q213439",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-north-carolina-at-chapel-hill",
+    "nameEn": "University of North Carolina at Chapel Hill",
+    "nameZh": "北卡罗来纳大学教堂山分校",
+    "abbreviation": "UNCCH",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chapel Hill, NC",
+    "latitude": 35.911769,
+    "longitude": -79.050969,
+    "rank": 26,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.unc.edu/",
+    "tuition": {
+      "amount": 41203,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 15.34,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 20752,
+    "wikidataId": "Q192334",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q192334",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-southern-california",
+    "nameEn": "University of Southern California",
+    "nameZh": "南加州大学",
+    "abbreviation": "USC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "latitude": 34.021281,
+    "longitude": -118.284169,
+    "rank": 28,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.usc.edu/",
+    "tuition": {
+      "amount": 72097,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 9.81,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 20443,
+    "wikidataId": "Q4614",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q4614",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-san-diego",
+    "nameEn": "University of California, San Diego",
+    "nameZh": "加州大学圣地亚哥分校",
+    "abbreviation": "UCSD",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "La Jolla, CA",
+    "latitude": 32.877749,
+    "longitude": -117.235866,
+    "rank": 29,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ucsd.edu/",
+    "tuition": {
+      "amount": 50958,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 26.71,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 34948,
+    "wikidataId": "Q622664",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q622664",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-florida",
+    "nameEn": "University of Florida",
+    "nameZh": "佛罗里达大学",
+    "abbreviation": "UF",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Gainesville, FL",
+    "latitude": 29.64629,
+    "longitude": -82.347911,
+    "rank": 30,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ufl.edu/",
+    "tuition": {
+      "amount": 28659,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 24.2,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 35629,
+    "wikidataId": "Q501758",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q501758",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-university-of-texas-at-austin",
+    "nameEn": "The University of Texas at Austin",
+    "nameZh": "德克萨斯大学奥斯汀分校",
+    "abbreviation": "UTA",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Austin, TX",
+    "latitude": 30.282825,
+    "longitude": -97.738273,
+    "rank": 30,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.utexas.edu/",
+    "tuition": {
+      "amount": 44908,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 26.64,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 42855,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "new-york-university",
+    "nameEn": "New York University",
+    "nameZh": "纽约大学",
+    "abbreviation": "NYU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "latitude": 40.729452,
+    "longitude": -73.997264,
+    "rank": 32,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.nyu.edu/",
+    "tuition": {
+      "amount": 62796,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 9.23,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 28663,
+    "wikidataId": "Q49210",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49210",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-davis",
+    "nameEn": "University of California, Davis",
+    "nameZh": "加州大学戴维斯分校",
+    "abbreviation": "UC Davis",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Davis, CA",
+    "latitude": 38.539667,
+    "longitude": -121.749567,
+    "rank": 32,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://ucdavis.edu/",
+    "tuition": {
+      "amount": 50974,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 41.83,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 32253,
+    "wikidataId": "Q129421",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q129421",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "georgia-institute-of-technology-main-campus",
+    "nameEn": "Georgia Institute of Technology-Main Campus",
+    "nameZh": "佐治亚理工学院",
+    "abbreviation": "GITC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Atlanta, GA",
+    "latitude": 33.77242,
+    "longitude": -84.394832,
+    "rank": 32,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.gatech.edu/",
+    "tuition": {
+      "amount": 34484,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 14.07,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 18785,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-irvine",
+    "nameEn": "University of California, Irvine",
+    "nameZh": "加州大学欧文分校",
+    "abbreviation": "UC Irvine",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Irvine, CA",
+    "latitude": 33.648434,
+    "longitude": -117.841248,
+    "rank": 32,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.uci.edu/",
+    "tuition": {
+      "amount": 49922,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 28.57,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 30197,
+    "wikidataId": "Q868421",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q868421",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-illinois-urbana-champaign",
+    "nameEn": "University of Illinois Urbana-Champaign",
+    "nameZh": "伊利诺伊大学厄巴纳-香槟分校",
+    "abbreviation": "UIUC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Champaign, IL",
+    "latitude": 40.104718,
+    "longitude": -88.229114,
+    "rank": 36,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.illinois.edu/",
+    "tuition": {
+      "amount": 35124,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 42.37,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 36258,
+    "wikidataId": "Q457281",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q457281",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "boston-college",
+    "nameEn": "Boston College",
+    "nameZh": "波士顿学院",
+    "abbreviation": "BC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chestnut Hill, MA",
+    "latitude": 42.336213,
+    "longitude": -71.169242,
+    "rank": 36,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.bc.edu/",
+    "tuition": {
+      "amount": 70702,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 16.43,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 10085,
+    "wikidataId": "Q49118",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49118",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "tufts-university",
+    "nameEn": "Tufts University",
+    "nameZh": "塔夫茨大学",
+    "abbreviation": "TU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Medford, MA",
+    "latitude": 42.40855,
+    "longitude": -71.118293,
+    "rank": 36,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.tufts.edu/",
+    "tuition": {
+      "amount": 70704,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 11.49,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7061,
+    "wikidataId": "Q49120",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49120",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-wisconsin-madison",
+    "nameEn": "University of Wisconsin-Madison",
+    "nameZh": "威斯康星大学麦迪逊分校",
+    "abbreviation": "UW",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Madison, WI",
+    "latitude": 43.075409,
+    "longitude": -89.404098,
+    "rank": 36,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.wisc.edu/",
+    "tuition": {
+      "amount": 42103,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 45.2,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 36902,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-santa-barbara",
+    "nameEn": "University of California, Santa Barbara",
+    "nameZh": "加州大学圣塔芭芭拉分校",
+    "abbreviation": "UCSB",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Santa Barbara, CA",
+    "latitude": 34.416297,
+    "longitude": -119.846426,
+    "rank": 40,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ucsb.edu/",
+    "tuition": {
+      "amount": 50614,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 32.97,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 23113,
+    "wikidataId": "Q263064",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q263064",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "ohio-state-university",
+    "nameEn": "Ohio State University",
+    "nameZh": "俄亥俄州立大学",
+    "abbreviation": "OSU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Columbus, OH",
+    "latitude": 39.999803,
+    "longitude": -83.007525,
+    "rank": 41,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.osu.edu/",
+    "tuition": {
+      "amount": 40022,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 60.57,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 45638,
+    "wikidataId": "Q309331",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q309331",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "boston-university",
+    "nameEn": "Boston University",
+    "nameZh": "波士顿大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "latitude": 42.351118,
+    "longitude": -71.107942,
+    "rank": 42,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.bu.edu/",
+    "tuition": {
+      "amount": 68102,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 11.11,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 18248,
+    "wikidataId": "Q49110",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49110",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "rutgers-university-new-brunswick",
+    "nameEn": "Rutgers University-New Brunswick",
+    "nameZh": "罗格斯大学新布朗斯维克分校",
+    "abbreviation": "RUB",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New Brunswick, NJ",
+    "latitude": 40.498769,
+    "longitude": -74.446251,
+    "rank": 42,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://newbrunswick.rutgers.edu/",
+    "tuition": {
+      "amount": 37441,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 58.15,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 37751,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-maryland-college-park",
+    "nameEn": "University of Maryland-College Park",
+    "nameZh": "马里兰大学帕克分校",
+    "abbreviation": "UMP",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "College Park, MD",
+    "latitude": 38.988178,
+    "longitude": -76.944721,
+    "rank": 42,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.umd.edu/",
+    "tuition": {
+      "amount": 41186,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 44.79,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 30760,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-washington",
+    "nameEn": "University of Washington",
+    "nameZh": "华盛顿大学",
+    "abbreviation": "UW",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Seattle, WA",
+    "latitude": 47.65538,
+    "longitude": -122.30514,
+    "rank": 42,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.washington.edu/",
+    "tuition": {
+      "amount": 43209,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 39.15,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 31942,
+    "wikidataId": "Q219563",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q219563",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "purdue-university",
+    "nameEn": "Purdue University",
+    "nameZh": "普渡大学",
+    "abbreviation": "PU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "West Lafayette, IN",
+    "latitude": 40.428206,
+    "longitude": -86.914435,
+    "rank": 42,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.purdue.edu/",
+    "tuition": {
+      "amount": 28794,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 49.87,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 44503,
+    "wikidataId": "Q217741",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q217741",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-rochester",
+    "nameEn": "University of Rochester",
+    "nameZh": "罗切斯特大学",
+    "abbreviation": "UR",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Rochester, NY",
+    "latitude": 43.126397,
+    "longitude": -77.631202,
+    "rank": 46,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.rochester.edu/",
+    "tuition": {
+      "amount": 67080,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 40.08,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6331,
+    "wikidataId": "Q149990",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q149990",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "lehigh-university",
+    "nameEn": "Lehigh University",
+    "nameZh": "里海大学",
+    "abbreviation": "LU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Bethlehem, PA",
+    "latitude": 40.606822,
+    "longitude": -75.380236,
+    "rank": 46,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.lehigh.edu/",
+    "tuition": {
+      "amount": 64980,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 25.93,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5898,
+    "wikidataId": "Q622137",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q622137",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "northeastern-university",
+    "nameEn": "Northeastern University",
+    "nameZh": "东北大学",
+    "abbreviation": "NU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Boston, MA",
+    "latitude": 42.339992,
+    "longitude": -71.088782,
+    "rank": 46,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.northeastern.edu/",
+    "tuition": {
+      "amount": 66162,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 5.22,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 17326,
+    "wikidataId": "Q37548",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q37548",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-georgia",
+    "nameEn": "University of Georgia",
+    "nameZh": "佐治亚大学",
+    "abbreviation": "UG",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Athens, GA",
+    "latitude": 33.956262,
+    "longitude": -83.374039,
+    "rank": 46,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.uga.edu/",
+    "tuition": {
+      "amount": 31688,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 37.7,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 32137,
+    "wikidataId": "Q761534",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q761534",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "texas-a-and-m-university",
+    "nameEn": "Texas A&M University",
+    "nameZh": "德州农工大学",
+    "abbreviation": "TAU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "College Station, TX",
+    "latitude": 30.618726,
+    "longitude": -96.336475,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.tamu.edu/",
+    "tuition": {
+      "amount": 40124,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 57.43,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 59615,
+    "wikidataId": "Q49212",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49212",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "virginia-tech",
+    "nameEn": "Virginia Tech",
+    "nameZh": "弗吉尼亚理工大学",
+    "abbreviation": "VT",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Blacksburg, VA",
+    "latitude": 37.229012,
+    "longitude": -80.423675,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.vt.edu/",
+    "tuition": {
+      "amount": 37764,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 54.78,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 30923,
+    "wikidataId": "Q65379",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q65379",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "wake-forest-university",
+    "nameEn": "Wake Forest University",
+    "nameZh": "威克森林大学",
+    "abbreviation": "WFU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Winston-Salem, NC",
+    "latitude": 36.133609,
+    "longitude": -80.277446,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.wfu.edu/",
+    "tuition": {
+      "amount": 67642,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 21.67,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5485,
+    "wikidataId": "Q392667",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q392667",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "william-and-mary",
+    "nameEn": "William & Mary",
+    "nameZh": "威廉与玛丽学院",
+    "abbreviation": "W&M",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Williamsburg, VA",
+    "latitude": 37.269489,
+    "longitude": -76.708214,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.wm.edu/",
+    "tuition": {
+      "amount": 51038,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 34.07,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7055,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "florida-state-university",
+    "nameEn": "Florida State University",
+    "nameZh": "佛罗里达州立大学",
+    "abbreviation": "FSU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Tallahassee, FL",
+    "latitude": 30.443147,
+    "longitude": -84.295064,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.fsu.edu/",
+    "tuition": {
+      "amount": 18786,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 24.22,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 32212,
+    "wikidataId": "Q861548",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q861548",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "case-western-reserve-university",
+    "nameEn": "Case Western Reserve University",
+    "nameZh": "凯斯西储大学",
+    "abbreviation": "CWRU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Cleveland, OH",
+    "latitude": 41.507419,
+    "longitude": -81.609596,
+    "rank": 51,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.case.edu/",
+    "tuition": {
+      "amount": 66608,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 36.54,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6437,
+    "wikidataId": "Q1047060",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1047060",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-merced",
+    "nameEn": "University of California, Merced",
+    "nameZh": "加州大学默塞德分校",
+    "abbreviation": "UC Merced",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Merced, CA",
+    "latitude": 37.366237,
+    "longitude": -120.424944,
+    "rank": 57,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://ucmerced.edu/",
+    "tuition": {
+      "amount": 49823,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 90.53,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 8372,
+    "wikidataId": "Q1728622",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1728622",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "villanova-university",
+    "nameEn": "Villanova University",
+    "nameZh": "维拉诺瓦大学",
+    "abbreviation": "VU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Villanova, PA",
+    "latitude": 40.036463,
+    "longitude": -75.340502,
+    "rank": 57,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.villanova.edu/",
+    "tuition": {
+      "amount": 67776,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 26.98,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6938,
+    "wikidataId": "Q1466001",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1466001",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "santa-clara-university",
+    "nameEn": "Santa Clara University",
+    "nameZh": "圣克拉拉大学",
+    "abbreviation": "SCU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Santa Clara, CA",
+    "latitude": 37.348362,
+    "longitude": -121.93784,
+    "rank": 59,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.scu.edu/",
+    "tuition": {
+      "amount": 61293,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 48,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6552,
+    "wikidataId": "Q992830",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q992830",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "pennsylvania-state-university",
+    "nameEn": "Pennsylvania State University",
+    "nameZh": "宾夕法尼亚州立大学",
+    "abbreviation": "Penn State",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "University Park, PA",
+    "latitude": 40.7965,
+    "longitude": -77.862848,
+    "rank": 59,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.psu.edu/",
+    "tuition": {
+      "amount": 41790,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 60.56,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 42284,
+    "wikidataId": "Q739627",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q739627",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "george-washington-university",
+    "nameEn": "George Washington University",
+    "nameZh": "乔治华盛顿大学",
+    "abbreviation": "GWU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Washington, DC",
+    "latitude": 38.89923,
+    "longitude": -77.048363,
+    "rank": 59,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.gwu.edu/",
+    "tuition": {
+      "amount": 67710,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 47.09,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 11182,
+    "wikidataId": "Q432637",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q432637",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "stony-brook-university",
+    "nameEn": "Stony Brook University",
+    "nameZh": "石溪大学",
+    "abbreviation": "SBU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Stony Brook, NY",
+    "latitude": 40.91476,
+    "longitude": -73.12046,
+    "rank": 59,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.stonybrook.edu/",
+    "tuition": {
+      "amount": 32741,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 49.04,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 18101,
+    "wikidataId": "Q969850",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q969850",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-minnesota-twin-cities",
+    "nameEn": "University of Minnesota-Twin Cities",
+    "nameZh": "明尼苏达大学双城分校",
+    "abbreviation": "UMC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Minneapolis, MN",
+    "latitude": 44.972851,
+    "longitude": -93.235464,
+    "rank": 59,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://twin-cities.umn.edu/",
+    "tuition": {
+      "amount": 38362,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 79.75,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 31855,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "michigan-state-university",
+    "nameEn": "Michigan State University",
+    "nameZh": "密歇根州立大学",
+    "abbreviation": "MSU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "East Lansing, MI",
+    "latitude": 42.73212,
+    "longitude": -84.476111,
+    "rank": 64,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.msu.edu/",
+    "tuition": {
+      "amount": 43842,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 84.8,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 40922,
+    "wikidataId": "Q270222",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q270222",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "north-carolina-state-university-at-raleigh",
+    "nameEn": "North Carolina State University at Raleigh",
+    "nameZh": "北卡罗来纳州立大学",
+    "abbreviation": "NCSUR",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Raleigh, NC",
+    "latitude": 35.785111,
+    "longitude": -78.674517,
+    "rank": 64,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ncsu.edu/",
+    "tuition": {
+      "amount": 32847,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 41.74,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 27371,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "rensselaer-polytechnic-institute",
+    "nameEn": "Rensselaer Polytechnic Institute",
+    "nameZh": "伦斯勒理工学院",
+    "abbreviation": "RPI",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Troy, NY",
+    "latitude": 42.729978,
+    "longitude": -73.676646,
+    "rank": 64,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.rpi.edu/",
+    "tuition": {
+      "amount": 64081,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 63.47,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5714,
+    "wikidataId": "Q49211",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49211",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-massachusetts-amherst",
+    "nameEn": "University of Massachusetts Amherst",
+    "nameZh": "马萨诸塞大学阿默斯特分校",
+    "abbreviation": "UMass Amherst",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Amherst, MA",
+    "latitude": 42.385999,
+    "longitude": -72.526728,
+    "rank": 64,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.umass.edu/",
+    "tuition": {
+      "amount": 40449,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 59.73,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 23671,
+    "wikidataId": "Q15142",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q15142",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-miami",
+    "nameEn": "University of Miami",
+    "nameZh": "迈阿密大学",
+    "abbreviation": "UM",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Coral Gables, FL",
+    "latitude": 25.72126,
+    "longitude": -80.278662,
+    "rank": 64,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.miami.edu/",
+    "tuition": {
+      "amount": 62616,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 18.9,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 12913,
+    "wikidataId": "Q738258",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q738258",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "brandeis-university",
+    "nameEn": "Brandeis University",
+    "nameZh": "布兰迪斯大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Waltham, MA",
+    "latitude": 42.365727,
+    "longitude": -71.260155,
+    "rank": 69,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.brandeis.edu/",
+    "tuition": {
+      "amount": 68080,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 40.5,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3618,
+    "wikidataId": "Q49119",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49119",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "tulane-university-of-louisiana",
+    "nameEn": "Tulane University of Louisiana",
+    "nameZh": "杜兰大学",
+    "abbreviation": "TUL",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New Orleans, LA",
+    "latitude": 29.940069,
+    "longitude": -90.122144,
+    "rank": 69,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://tulane.edu/",
+    "tuition": {
+      "amount": 68678,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.98,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7767,
+    "wikidataId": "Q1193547",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1193547",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-pittsburgh",
+    "nameEn": "University of Pittsburgh",
+    "nameZh": "匹兹堡大学",
+    "abbreviation": "UP",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Pittsburgh, PA",
+    "latitude": 40.444388,
+    "longitude": -79.953254,
+    "rank": 69,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.pitt.edu/",
+    "tuition": {
+      "amount": 41430,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 58.08,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 20370,
+    "wikidataId": "Q235034",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q235034",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-connecticut",
+    "nameEn": "University of Connecticut",
+    "nameZh": "康涅狄格大学",
+    "abbreviation": "UC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Storrs, CT",
+    "latitude": 41.809098,
+    "longitude": -72.249948,
+    "rank": 69,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://uconn.edu/",
+    "tuition": {
+      "amount": 43712,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 52.39,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 19835,
+    "wikidataId": "Q49206",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49206",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "binghamton-university",
+    "nameEn": "Binghamton University",
+    "nameZh": "宾汉顿大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Vestal, NY",
+    "latitude": 42.087868,
+    "longitude": -75.966889,
+    "rank": 73,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.binghamton.edu/",
+    "tuition": {
+      "amount": 30447,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 38.61,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 14655,
+    "wikidataId": "Q863813",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q863813",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "indiana-university-bloomington",
+    "nameEn": "Indiana University-Bloomington",
+    "nameZh": "印第安纳大学伯明顿分校",
+    "abbreviation": "IU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Bloomington, IN",
+    "latitude": 39.16609,
+    "longitude": -86.526559,
+    "rank": 73,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://bloomington.iu.edu/",
+    "tuition": {
+      "amount": 41891,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 78.21,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 37806,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "syracuse-university",
+    "nameEn": "Syracuse University",
+    "nameZh": "雪城大学",
+    "abbreviation": "SU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Syracuse, NY",
+    "latitude": 43.036644,
+    "longitude": -76.133989,
+    "rank": 75,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.syracuse.edu/",
+    "tuition": {
+      "amount": 65528,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 45.92,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 15477,
+    "wikidataId": "Q617433",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q617433",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "clemson-university",
+    "nameEn": "Clemson University",
+    "nameZh": "克莱门森大学",
+    "abbreviation": "CU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Clemson, SC",
+    "latitude": 34.679381,
+    "longitude": -82.835114,
+    "rank": 75,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.clemson.edu/",
+    "tuition": {
+      "amount": 40866,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 38.34,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 23300,
+    "wikidataId": "Q631066",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q631066",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-at-buffalo",
+    "nameEn": "University at Buffalo",
+    "nameZh": "布法罗大学",
+    "abbreviation": "UB",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Buffalo, NY",
+    "latitude": 43.000942,
+    "longitude": -78.789458,
+    "rank": 75,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.buffalo.edu/",
+    "tuition": {
+      "amount": 31536,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 74.18,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 20112,
+    "wikidataId": "Q681025",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q681025",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-riverside",
+    "nameEn": "University of California, Riverside",
+    "nameZh": "加州大学河滨分校",
+    "abbreviation": "UC Riverside",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Riverside, CA",
+    "latitude": 33.97246,
+    "longitude": -117.32741,
+    "rank": 75,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ucr.edu/",
+    "tuition": {
+      "amount": 49806,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 76.39,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 22593,
+    "wikidataId": "Q1075148",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1075148",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "rutgers-university-newark",
+    "nameEn": "Rutgers University-Newark",
+    "nameZh": "罗格斯大学纽瓦克分校",
+    "abbreviation": "RU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Newark, NJ",
+    "latitude": 40.739122,
+    "longitude": -74.175809,
+    "rank": 75,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.newark.rutgers.edu/",
+    "tuition": {
+      "amount": 36762,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 71.36,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7709,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "stevens-institute-of-technology",
+    "nameEn": "Stevens Institute of Technology",
+    "nameZh": "斯蒂文斯理工学院",
+    "abbreviation": "SIT",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Hoboken, NJ",
+    "latitude": 40.744776,
+    "longitude": -74.025334,
+    "rank": 80,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.stevens.edu/",
+    "tuition": {
+      "amount": 63462,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 47.58,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 4222,
+    "wikidataId": "Q657222",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q657222",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "colorado-school-of-mines",
+    "nameEn": "Colorado School of Mines",
+    "nameZh": "科罗拉多矿业学院",
+    "abbreviation": "CSM",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Golden, CO",
+    "latitude": 39.751443,
+    "longitude": -105.223364,
+    "rank": 80,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.mines.edu/",
+    "tuition": {
+      "amount": 45824,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 60.69,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 6155,
+    "wikidataId": "Q1111367",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1111367",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "new-jersey-institute-of-technology",
+    "nameEn": "New Jersey Institute of Technology",
+    "nameZh": "新泽西理工学院",
+    "abbreviation": "NJIT",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Newark, NJ",
+    "latitude": 40.741997,
+    "longitude": -74.177113,
+    "rank": 80,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.njit.edu/",
+    "tuition": {
+      "amount": 37664,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 65.07,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 9019,
+    "wikidataId": "Q3272013",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3272013",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "drexel-university",
+    "nameEn": "Drexel University",
+    "nameZh": "德雷塞尔大学",
+    "abbreviation": "DU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Philadelphia, PA",
+    "latitude": 39.955217,
+    "longitude": -75.190051,
+    "rank": 80,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://drexel.edu/",
+    "tuition": {
+      "amount": 62412,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 79.44,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 13233,
+    "wikidataId": "Q603034",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q603034",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "pepperdine-university",
+    "nameEn": "Pepperdine University",
+    "nameZh": "佩珀代因大学",
+    "abbreviation": "PU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Malibu, CA",
+    "latitude": 34.037786,
+    "longitude": -118.707077,
+    "rank": 84,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.pepperdine.edu/",
+    "tuition": {
+      "amount": 69918,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 62.86,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3553,
+    "wikidataId": "Q117876",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q117876",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-illinois-chicago",
+    "nameEn": "University of Illinois Chicago",
+    "nameZh": "伊利诺伊大学芝加哥分校",
+    "abbreviation": "UIC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Chicago, IL",
+    "latitude": 41.871837,
+    "longitude": -87.650503,
+    "rank": 84,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.uic.edu/",
+    "tuition": {
+      "amount": 29884,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 77.35,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 22170,
+    "wikidataId": "Q955764",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q955764",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "worcester-polytechnic-institute",
+    "nameEn": "Worcester Polytechnic Institute",
+    "nameZh": "伍斯特理工学院",
+    "abbreviation": "WPI",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Worcester, MA",
+    "latitude": 42.274853,
+    "longitude": -71.808339,
+    "rank": 84,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.wpi.edu/",
+    "tuition": {
+      "amount": 60965,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 60.16,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 5447,
+    "wikidataId": "Q195046",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q195046",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "yeshiva-university",
+    "nameEn": "Yeshiva University",
+    "nameZh": "叶史瓦大学",
+    "abbreviation": "YU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "latitude": 40.850605,
+    "longitude": -73.929873,
+    "rank": 84,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.yu.edu/",
+    "tuition": {
+      "amount": 51800,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 55.62,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2852,
+    "wikidataId": "Q1048851",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1048851",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "baylor-university",
+    "nameEn": "Baylor University",
+    "nameZh": "贝勒大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Waco, TX",
+    "latitude": 31.546872,
+    "longitude": -97.121041,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.baylor.edu/",
+    "tuition": {
+      "amount": 58100,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 51.28,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 14785,
+    "wikidataId": "Q812573",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q812573",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "american-university",
+    "nameEn": "American University",
+    "nameZh": "美利坚大学",
+    "abbreviation": "AU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Washington, DC",
+    "latitude": 38.936005,
+    "longitude": -77.088875,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.american.edu/",
+    "tuition": {
+      "amount": 58771,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 61.96,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7266,
+    "wikidataId": "Q168000",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q168000",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "howard-university",
+    "nameEn": "Howard University",
+    "nameZh": "霍华德大学",
+    "abbreviation": "HU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Washington, DC",
+    "latitude": 38.922392,
+    "longitude": -77.018966,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.howard.edu/",
+    "tuition": {
+      "amount": 35810,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 41.34,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 10108,
+    "wikidataId": "Q1068752",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1068752",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "southern-methodist-university",
+    "nameEn": "Southern Methodist University",
+    "nameZh": "南卫理公会大学",
+    "abbreviation": "SMU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Dallas, TX",
+    "latitude": 32.843612,
+    "longitude": -96.783365,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.smu.edu/",
+    "tuition": {
+      "amount": 67040,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 63.35,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7277,
+    "wikidataId": "Q1536258",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1536258",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-south-florida",
+    "nameEn": "University of South Florida",
+    "nameZh": "南佛罗里达大学",
+    "abbreviation": "USF",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Tampa, FL",
+    "latitude": 28.061458,
+    "longitude": -82.413232,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.usf.edu/",
+    "tuition": {
+      "amount": 17324,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 43.19,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 37207,
+    "wikidataId": "Q500606",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q500606",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "marquette-university",
+    "nameEn": "Marquette University",
+    "nameZh": "马凯特大学",
+    "abbreviation": "MU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Milwaukee, WI",
+    "latitude": 43.03903,
+    "longitude": -87.927961,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.marquette.edu/",
+    "tuition": {
+      "amount": 51170,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 81.34,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 7660,
+    "wikidataId": "Q188370",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q188370",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-delaware",
+    "nameEn": "University of Delaware",
+    "nameZh": "特拉华大学",
+    "abbreviation": "UD",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Newark, DE",
+    "latitude": 39.679577,
+    "longitude": -75.752822,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.udel.edu/",
+    "tuition": {
+      "amount": 41400,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 70.6,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 19071,
+    "wikidataId": "Q1068072",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1068072",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-california-santa-cruz",
+    "nameEn": "University of California, Santa Cruz",
+    "nameZh": "加州大学圣克鲁兹分校",
+    "abbreviation": "UCSC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Santa Cruz, CA",
+    "latitude": 36.995584,
+    "longitude": -122.058801,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.ucsc.edu/",
+    "tuition": {
+      "amount": 50205,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 65.79,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 17940,
+    "wikidataId": "Q1047293",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1047293",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "rochester-institute-of-technology",
+    "nameEn": "Rochester Institute of Technology",
+    "nameZh": "罗切斯特理工学院",
+    "abbreviation": "RIT",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Rochester, NY",
+    "latitude": 43.084188,
+    "longitude": -77.67386,
+    "rank": 88,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.rit.edu/",
+    "tuition": {
+      "amount": 59274,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 66.93,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 13215,
+    "wikidataId": "Q2140778",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2140778",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "fordham-university",
+    "nameEn": "Fordham University",
+    "nameZh": "福特汉姆大学",
+    "abbreviation": "FU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Bronx, NY",
+    "latitude": 40.859354,
+    "longitude": -73.882705,
+    "rank": 97,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.fordham.edu/",
+    "tuition": {
+      "amount": 64915,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 59.31,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 10512,
+    "wikidataId": "Q130965",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q130965",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "rutgers-university-camden",
+    "nameEn": "Rutgers University-Camden",
+    "nameZh": "罗格斯大学卡姆登分校",
+    "abbreviation": "RU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Camden, NJ",
+    "latitude": 39.948064,
+    "longitude": -75.12224,
+    "rank": 97,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://camden.rutgers.edu/",
+    "tuition": {
+      "amount": 37276,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 66.29,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3753,
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "university-of-colorado-boulder",
+    "nameEn": "University of Colorado Boulder",
+    "nameZh": "科罗拉多大学博尔德分校",
+    "abbreviation": "UCB",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Boulder, CO",
+    "latitude": 40.008781,
+    "longitude": -105.270823,
+    "rank": 97,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.colorado.edu/",
+    "tuition": {
+      "amount": 44918,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 78.08,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 31939,
+    "wikidataId": "Q736674",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q736674",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "texas-christian-university",
+    "nameEn": "Texas Christian University",
+    "nameZh": "德克萨斯基督教大学",
+    "abbreviation": "TCU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Fort Worth, TX",
+    "latitude": 32.70961,
+    "longitude": -97.364758,
+    "rank": 97,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.tcu.edu/",
+    "tuition": {
+      "amount": 61740,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 44.49,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 11026,
+    "wikidataId": "Q2302280",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2302280",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "temple-university",
+    "nameEn": "Temple University",
+    "nameZh": "天普大学",
+    "abbreviation": "TU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Philadelphia, PA",
+    "latitude": 39.980546,
+    "longitude": -75.156859,
+    "rank": 102,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://www.temple.edu/",
+    "tuition": {
+      "amount": 38958,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 80.41,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 20970,
+    "wikidataId": "Q1420239",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1420239",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-iowa",
+    "nameEn": "University of Iowa",
+    "nameZh": "爱荷华大学",
+    "abbreviation": "UI",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Iowa City, IA",
+    "latitude": 41.661935,
+    "longitude": -91.536425,
+    "rank": 102,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "website": "https://uiowa.edu/",
+    "tuition": {
+      "amount": 33371,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 83.62,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 22264,
+    "wikidataId": "Q182973",
+    "sources": [
+      {
+        "label": "2026 U.S. News 排名地图",
+        "url": "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q182973",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "australian-national-university",
+    "nameEn": "Australian National University",
+    "nameZh": "澳大利亚国立大学",
+    "abbreviation": "ANU",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Canberra",
+    "latitude": -35.2778,
+    "longitude": 149.1205,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.anu.edu.au/",
+    "wikidataId": "Q127990",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q127990",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-university-of-melbourne",
+    "nameEn": "The University of Melbourne",
+    "nameZh": "墨尔本大学",
+    "abbreviation": "UniMelb",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "latitude": -37.7963,
+    "longitude": 144.9614,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.unimelb.edu.au/",
+    "sources": []
+  },
+  {
+    "id": "the-university-of-sydney",
+    "nameEn": "The University of Sydney",
+    "nameZh": "悉尼大学",
+    "abbreviation": "USYD",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "latitude": -33.8886,
+    "longitude": 151.1873,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.sydney.edu.au/",
+    "sources": []
+  },
+  {
+    "id": "university-of-new-south-wales",
+    "nameEn": "University of New South Wales",
+    "nameZh": "新南威尔士大学",
+    "abbreviation": "UNSW",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "latitude": -33.916921,
+    "longitude": 151.232514,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.unsw.edu.au/",
+    "wikidataId": "Q734764",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q734764",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-university-of-queensland",
+    "nameEn": "The University of Queensland",
+    "nameZh": "昆士兰大学",
+    "abbreviation": "UQ",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "latitude": -27.4975,
+    "longitude": 153.0137,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uq.edu.au/",
+    "sources": []
+  },
+  {
+    "id": "monash-university",
+    "nameEn": "Monash University",
+    "nameZh": "莫纳什大学",
+    "abbreviation": "MU",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Melbourne",
+    "latitude": -37.908333333333,
+    "longitude": 145.13805555556,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.monash.edu/",
+    "wikidataId": "Q598841",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q598841",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-university-of-western-australia",
+    "nameEn": "The University of Western Australia",
+    "nameZh": "西澳大学",
+    "abbreviation": "UWA",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Perth",
+    "latitude": -31.9805,
+    "longitude": 115.8176,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uwa.edu.au/",
+    "sources": []
+  },
+  {
+    "id": "the-university-of-adelaide",
+    "nameEn": "The University of Adelaide",
+    "nameZh": "阿德莱德大学",
+    "abbreviation": "Adelaide",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Adelaide",
+    "latitude": -34.9205,
+    "longitude": 138.6062,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.adelaide.edu.au/",
+    "sources": []
+  },
+  {
+    "id": "national-university-of-singapore",
+    "nameEn": "National University of Singapore",
+    "nameZh": "新加坡国立大学",
+    "abbreviation": "NUS",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.2955555555556,
+    "longitude": 103.77666666667,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://nus.edu.sg",
+    "wikidataId": "Q738236",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q738236",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "nanyang-technological-university",
+    "nameEn": "Nanyang Technological University",
+    "nameZh": "南洋理工大学",
+    "abbreviation": "NTU",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.3447222222222,
+    "longitude": 103.68138888889,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://ntu.edu.sg",
+    "wikidataId": "Q721064",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q721064",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "singapore-management-university",
+    "nameEn": "Singapore Management University",
+    "nameZh": "新加坡管理大学",
+    "abbreviation": "SMU",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.2966666666667,
+    "longitude": 103.84972222222,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.smu.edu.sg",
+    "wikidataId": "Q950609",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q950609",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "singapore-university-of-technology-and-design",
+    "nameEn": "Singapore University of Technology and Design",
+    "nameZh": "新加坡科技设计大学",
+    "abbreviation": "SUTD",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.3401027777777779,
+    "longitude": 103.96295555555555,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.sutd.edu.sg/",
+    "wikidataId": "Q11081251",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q11081251",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "singapore-institute-of-technology",
+    "nameEn": "Singapore Institute of Technology",
+    "nameZh": "新加坡理工大学",
+    "abbreviation": "SIT",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.29028,
+    "longitude": 103.849,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://singaporetech.edu.sg",
+    "wikidataId": "Q7523022",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7523022",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "singapore-university-of-social-sciences",
+    "nameEn": "Singapore University of Social Sciences",
+    "nameZh": "新加坡社科大学",
+    "abbreviation": "SUSS",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "latitude": 1.32917,
+    "longitude": 103.776,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.suss.edu.sg",
+    "wikidataId": "Q494179",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q494179",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-university-of-hong-kong",
+    "nameEn": "The University of Hong Kong",
+    "nameZh": "香港大学",
+    "abbreviation": "HKU",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.283,
+    "longitude": 114.1371,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.hku.hk/",
+    "sources": []
+  },
+  {
+    "id": "the-chinese-university-of-hong-kong",
+    "nameEn": "The Chinese University of Hong Kong",
+    "nameZh": "香港中文大学",
+    "abbreviation": "CUHK",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.4196,
+    "longitude": 114.2068,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.cuhk.edu.hk/",
+    "sources": []
+  },
+  {
+    "id": "the-hong-kong-university-of-science-and-technology",
+    "nameEn": "The Hong Kong University of Science and Technology",
+    "nameZh": "香港科技大学",
+    "abbreviation": "HKUST",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.3364,
+    "longitude": 114.2654,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://hkust.edu.hk/",
+    "sources": []
+  },
+  {
+    "id": "city-university-of-hong-kong",
+    "nameEn": "City University of Hong Kong",
+    "nameZh": "香港城市大学",
+    "abbreviation": "CityUHK",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.336422222222,
+    "longitude": 114.17298888889,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://cityu.edu.hk",
+    "wikidataId": "Q787360",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q787360",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-hong-kong-polytechnic-university",
+    "nameEn": "The Hong Kong Polytechnic University",
+    "nameZh": "香港理工大学",
+    "abbreviation": "PolyU",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.304,
+    "longitude": 114.1795,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.polyu.edu.hk/",
+    "sources": []
+  },
+  {
+    "id": "hong-kong-baptist-university",
+    "nameEn": "Hong Kong Baptist University",
+    "nameZh": "香港浸会大学",
+    "abbreviation": "HKBU",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.338888888889,
+    "longitude": 114.18166666667,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.hkbu.edu.hk/",
+    "wikidataId": "Q603686",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q603686",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "lingnan-university",
+    "nameEn": "Lingnan University",
+    "nameZh": "岭南大学",
+    "abbreviation": "LU",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.41,
+    "longitude": 113.983,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.ln.edu.hk/",
+    "wikidataId": "Q1541161",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1541161",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "the-education-university-of-hong-kong",
+    "nameEn": "The Education University of Hong Kong",
+    "nameZh": "香港教育大学",
+    "abbreviation": "EdUHK",
+    "country": "Hong Kong SAR",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "latitude": 22.4673,
+    "longitude": 114.1949,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.eduhk.hk/",
+    "sources": []
+  },
+  {
+    "id": "mcgill-university",
+    "nameEn": "McGill University",
+    "nameZh": "麦吉尔大学",
+    "abbreviation": "MU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "latitude": 45.505,
+    "longitude": -73.5775,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.mcgill.ca/",
+    "wikidataId": "Q201492",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q201492",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-toronto",
+    "nameEn": "University of Toronto",
+    "nameZh": "多伦多大学",
+    "abbreviation": "UT",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "latitude": 43.662917,
+    "longitude": -79.395746,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.utoronto.ca/",
+    "wikidataId": "Q180865",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q180865",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-british-columbia",
+    "nameEn": "University of British Columbia",
+    "nameZh": "英属哥伦比亚大学",
+    "abbreviation": "UBC",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Vancouver",
+    "latitude": 49.264722222222225,
+    "longitude": -123.25277777777778,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.ubc.ca/",
+    "wikidataId": "Q391028",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q391028",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-alberta",
+    "nameEn": "University of Alberta",
+    "nameZh": "阿尔伯塔大学",
+    "abbreviation": "UA",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Edmonton",
+    "latitude": 53.524444444444,
+    "longitude": -113.52444444444,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.ualberta.ca",
+    "wikidataId": "Q640694",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q640694",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-waterloo",
+    "nameEn": "University of Waterloo",
+    "nameZh": "滑铁卢大学",
+    "abbreviation": "UW",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Waterloo",
+    "latitude": 43.468888888889,
+    "longitude": -80.54,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://uwaterloo.ca",
+    "wikidataId": "Q1049470",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1049470",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-western-ontario",
+    "nameEn": "University of Western Ontario",
+    "nameZh": "西安大略大学",
+    "abbreviation": "UWO",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "London",
+    "latitude": 43.009643504913065,
+    "longitude": -81.27377651628304,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.uwo.ca",
+    "wikidataId": "Q1144262",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1144262",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "universite-de-montreal",
+    "nameEn": "Université de Montréal",
+    "nameZh": "蒙特利尔大学",
+    "abbreviation": "UDM",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "latitude": 45.50414,
+    "longitude": -73.61433,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.umontreal.ca/",
+    "wikidataId": "Q392189",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q392189",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "mcmaster-university",
+    "nameEn": "McMaster University",
+    "nameZh": "麦克马斯特大学",
+    "abbreviation": "MU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Hamilton",
+    "latitude": 43.263333333333335,
+    "longitude": -79.91888888888889,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.mcmaster.ca/",
+    "wikidataId": "Q632891",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q632891",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-ottawa",
+    "nameEn": "University of Ottawa",
+    "nameZh": "渥太华大学",
+    "abbreviation": "UO",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Ottawa",
+    "latitude": 45.4222,
+    "longitude": -75.6824,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uottawa.ca/en",
+    "wikidataId": "Q627969",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q627969",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "queen-s-university",
+    "nameEn": "Queen's University",
+    "nameZh": "女王大学",
+    "abbreviation": "QU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Kingston",
+    "latitude": 44.2253,
+    "longitude": -76.4951,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.queensu.ca/",
+    "wikidataId": "Q422402",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q422402",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-calgary",
+    "nameEn": "University of Calgary",
+    "nameZh": "卡尔加里大学",
+    "abbreviation": "UC",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Calgary",
+    "latitude": 51.0775,
+    "longitude": -114.13305555556,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "http://www.ucalgary.ca/",
+    "wikidataId": "Q1067471",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1067471",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "dalhousie-university",
+    "nameEn": "Dalhousie University",
+    "nameZh": "达尔豪斯大学",
+    "abbreviation": "DU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Halifax",
+    "latitude": 44.636944444444,
+    "longitude": -63.591666666667,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.dal.ca/",
+    "wikidataId": "Q579321",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q579321",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "simon-fraser-university",
+    "nameEn": "Simon Fraser University",
+    "nameZh": "西蒙菲莎大学",
+    "abbreviation": "SFU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Burnaby",
+    "latitude": 49.278175782049374,
+    "longitude": -122.91939382818825,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.sfu.ca/",
+    "wikidataId": "Q201603",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q201603",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-victoria",
+    "nameEn": "University of Victoria",
+    "nameZh": "维多利亚大学",
+    "abbreviation": "UV",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Victoria",
+    "latitude": 48.46333333333333,
+    "longitude": -123.31166666666667,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uvic.ca/",
+    "wikidataId": "Q1458113",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1458113",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "laval-university",
+    "nameEn": "Laval University",
+    "nameZh": "拉瓦尔大学",
+    "abbreviation": "LU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Quebec City",
+    "latitude": 46.78,
+    "longitude": -71.274722222222,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.ulaval.ca/",
+    "wikidataId": "Q1067935",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1067935",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-saskatchewan",
+    "nameEn": "University of Saskatchewan",
+    "nameZh": "萨斯喀彻温大学",
+    "abbreviation": "US",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Saskatoon",
+    "latitude": 52.129825,
+    "longitude": -106.6328,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.usask.ca/",
+    "wikidataId": "Q1514848",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1514848",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "york-university",
+    "nameEn": "York University",
+    "nameZh": "约克大学",
+    "abbreviation": "YU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Toronto",
+    "latitude": 43.773055555556,
+    "longitude": -79.503611111111,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.yorku.ca/",
+    "wikidataId": "Q849751",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q849751",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "concordia-university",
+    "nameEn": "Concordia University",
+    "nameZh": "康考迪亚大学",
+    "abbreviation": "CU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "latitude": 45.496944444444445,
+    "longitude": -73.57805555555555,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.concordia.ca/",
+    "wikidataId": "Q326342",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q326342",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-guelph",
+    "nameEn": "University of Guelph",
+    "nameZh": "圭尔夫大学",
+    "abbreviation": "UG",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Guelph",
+    "latitude": 43.53333333333333,
+    "longitude": -80.22361111111111,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uoguelph.ca/",
+    "wikidataId": "Q795988",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q795988",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "university-of-windsor",
+    "nameEn": "University of Windsor",
+    "nameZh": "温莎大学",
+    "abbreviation": "UW",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Windsor",
+    "latitude": 42.306666666667,
+    "longitude": -83.065833333333,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "website": "https://www.uwindsor.ca/",
+    "wikidataId": "Q2065769",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2065769",
+        "year": 2026
+      }
+    ]
+  }
+]

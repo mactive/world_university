@@ -1,22 +1,25 @@
 import { ArrowRight, Globe2, LocateFixed, Map, Search, Settings2, SlidersHorizontal } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { RegionCode, University } from "../types";
+import { canonicalUniversityId, type UniversityAliasMap } from "../data/universityAliases";
 import { REGION_LABELS } from "../types";
 import { UniversityDetail } from "./UniversityDetail";
 import { UniversityMap } from "./UniversityMap";
 
 interface Props {
   universities: University[];
+  aliases: UniversityAliasMap;
   loading: boolean;
 }
 
 const regions = Object.entries(REGION_LABELS) as [RegionCode, string][];
 
-export function PublicSite({ universities, loading }: Props) {
+export function PublicSite({ universities, aliases, loading }: Props) {
   const [query, setQuery] = useState("");
   const [region, setRegion] = useState<RegionCode | "ALL">("ALL");
   const [selected, setSelected] = useState<University>();
   const [listOpen, setListOpen] = useState(true);
+  const [notFoundId, setNotFoundId] = useState<string>();
 
   const filtered = useMemo(() => {
     const keyword = query.trim().toLowerCase();
@@ -29,18 +32,63 @@ export function PublicSite({ universities, loading }: Props) {
           university.nameEn.toLowerCase().includes(keyword) ||
           university.abbreviation.toLowerCase().includes(keyword) ||
           university.city.toLowerCase().includes(keyword) ||
+          university.tags.some((tag) => tag.includes(keyword)) ||
           university.strengths.some((item) => item.toLowerCase().includes(keyword)),
       )
       .sort((a, b) => (a.qsRank ?? 999) - (b.qsRank ?? 999));
   }, [universities, query, region]);
 
-  function selectUniversity(university: University) {
+  useEffect(() => {
+    const syncFromUrl = () => {
+      const id = universityIdFromPath(window.location.pathname);
+      if (!id) {
+        setSelected(undefined);
+        setNotFoundId(undefined);
+        return;
+      }
+      const canonicalId = canonicalUniversityId(id, aliases);
+      const university = universities.find((item) => item.id === canonicalId);
+      setSelected(university);
+      setNotFoundId(university ? undefined : id);
+      if (university) {
+        setRegion("ALL");
+        setQuery("");
+        if (id !== canonicalId) {
+          window.history.replaceState(null, "", `/univ/${encodeURIComponent(canonicalId)}`);
+        }
+      }
+    };
+
+    syncFromUrl();
+    window.addEventListener("popstate", syncFromUrl);
+    return () => window.removeEventListener("popstate", syncFromUrl);
+  }, [aliases, universities]);
+
+  function selectUniversity(university: University, replace = false) {
     setSelected(university);
+    setNotFoundId(undefined);
+    const url = `/univ/${encodeURIComponent(university.id)}`;
+    if (window.location.pathname !== url) {
+      const method = replace ? "replaceState" : "pushState";
+      window.history[method](null, "", url);
+    }
+  }
+
+  function closeUniversity() {
+    setSelected(undefined);
+    setNotFoundId(undefined);
+    if (window.location.pathname.startsWith("/univ/")) {
+      window.history.pushState(null, "", "/");
+    }
   }
 
   return (
     <main className="site-shell">
-      <UniversityMap universities={filtered} selected={selected} onSelect={selectUniversity} />
+      <UniversityMap
+        universities={filtered}
+        selected={selected}
+        onSelect={(university) => selectUniversity(university)}
+      />
       <div className="map-wash" />
 
       <header className="topbar">
@@ -124,7 +172,9 @@ export function PublicSite({ universities, loading }: Props) {
                   <small>
                     {university.abbreviation} · {university.city}
                   </small>
-                  <span>{university.strengths.slice(0, 3).join(" · ")}</span>
+                  <span>
+                    {[...university.tags, ...university.strengths].slice(0, 3).join(" · ")}
+                  </span>
                 </span>
                 <ArrowRight size={17} />
               </button>
@@ -146,7 +196,18 @@ export function PublicSite({ universities, loading }: Props) {
         <small>数据将持续扩展至 Top 500</small>
       </div>
 
-      {selected && <UniversityDetail university={selected} onClose={() => setSelected(undefined)} />}
+      {notFoundId && !loading && (
+        <div className="route-toast">
+          没找到学校 ID：<strong>{notFoundId}</strong>
+        </div>
+      )}
+
+      {selected && <UniversityDetail university={selected} onClose={closeUniversity} />}
     </main>
   );
+}
+
+function universityIdFromPath(pathname: string) {
+  const match = pathname.match(/^\/univ\/([^/]+)\/?$/);
+  return match ? decodeURIComponent(match[1]) : undefined;
 }

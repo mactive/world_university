@@ -1,0 +1,5648 @@
+{
+  "input": "/Users/bytedance/Project/CreativeCloud/ic_cp_data_analyse/meiben/offer_rank_pages_1_51.json",
+  "totalRecords": 989,
+  "matched": 177,
+  "unmatched": 807,
+  "unmatchedRecords": [
+    {
+      "rank": 45,
+      "title": "伦敦政治经济学院",
+      "titleEn": "The London School of Economics and Political Science",
+      "allStu": 464,
+      "sourceId": 1735
+    },
+    {
+      "rank": 47,
+      "title": "纽约大学商学院",
+      "titleEn": "NYU Stern School of Business",
+      "allStu": 27,
+      "sourceId": 1740
+    },
+    {
+      "rank": 48,
+      "title": "纽约大学帝势学院",
+      "titleEn": "Tisch School of the Arts,New York University",
+      "allStu": 46,
+      "sourceId": 1741
+    },
+    {
+      "rank": 77,
+      "title": "里士满大学",
+      "titleEn": "University of Richmond",
+      "allStu": 75,
+      "sourceId": 1629
+    },
+    {
+      "rank": 131,
+      "title": "佛罗里达国际大学",
+      "titleEn": "Florida International University",
+      "allStu": 4,
+      "sourceId": 1921
+    },
+    {
+      "rank": 136,
+      "title": "丹尼森大学",
+      "titleEn": "Denison University",
+      "allStu": 58,
+      "sourceId": 1736
+    },
+    {
+      "rank": 141,
+      "title": "斯基德莫尔学院",
+      "titleEn": "Skidmore College",
+      "allStu": 41,
+      "sourceId": 1651
+    },
+    {
+      "rank": 142,
+      "title": "创价大学",
+      "titleEn": "Soka University of America",
+      "allStu": 2,
+      "sourceId": 1721
+    },
+    {
+      "rank": 143,
+      "title": "三一学院",
+      "titleEn": "Trinity College",
+      "allStu": 14,
+      "sourceId": 1694
+    },
+    {
+      "rank": 144,
+      "title": "三一大学",
+      "titleEn": "Trinity University",
+      "allStu": 14,
+      "sourceId": 3043
+    },
+    {
+      "rank": 145,
+      "title": "联合学院",
+      "titleEn": "Union College",
+      "allStu": 26,
+      "sourceId": 1710
+    },
+    {
+      "rank": 146,
+      "title": "狄金森学院",
+      "titleEn": "Dickinson College",
+      "allStu": 10,
+      "sourceId": 2474
+    },
+    {
+      "rank": 147,
+      "title": "福尔曼大学",
+      "titleEn": "Furman University",
+      "allStu": 8,
+      "sourceId": 1677
+    },
+    {
+      "rank": 149,
+      "title": "康涅狄格学院",
+      "titleEn": "Connecticut College",
+      "allStu": 2,
+      "sourceId": 2704
+    },
+    {
+      "rank": 150,
+      "title": "圣欧拉夫学院",
+      "titleEn": "St. Olaf College",
+      "allStu": 11,
+      "sourceId": 1652
+    },
+    {
+      "rank": 151,
+      "title": "瓦巴什学院",
+      "titleEn": "Wabash College",
+      "allStu": 2,
+      "sourceId": 3122
+    },
+    {
+      "rank": 152,
+      "title": "威顿学院",
+      "titleEn": "Wheaton College",
+      "allStu": 6,
+      "sourceId": 2437
+    },
+    {
+      "rank": 168,
+      "title": "东京大学",
+      "titleEn": "The University of Tokyo",
+      "allStu": 26,
+      "sourceId": 10926
+    },
+    {
+      "rank": 169,
+      "title": "京都大学",
+      "titleEn": "Kyoto University",
+      "allStu": 20,
+      "sourceId": 12145
+    },
+    {
+      "rank": 170,
+      "title": "日本东北大学",
+      "titleEn": "Tohoku University",
+      "allStu": 9,
+      "sourceId": 12142
+    },
+    {
+      "rank": 171,
+      "title": "大阪大学",
+      "titleEn": "Osaka University",
+      "allStu": 5,
+      "sourceId": 11996
+    },
+    {
+      "rank": 172,
+      "title": "名古屋大学",
+      "titleEn": "Nagoya University",
+      "allStu": 15,
+      "sourceId": 12144
+    },
+    {
+      "rank": 173,
+      "title": "库伯联盟学院",
+      "titleEn": "The Cooper Union for the Advancement of Science and Art",
+      "allStu": 6,
+      "sourceId": 1688
+    },
+    {
+      "rank": 174,
+      "title": "萨凡纳艺术与设计学院",
+      "titleEn": "Savannah College of Art and Design",
+      "allStu": 260,
+      "sourceId": 1778
+    },
+    {
+      "rank": 175,
+      "title": "罗德岛设计学院",
+      "titleEn": "Rhode Island School of Design",
+      "allStu": 82,
+      "sourceId": 1622
+    },
+    {
+      "rank": 176,
+      "title": "麻省艺术与设计学院",
+      "titleEn": "Massachusetts College of Art and Design",
+      "allStu": 3,
+      "sourceId": 1777
+    },
+    {
+      "rank": 177,
+      "title": "芝加哥艺术学院",
+      "titleEn": "School of the Art Institute of Chicago",
+      "allStu": 166,
+      "sourceId": 1637
+    },
+    {
+      "rank": 178,
+      "title": "普瑞特艺术学院",
+      "titleEn": "Pratt Institute",
+      "allStu": 201,
+      "sourceId": 12274
+    },
+    {
+      "rank": 179,
+      "title": "马里兰艺术学院",
+      "titleEn": "Maryland Institute College of Art",
+      "allStu": 99,
+      "sourceId": 1666
+    },
+    {
+      "rank": 180,
+      "title": "奥蒂斯艺术设计学院",
+      "titleEn": "Otis College of Art and Design",
+      "allStu": 58,
+      "sourceId": 1776
+    },
+    {
+      "rank": 181,
+      "title": "伦敦艺术大学",
+      "titleEn": "University of the Arts London",
+      "allStu": 742,
+      "sourceId": 1797
+    },
+    {
+      "rank": 182,
+      "title": "新学院",
+      "titleEn": "The New School",
+      "allStu": 19,
+      "sourceId": 1805
+    },
+    {
+      "rank": 183,
+      "title": "格拉斯哥艺术学院",
+      "titleEn": "The Glasgow School of Art",
+      "allStu": 148,
+      "sourceId": 12021
+    },
+    {
+      "rank": 184,
+      "title": "艺术中心设计学院",
+      "titleEn": "Art Center College of Design",
+      "allStu": 147,
+      "sourceId": 1761
+    },
+    {
+      "rank": 185,
+      "title": "纽约视觉艺术学院",
+      "titleEn": "School of Visual Arts",
+      "allStu": 200,
+      "sourceId": 10921
+    },
+    {
+      "rank": 186,
+      "title": "加州艺术学院",
+      "titleEn": "California College of the Arts",
+      "allStu": 12,
+      "sourceId": 1674
+    },
+    {
+      "rank": 187,
+      "title": "帕森斯设计学院",
+      "titleEn": "Parsons School of Design",
+      "allStu": 210,
+      "sourceId": 1631
+    },
+    {
+      "rank": 188,
+      "title": "旧金山艺术大学",
+      "titleEn": "Academy of Art University",
+      "allStu": 25,
+      "sourceId": 2590
+    },
+    {
+      "rank": 189,
+      "title": "纽约电影学院",
+      "titleEn": "New York Film Academy",
+      "allStu": 6,
+      "sourceId": 11918
+    },
+    {
+      "rank": 190,
+      "title": "瑞林艺术设计学院",
+      "titleEn": "Ringling College of Art & Design",
+      "allStu": 49,
+      "sourceId": 1768
+    },
+    {
+      "rank": 191,
+      "title": "纽约时装技术学院",
+      "titleEn": "Fashion Institute of Technology",
+      "allStu": 7,
+      "sourceId": 1800
+    },
+    {
+      "rank": 192,
+      "title": "哥伦布艺术与设计学院",
+      "titleEn": "Columbus College of Art and Design",
+      "allStu": 2,
+      "sourceId": 3166
+    },
+    {
+      "rank": 193,
+      "title": "堪萨斯城艺术学院",
+      "titleEn": "Kansas City Art Institute",
+      "allStu": 1,
+      "sourceId": 3299
+    },
+    {
+      "rank": 194,
+      "title": "创意艺术大学",
+      "titleEn": "‌University for the Creative Arts",
+      "allStu": 65,
+      "sourceId": 11732
+    },
+    {
+      "rank": 195,
+      "title": "新英格兰音乐学院",
+      "titleEn": "The New England Conservatory of Music",
+      "allStu": 4,
+      "sourceId": 3429
+    },
+    {
+      "rank": 196,
+      "title": "伯克利音乐学院",
+      "titleEn": "Berklee College of Music",
+      "allStu": 120,
+      "sourceId": 1699
+    },
+    {
+      "rank": 197,
+      "title": "旧金山音乐学院",
+      "titleEn": "San Francisco Conservatory of Music",
+      "allStu": 4,
+      "sourceId": 12068
+    },
+    {
+      "rank": 198,
+      "title": "印第安纳大学音乐学院",
+      "titleEn": "Indiana University Jacobs School of Music",
+      "allStu": 1,
+      "sourceId": 12069
+    },
+    {
+      "rank": 199,
+      "title": "曼哈顿音乐学院",
+      "titleEn": "Manhattan School of Music",
+      "allStu": 8,
+      "sourceId": 11969
+    },
+    {
+      "rank": 200,
+      "title": "克利夫兰音乐学院",
+      "titleEn": "Cleveland Institute of Music",
+      "allStu": 1,
+      "sourceId": 11039
+    },
+    {
+      "rank": 201,
+      "title": "洛杉矶音乐家学院",
+      "titleEn": "Musicians Institute",
+      "allStu": 9,
+      "sourceId": 3401
+    },
+    {
+      "rank": 202,
+      "title": "伯明翰皇家音乐学院",
+      "titleEn": "Royal Birmingham Conservatoire",
+      "allStu": 14,
+      "sourceId": 12579
+    },
+    {
+      "rank": 203,
+      "title": "洛杉矶音乐学院",
+      "titleEn": "Los Angeles College of Music",
+      "allStu": 35,
+      "sourceId": 11643
+    },
+    {
+      "rank": 204,
+      "title": "曼尼斯音乐学院",
+      "titleEn": "Mannes School of Music at The New School",
+      "allStu": 2,
+      "sourceId": 11927
+    },
+    {
+      "rank": 205,
+      "title": "英国皇家音乐学院",
+      "titleEn": "Royal College of Music",
+      "allStu": 10,
+      "sourceId": 12065
+    },
+    {
+      "rank": 206,
+      "title": "苏格兰皇家音乐学院",
+      "titleEn": "Royal Conservatoire of Scotland",
+      "allStu": 8,
+      "sourceId": 12066
+    },
+    {
+      "rank": 207,
+      "title": "南加州建筑学院",
+      "titleEn": "Southern California Institute of Architecture",
+      "allStu": 4,
+      "sourceId": 3400
+    },
+    {
+      "rank": 208,
+      "title": "复旦大学",
+      "titleEn": "Fudan University",
+      "allStu": 6,
+      "sourceId": 7
+    },
+    {
+      "rank": 209,
+      "title": "巴德学院",
+      "titleEn": "Bard College",
+      "allStu": 26,
+      "sourceId": 1634
+    },
+    {
+      "rank": 210,
+      "title": "罗斯－豪曼理工学院",
+      "titleEn": "Rose-Hulman Institute of Technology",
+      "allStu": 163,
+      "sourceId": 1636
+    },
+    {
+      "rank": 211,
+      "title": "爱默生学院",
+      "titleEn": "Emerson College",
+      "allStu": 81,
+      "sourceId": 1638
+    },
+    {
+      "rank": 212,
+      "title": "巴布森学院",
+      "titleEn": "Babson College",
+      "allStu": 33,
+      "sourceId": 1639
+    },
+    {
+      "rank": 213,
+      "title": "亚利桑那州立大学",
+      "titleEn": "Arizona State University, Tempe",
+      "allStu": 120,
+      "sourceId": 1648
+    },
+    {
+      "rank": 214,
+      "title": "霍普学院",
+      "titleEn": "Hope College",
+      "allStu": 1,
+      "sourceId": 1653
+    },
+    {
+      "rank": 215,
+      "title": "丹佛大学",
+      "titleEn": "University of Denver",
+      "allStu": 1,
+      "sourceId": 1662
+    },
+    {
+      "rank": 218,
+      "title": "密涅瓦大学",
+      "titleEn": "Minerva Schools at KGI",
+      "allStu": 9,
+      "sourceId": 1679
+    },
+    {
+      "rank": 220,
+      "title": "霍特国际商学院",
+      "titleEn": "Hult International Business School",
+      "allStu": 4,
+      "sourceId": 1690
+    },
+    {
+      "rank": 221,
+      "title": "迈阿密大学牛津分校",
+      "titleEn": "Miami University, Oxford",
+      "allStu": 5,
+      "sourceId": 1704
+    },
+    {
+      "rank": 222,
+      "title": "查普曼大学",
+      "titleEn": "Chapman University",
+      "allStu": 11,
+      "sourceId": 1707
+    },
+    {
+      "rank": 223,
+      "title": "犹他大学",
+      "titleEn": "University of Utah",
+      "allStu": 55,
+      "sourceId": 1708
+    },
+    {
+      "rank": 224,
+      "title": "俄勒冈大学",
+      "titleEn": "University of Oregon",
+      "allStu": 25,
+      "sourceId": 1709
+    },
+    {
+      "rank": 225,
+      "title": "本特利大学",
+      "titleEn": "Bentley University",
+      "allStu": 18,
+      "sourceId": 1718
+    },
+    {
+      "rank": 226,
+      "title": "贝洛伊特学院",
+      "titleEn": "Beloit College",
+      "allStu": 4,
+      "sourceId": 1719
+    },
+    {
+      "rank": 227,
+      "title": "诺克斯学院",
+      "titleEn": "Knox College",
+      "allStu": 1,
+      "sourceId": 1720
+    },
+    {
+      "rank": 228,
+      "title": "洛约拉马利蒙特大学",
+      "titleEn": "Loyola Marymount University",
+      "allStu": 13,
+      "sourceId": 1725
+    },
+    {
+      "rank": 229,
+      "title": "爱丁堡大学",
+      "titleEn": "The University of Edinburgh",
+      "allStu": 3460,
+      "sourceId": 1737
+    },
+    {
+      "rank": 230,
+      "title": "华威大学",
+      "titleEn": "The University of Warwick",
+      "allStu": 2673,
+      "sourceId": 1738
+    },
+    {
+      "rank": 231,
+      "title": "纽约大学阿布扎比分校",
+      "titleEn": "New York University Abu Dhabi",
+      "allStu": 24,
+      "sourceId": 1739
+    },
+    {
+      "rank": 232,
+      "title": "圣安德鲁斯大学",
+      "titleEn": "University of St Andrews",
+      "allStu": 108,
+      "sourceId": 1742
+    },
+    {
+      "rank": 233,
+      "title": "杜伦大学",
+      "titleEn": "Durham University",
+      "allStu": 827,
+      "sourceId": 1743
+    },
+    {
+      "rank": 234,
+      "title": "曼彻斯特大学",
+      "titleEn": "The University of Manchester",
+      "allStu": 8236,
+      "sourceId": 1744
+    },
+    {
+      "rank": 235,
+      "title": "拉夫堡大学",
+      "titleEn": "Loughborough University",
+      "allStu": 76,
+      "sourceId": 1746
+    },
+    {
+      "rank": 236,
+      "title": "利兹大学",
+      "titleEn": "The University of Leeds",
+      "allStu": 1600,
+      "sourceId": 1747
+    },
+    {
+      "rank": 237,
+      "title": "格拉斯哥大学",
+      "titleEn": "University of Glasgow",
+      "allStu": 572,
+      "sourceId": 1748
+    },
+    {
+      "rank": 238,
+      "title": "伦敦大学皇家霍洛威学院",
+      "titleEn": "Royal Holloway University of London",
+      "allStu": 14,
+      "sourceId": 1749
+    },
+    {
+      "rank": 239,
+      "title": "南安普顿大学",
+      "titleEn": "University of Southampton",
+      "allStu": 1577,
+      "sourceId": 1750
+    },
+    {
+      "rank": 240,
+      "title": "东安格利亚大学",
+      "titleEn": "University o fEast Anglia",
+      "allStu": 3,
+      "sourceId": 1751
+    },
+    {
+      "rank": 241,
+      "title": "谢菲尔德大学",
+      "titleEn": "The University of Sheffield",
+      "allStu": 511,
+      "sourceId": 1752
+    },
+    {
+      "rank": 242,
+      "title": "纽卡斯尔大学",
+      "titleEn": "Newcastle University",
+      "allStu": 77,
+      "sourceId": 1753
+    },
+    {
+      "rank": 243,
+      "title": "利物浦大学",
+      "titleEn": "University of Liverpool",
+      "allStu": 87,
+      "sourceId": 1754
+    },
+    {
+      "rank": 244,
+      "title": "卡迪夫大学",
+      "titleEn": "Cardiff University",
+      "allStu": 63,
+      "sourceId": 1756
+    },
+    {
+      "rank": 245,
+      "title": "雷丁大学",
+      "titleEn": "University of Reading",
+      "allStu": 35,
+      "sourceId": 1757
+    },
+    {
+      "rank": 246,
+      "title": "布里斯托大学",
+      "titleEn": "University of Bristol",
+      "allStu": 2401,
+      "sourceId": 1760
+    },
+    {
+      "rank": 247,
+      "title": "麻省药科与健康科学大学",
+      "titleEn": "Massachusetts College of Pharmacy & Health Science",
+      "allStu": 14,
+      "sourceId": 1762
+    },
+    {
+      "rank": 248,
+      "title": "兰卡斯特大学",
+      "titleEn": "Lancaster University",
+      "allStu": 83,
+      "sourceId": 1763
+    },
+    {
+      "rank": 249,
+      "title": "伯明翰大学",
+      "titleEn": "University of Birmingham",
+      "allStu": 1948,
+      "sourceId": 1764
+    },
+    {
+      "rank": 250,
+      "title": "约克大学",
+      "titleEn": "University of York",
+      "allStu": 59,
+      "sourceId": 1765
+    },
+    {
+      "rank": 251,
+      "title": "莱斯特大学",
+      "titleEn": "University of Leicester",
+      "allStu": 7,
+      "sourceId": 1766
+    },
+    {
+      "rank": 252,
+      "title": "埃塞克斯大学",
+      "titleEn": "University of Essex",
+      "allStu": 9,
+      "sourceId": 1767
+    },
+    {
+      "rank": 253,
+      "title": "迪堡大学",
+      "titleEn": "DePauw University",
+      "allStu": 34,
+      "sourceId": 1770
+    },
+    {
+      "rank": 254,
+      "title": "莎拉劳伦斯学院",
+      "titleEn": "Sarah Lawrence College",
+      "allStu": 11,
+      "sourceId": 1772
+    },
+    {
+      "rank": 256,
+      "title": "西北大学卡塔尔分校",
+      "titleEn": "Northwestern University in Qatar",
+      "allStu": 41,
+      "sourceId": 1783
+    },
+    {
+      "rank": 257,
+      "title": "克拉克大学",
+      "titleEn": "Clark University",
+      "allStu": 4,
+      "sourceId": 1789
+    },
+    {
+      "rank": 259,
+      "title": "诺丁汉大学",
+      "titleEn": "University of Nottingham",
+      "allStu": 244,
+      "sourceId": 1791
+    },
+    {
+      "rank": 260,
+      "title": "伦敦玛丽女王大学",
+      "titleEn": "Queen Mary, University of London",
+      "allStu": 97,
+      "sourceId": 1792
+    },
+    {
+      "rank": 261,
+      "title": "芝加哥洛约拉大学",
+      "titleEn": "Loyola University Chicago",
+      "allStu": 1,
+      "sourceId": 1793
+    },
+    {
+      "rank": 262,
+      "title": "布莱恩特大学",
+      "titleEn": "Bryant University",
+      "allStu": 12,
+      "sourceId": 1798
+    },
+    {
+      "rank": 263,
+      "title": "安博瑞德航空航天大学",
+      "titleEn": "Embry-Riddle Aeronautical University",
+      "allStu": 4,
+      "sourceId": 1799
+    },
+    {
+      "rank": 264,
+      "title": "默兰伯格学院",
+      "titleEn": "Muhlenberg College",
+      "allStu": 2,
+      "sourceId": 1802
+    },
+    {
+      "rank": 265,
+      "title": "纽约州立大学新帕尔兹分校",
+      "titleEn": "SUNY New Paltz",
+      "allStu": 1,
+      "sourceId": 1804
+    },
+    {
+      "rank": 266,
+      "title": "惠特曼学院",
+      "titleEn": "Whitman College",
+      "allStu": 10,
+      "sourceId": 1809
+    },
+    {
+      "rank": 267,
+      "title": "劳伦斯大学",
+      "titleEn": "Lawrence University",
+      "allStu": 1,
+      "sourceId": 1810
+    },
+    {
+      "rank": 268,
+      "title": "中佛罗里达大学",
+      "titleEn": "University of Central Florida",
+      "allStu": 1,
+      "sourceId": 1814
+    },
+    {
+      "rank": 269,
+      "title": "阿拉巴马大学",
+      "titleEn": "University of Alabama",
+      "allStu": 1,
+      "sourceId": 1815
+    },
+    {
+      "rank": 270,
+      "title": "奥本大学",
+      "titleEn": "Auburn University",
+      "allStu": 9,
+      "sourceId": 1816
+    },
+    {
+      "rank": 271,
+      "title": "爱荷华州立大学",
+      "titleEn": "Iowa State University",
+      "allStu": 8,
+      "sourceId": 1820
+    },
+    {
+      "rank": 272,
+      "title": "伊利诺伊州立大学",
+      "titleEn": "Illinois State University",
+      "allStu": 1,
+      "sourceId": 1821
+    },
+    {
+      "rank": 273,
+      "title": "肯塔基大学",
+      "titleEn": "University of Kentucky",
+      "allStu": 1,
+      "sourceId": 1824
+    },
+    {
+      "rank": 274,
+      "title": "密西西比州立大学",
+      "titleEn": "Mississippi State University",
+      "allStu": 1,
+      "sourceId": 1833
+    },
+    {
+      "rank": 275,
+      "title": "密西西比大学",
+      "titleEn": "University of Mississippi",
+      "allStu": 1,
+      "sourceId": 1836
+    },
+    {
+      "rank": 276,
+      "title": "德克萨斯州立大学",
+      "titleEn": "Texas State University",
+      "allStu": 1,
+      "sourceId": 1839
+    },
+    {
+      "rank": 277,
+      "title": "戴顿大学",
+      "titleEn": "University of Dayton",
+      "allStu": 6,
+      "sourceId": 1844
+    },
+    {
+      "rank": 278,
+      "title": "堪萨斯大学",
+      "titleEn": "University of Kansas",
+      "allStu": 1,
+      "sourceId": 1851
+    },
+    {
+      "rank": 279,
+      "title": "德州理工大学",
+      "titleEn": "Texas Tech University",
+      "allStu": 1,
+      "sourceId": 1852
+    },
+    {
+      "rank": 280,
+      "title": "南卡罗莱纳大学",
+      "titleEn": "University of South Carolina",
+      "allStu": 6,
+      "sourceId": 1854
+    },
+    {
+      "rank": 281,
+      "title": "北卡罗来纳大学（彭布罗克）",
+      "titleEn": "University of North Carolina at Pembroke",
+      "allStu": 3,
+      "sourceId": 1857
+    },
+    {
+      "rank": 282,
+      "title": "科罗拉多州立大学",
+      "titleEn": "Colorado State University",
+      "allStu": 3,
+      "sourceId": 1864
+    },
+    {
+      "rank": 283,
+      "title": "亚利桑那大学",
+      "titleEn": "University of Arizona",
+      "allStu": 11,
+      "sourceId": 1867
+    },
+    {
+      "rank": 284,
+      "title": "德克萨斯农工大学柯柏斯克里斯提学院",
+      "titleEn": "Texas A&M University-Corpus Christi",
+      "allStu": 1,
+      "sourceId": 1869
+    },
+    {
+      "rank": 285,
+      "title": "内华达大学拉斯维加斯分校",
+      "titleEn": "University of Nevada, Las Vegas",
+      "allStu": 1,
+      "sourceId": 1870
+    },
+    {
+      "rank": 286,
+      "title": "弗吉尼亚联邦大学",
+      "titleEn": "Virginia Commonwealth University",
+      "allStu": 1,
+      "sourceId": 1871
+    },
+    {
+      "rank": 287,
+      "title": "加州州立大学长滩分校",
+      "titleEn": "California State University, Long Beach",
+      "allStu": 9,
+      "sourceId": 1878
+    },
+    {
+      "rank": 288,
+      "title": "加州州立大学洛杉矶分校",
+      "titleEn": "California State University, Los Angeles",
+      "allStu": 5,
+      "sourceId": 1879
+    },
+    {
+      "rank": 289,
+      "title": "托莱多大学",
+      "titleEn": "University of Toledo",
+      "allStu": 1,
+      "sourceId": 1883
+    },
+    {
+      "rank": 290,
+      "title": "堪萨斯州立大学",
+      "titleEn": "Kansas State University",
+      "allStu": 1,
+      "sourceId": 1897
+    },
+    {
+      "rank": 291,
+      "title": "大峡谷大学",
+      "titleEn": "Grand Canyon University",
+      "allStu": 2,
+      "sourceId": 1899
+    },
+    {
+      "rank": 292,
+      "title": "新墨西哥州立大学",
+      "titleEn": "New Mexico State University",
+      "allStu": 1,
+      "sourceId": 1900
+    },
+    {
+      "rank": 293,
+      "title": "圣何塞州立大学",
+      "titleEn": "San Jose State University",
+      "allStu": 19,
+      "sourceId": 1902
+    },
+    {
+      "rank": 294,
+      "title": "爱达荷州立大学",
+      "titleEn": "Idaho State University",
+      "allStu": 1,
+      "sourceId": 1907
+    },
+    {
+      "rank": 295,
+      "title": "俄克拉荷马州立大学",
+      "titleEn": "Oklahoma State University",
+      "allStu": 1,
+      "sourceId": 1909
+    },
+    {
+      "rank": 296,
+      "title": "加州州立理工大学",
+      "titleEn": "California Polytechnic State University, San Luis Obispo",
+      "allStu": 1,
+      "sourceId": 1914
+    },
+    {
+      "rank": 297,
+      "title": "奥克兰大学",
+      "titleEn": "Oakland University",
+      "allStu": 5,
+      "sourceId": 1915
+    },
+    {
+      "rank": 298,
+      "title": "艾伯林基督大学",
+      "titleEn": "Abilene Christian University",
+      "allStu": 1,
+      "sourceId": 1916
+    },
+    {
+      "rank": 299,
+      "title": "东北伊利诺伊大学",
+      "titleEn": "Northeastern Illinois University",
+      "allStu": 1,
+      "sourceId": 1919
+    },
+    {
+      "rank": 300,
+      "title": "路易斯安那州立大学",
+      "titleEn": "Louisiana State University",
+      "allStu": 2,
+      "sourceId": 1925
+    },
+    {
+      "rank": 301,
+      "title": "圣路易斯大学",
+      "titleEn": "Saint Louis University",
+      "allStu": 3,
+      "sourceId": 1930
+    },
+    {
+      "rank": 302,
+      "title": "密苏里大学-堪萨斯分校",
+      "titleEn": "University of Missouri-Kansas City",
+      "allStu": 1,
+      "sourceId": 1942
+    },
+    {
+      "rank": 303,
+      "title": "北卡罗莱纳农工州立大学",
+      "titleEn": "North Carolina A&T State University",
+      "allStu": 1,
+      "sourceId": 1943
+    },
+    {
+      "rank": 304,
+      "title": "圣地亚哥州立大学",
+      "titleEn": "San Diego State University",
+      "allStu": 12,
+      "sourceId": 1949
+    },
+    {
+      "rank": 305,
+      "title": "北德克萨斯州大学",
+      "titleEn": "University of North Texas",
+      "allStu": 3,
+      "sourceId": 1951
+    },
+    {
+      "rank": 306,
+      "title": "加州州立大学北岭分校",
+      "titleEn": "California State University, Northridge",
+      "allStu": 1,
+      "sourceId": 1956
+    },
+    {
+      "rank": 307,
+      "title": "俄亥俄卫斯理大学",
+      "titleEn": "Ohio Wesleyan University",
+      "allStu": 1,
+      "sourceId": 1959
+    },
+    {
+      "rank": 308,
+      "title": "德克萨斯大学达拉斯分校",
+      "titleEn": "University of Texas at Dallas",
+      "allStu": 1,
+      "sourceId": 1963
+    },
+    {
+      "rank": 309,
+      "title": "俄亥俄大学",
+      "titleEn": "Ohio University",
+      "allStu": 1,
+      "sourceId": 1965
+    },
+    {
+      "rank": 310,
+      "title": "俄克拉荷马大学",
+      "titleEn": "University of Oklahoma",
+      "allStu": 2,
+      "sourceId": 1969
+    },
+    {
+      "rank": 311,
+      "title": "佛罗里达海湾海岸大学",
+      "titleEn": "Florida Gulf Coast University",
+      "allStu": 1,
+      "sourceId": 1990
+    },
+    {
+      "rank": 312,
+      "title": "陶森大学",
+      "titleEn": "Towson University",
+      "allStu": 1,
+      "sourceId": 1997
+    },
+    {
+      "rank": 313,
+      "title": "加州州立大学东湾分校",
+      "titleEn": "California State University, East Bay",
+      "allStu": 2,
+      "sourceId": 2000
+    },
+    {
+      "rank": 314,
+      "title": "依隆大学",
+      "titleEn": "Elon University",
+      "allStu": 2,
+      "sourceId": 2009
+    },
+    {
+      "rank": 315,
+      "title": "匹兹堡州立大学",
+      "titleEn": "Pittsburg State University",
+      "allStu": 2,
+      "sourceId": 2010
+    },
+    {
+      "rank": 316,
+      "title": "圣莫尼卡学院",
+      "titleEn": "Santa Monica College",
+      "allStu": 3,
+      "sourceId": 2012
+    },
+    {
+      "rank": 317,
+      "title": "圣彼得堡大学",
+      "titleEn": "St. Petersburg College",
+      "allStu": 1,
+      "sourceId": 2014
+    },
+    {
+      "rank": 318,
+      "title": "内布拉斯加大学林肯分校",
+      "titleEn": "University of Nebraska-Lincoln",
+      "allStu": 1,
+      "sourceId": 2026
+    },
+    {
+      "rank": 319,
+      "title": "萨福克大学",
+      "titleEn": "Suffolk University",
+      "allStu": 8,
+      "sourceId": 2038
+    },
+    {
+      "rank": 320,
+      "title": "伊利诺伊理工大学",
+      "titleEn": "Illinois Institute of Technology",
+      "allStu": 7,
+      "sourceId": 2043
+    },
+    {
+      "rank": 321,
+      "title": "罗德岛大学",
+      "titleEn": "University of Rhode Island",
+      "allStu": 1,
+      "sourceId": 2054
+    },
+    {
+      "rank": 322,
+      "title": "南卡罗来纳北部大学",
+      "titleEn": "University of South Carolina Upstate",
+      "allStu": 1,
+      "sourceId": 2055
+    },
+    {
+      "rank": 323,
+      "title": "安博瑞德航空航天大学（普莱斯考特）",
+      "titleEn": "Embry-Riddle Aeronautical University at Prescott",
+      "allStu": 2,
+      "sourceId": 2057
+    },
+    {
+      "rank": 324,
+      "title": "盖茨堡学院",
+      "titleEn": "Gettysburg College",
+      "allStu": 6,
+      "sourceId": 2073
+    },
+    {
+      "rank": 325,
+      "title": "华盛顿大学塔科马校区",
+      "titleEn": "University of Washington Tacoma",
+      "allStu": 2,
+      "sourceId": 2086
+    },
+    {
+      "rank": 326,
+      "title": "乔治梅森大学",
+      "titleEn": "George Mason University",
+      "allStu": 10,
+      "sourceId": 2111
+    },
+    {
+      "rank": 327,
+      "title": "蒙特克莱尔州立大学",
+      "titleEn": "Montclair State University",
+      "allStu": 1,
+      "sourceId": 2112
+    },
+    {
+      "rank": 328,
+      "title": "路易斯安那大学拉菲特分校",
+      "titleEn": "University of Louisiana at Lafayette",
+      "allStu": 2,
+      "sourceId": 2137
+    },
+    {
+      "rank": 329,
+      "title": "旧金山大学",
+      "titleEn": "University of San Francisco",
+      "allStu": 32,
+      "sourceId": 2138
+    },
+    {
+      "rank": 330,
+      "title": "瓦尔帕莱索大学",
+      "titleEn": "Valparaiso University",
+      "allStu": 1,
+      "sourceId": 2139
+    },
+    {
+      "rank": 331,
+      "title": "西密歇根大学",
+      "titleEn": "Western Michigan University",
+      "allStu": 1,
+      "sourceId": 2140
+    },
+    {
+      "rank": 332,
+      "title": "华盛顿大学贝色分校",
+      "titleEn": "University of Washington Bothell",
+      "allStu": 3,
+      "sourceId": 2164
+    },
+    {
+      "rank": 333,
+      "title": "加州州立大学圣贝纳迪诺分校",
+      "titleEn": "California State University, San Bernardino",
+      "allStu": 1,
+      "sourceId": 2168
+    },
+    {
+      "rank": 334,
+      "title": "霍夫斯特拉大学",
+      "titleEn": "Hofstra University",
+      "allStu": 4,
+      "sourceId": 2178
+    },
+    {
+      "rank": 335,
+      "title": "旧金山州立大学",
+      "titleEn": "San Francisco State University",
+      "allStu": 6,
+      "sourceId": 2187
+    },
+    {
+      "rank": 336,
+      "title": "孟菲斯大学",
+      "titleEn": "University of Memphis",
+      "allStu": 1,
+      "sourceId": 2196
+    },
+    {
+      "rank": 337,
+      "title": "卡梅隆大学",
+      "titleEn": "Cameron University",
+      "allStu": 1,
+      "sourceId": 2205
+    },
+    {
+      "rank": 338,
+      "title": "绿河学院",
+      "titleEn": "Green River College",
+      "allStu": 1,
+      "sourceId": 2218
+    },
+    {
+      "rank": 339,
+      "title": "朱尼亚塔学院",
+      "titleEn": "Juniata College",
+      "allStu": 8,
+      "sourceId": 2219
+    },
+    {
+      "rank": 340,
+      "title": "北俄亥俄大学",
+      "titleEn": "Ohio Northern University",
+      "allStu": 1,
+      "sourceId": 2230
+    },
+    {
+      "rank": 341,
+      "title": "俄勒冈州立大学",
+      "titleEn": "Oregon State University",
+      "allStu": 10,
+      "sourceId": 2231
+    },
+    {
+      "rank": 342,
+      "title": "夏威夷大学马诺阿分校",
+      "titleEn": "University of Hawaii at Manoa",
+      "allStu": 2,
+      "sourceId": 2236
+    },
+    {
+      "rank": 343,
+      "title": "阿德菲大学",
+      "titleEn": "Adelphi University",
+      "allStu": 1,
+      "sourceId": 2242
+    },
+    {
+      "rank": 344,
+      "title": "波莫纳加州理工大学",
+      "titleEn": "California State Polytechnic University, Pomona",
+      "allStu": 3,
+      "sourceId": 2247
+    },
+    {
+      "rank": 345,
+      "title": "伊萨卡学院",
+      "titleEn": "Ithaca College",
+      "allStu": 1,
+      "sourceId": 2265
+    },
+    {
+      "rank": 346,
+      "title": "北伊利诺伊大学",
+      "titleEn": "Northern Illinois University",
+      "allStu": 1,
+      "sourceId": 2274
+    },
+    {
+      "rank": 347,
+      "title": "普渡大学西北分校",
+      "titleEn": "Purdue University Northwest",
+      "allStu": 2,
+      "sourceId": 2278
+    },
+    {
+      "rank": 348,
+      "title": "罗德学院",
+      "titleEn": "Rhodes College",
+      "allStu": 33,
+      "sourceId": 2280
+    },
+    {
+      "rank": 349,
+      "title": "纽约州立大学奥斯威戈分校",
+      "titleEn": "SUNY Oswego",
+      "allStu": 1,
+      "sourceId": 2292
+    },
+    {
+      "rank": 350,
+      "title": "阿肯色大学",
+      "titleEn": "University of Arkansas",
+      "allStu": 1,
+      "sourceId": 2299
+    },
+    {
+      "rank": 351,
+      "title": "中央密苏里大学",
+      "titleEn": "University of Central Missouri",
+      "allStu": 3,
+      "sourceId": 2301
+    },
+    {
+      "rank": 352,
+      "title": "马萨诸塞大学洛厄尔分校",
+      "titleEn": "University of Massachusetts Lowell",
+      "allStu": 1,
+      "sourceId": 2302
+    },
+    {
+      "rank": 353,
+      "title": "华盛顿州立大学",
+      "titleEn": "Washington State University",
+      "allStu": 4,
+      "sourceId": 2309
+    },
+    {
+      "rank": 354,
+      "title": "西弗吉尼亚大学理工学院",
+      "titleEn": "West Virginia University Institute of Technology",
+      "allStu": 1,
+      "sourceId": 2310
+    },
+    {
+      "rank": 355,
+      "title": "威斯敏斯特学院",
+      "titleEn": "Westminster College",
+      "allStu": 1,
+      "sourceId": 2314
+    },
+    {
+      "rank": 356,
+      "title": "艾格尼丝斯科特学院",
+      "titleEn": "Agnes Scott College",
+      "allStu": 2,
+      "sourceId": 2315
+    },
+    {
+      "rank": 357,
+      "title": "协和大学尔湾分校",
+      "titleEn": "Concordia University Irvine",
+      "allStu": 1,
+      "sourceId": 2327
+    },
+    {
+      "rank": 358,
+      "title": "德保罗大学",
+      "titleEn": "DePaul University",
+      "allStu": 3,
+      "sourceId": 2334
+    },
+    {
+      "rank": 359,
+      "title": "贡萨加大学",
+      "titleEn": "Gonzaga University",
+      "allStu": 13,
+      "sourceId": 2343
+    },
+    {
+      "rank": 360,
+      "title": "格林威尔大学",
+      "titleEn": "Greenville University",
+      "allStu": 1,
+      "sourceId": 2344
+    },
+    {
+      "rank": 361,
+      "title": "夏威夷太平洋大学",
+      "titleEn": "Hawaii Pacific University",
+      "allStu": 1,
+      "sourceId": 2346
+    },
+    {
+      "rank": 362,
+      "title": "长岛大学",
+      "titleEn": "Long Island University",
+      "allStu": 3,
+      "sourceId": 2358
+    },
+    {
+      "rank": 363,
+      "title": "路德学院",
+      "titleEn": "Luther College",
+      "allStu": 1,
+      "sourceId": 2359
+    },
+    {
+      "rank": 364,
+      "title": "玛丽斯特学院",
+      "titleEn": "Marist College",
+      "allStu": 1,
+      "sourceId": 2361
+    },
+    {
+      "rank": 365,
+      "title": "奥罗尔罗伯茨大学",
+      "titleEn": "Oral Roberts University",
+      "allStu": 1,
+      "sourceId": 2376
+    },
+    {
+      "rank": 366,
+      "title": "太平洋大学",
+      "titleEn": "Pacific University",
+      "allStu": 2,
+      "sourceId": 2377
+    },
+    {
+      "rank": 367,
+      "title": "宾州州立大学哈里斯堡校区",
+      "titleEn": "Penn State Harrisburg",
+      "allStu": 101,
+      "sourceId": 2378
+    },
+    {
+      "rank": 368,
+      "title": "圣约翰大学",
+      "titleEn": "St. John's University",
+      "allStu": 1,
+      "sourceId": 2396
+    },
+    {
+      "rank": 369,
+      "title": "哈特福德大学",
+      "titleEn": "University of Hartford",
+      "allStu": 3,
+      "sourceId": 2414
+    },
+    {
+      "rank": 370,
+      "title": "缅因大学",
+      "titleEn": "University of Maine",
+      "allStu": 4,
+      "sourceId": 2416
+    },
+    {
+      "rank": 371,
+      "title": "麻省大学波士顿分校",
+      "titleEn": "University of Massachusetts Boston",
+      "allStu": 4,
+      "sourceId": 2417
+    },
+    {
+      "rank": 372,
+      "title": "麻省大学达特茅斯分校",
+      "titleEn": "University of Massachusetts Dartmouth",
+      "allStu": 1,
+      "sourceId": 2418
+    },
+    {
+      "rank": 373,
+      "title": "圣地亚哥大学",
+      "titleEn": "University of San Diego",
+      "allStu": 3,
+      "sourceId": 2421
+    },
+    {
+      "rank": 374,
+      "title": "佛蒙特大学",
+      "titleEn": "University of Vermont",
+      "allStu": 2,
+      "sourceId": 2427
+    },
+    {
+      "rank": 375,
+      "title": "博林格林州立大学",
+      "titleEn": "Bowling Green State University",
+      "allStu": 1,
+      "sourceId": 2454
+    },
+    {
+      "rank": 376,
+      "title": "埃克德学院",
+      "titleEn": "Eckerd College",
+      "allStu": 1,
+      "sourceId": 2479
+    },
+    {
+      "rank": 377,
+      "title": "肯特州立大学",
+      "titleEn": "Kent State University",
+      "allStu": 11,
+      "sourceId": 2495
+    },
+    {
+      "rank": 378,
+      "title": "林肯大学",
+      "titleEn": "Lincoln University",
+      "allStu": 2,
+      "sourceId": 2505
+    },
+    {
+      "rank": 379,
+      "title": "迈阿密大学汉密尔顿",
+      "titleEn": "Miami University Hamilton",
+      "allStu": 1,
+      "sourceId": 2512
+    },
+    {
+      "rank": 380,
+      "title": "密苏里科技大学",
+      "titleEn": "Missouri University of Science and Technology",
+      "allStu": 1,
+      "sourceId": 2515
+    },
+    {
+      "rank": 381,
+      "title": "俄亥俄州立大学马里昂分校",
+      "titleEn": "Ohio State University-Marion",
+      "allStu": 1,
+      "sourceId": 2528
+    },
+    {
+      "rank": 382,
+      "title": "宾夕法尼亚州立大学贝伦德分校",
+      "titleEn": "Penn State Behrend",
+      "allStu": 1,
+      "sourceId": 2531
+    },
+    {
+      "rank": 383,
+      "title": "春田学院",
+      "titleEn": "Springfield College",
+      "allStu": 1,
+      "sourceId": 2552
+    },
+    {
+      "rank": 384,
+      "title": "华盛顿圣三一大学",
+      "titleEn": "Trinity Washington University",
+      "allStu": 1,
+      "sourceId": 2560
+    },
+    {
+      "rank": 385,
+      "title": "密歇根大学弗林特分校",
+      "titleEn": "University of Michigan-Flint",
+      "allStu": 5,
+      "sourceId": 2567
+    },
+    {
+      "rank": 386,
+      "title": "匹兹堡大学格林斯堡分校",
+      "titleEn": "University of Pittsburgh at Greensburg",
+      "allStu": 4,
+      "sourceId": 2570
+    },
+    {
+      "rank": 387,
+      "title": "匹兹堡大学约翰城分校",
+      "titleEn": "University of Pittsburgh Johnstown",
+      "allStu": 5,
+      "sourceId": 2571
+    },
+    {
+      "rank": 388,
+      "title": "华盛顿与杰弗逊学院",
+      "titleEn": "Washington & Jefferson College",
+      "allStu": 1,
+      "sourceId": 2580
+    },
+    {
+      "rank": 389,
+      "title": "卫斯理学院",
+      "titleEn": "Wesley College",
+      "allStu": 4,
+      "sourceId": 2583
+    },
+    {
+      "rank": 390,
+      "title": "阿勒格尼学院",
+      "titleEn": "Allegheny College",
+      "allStu": 4,
+      "sourceId": 2598
+    },
+    {
+      "rank": 391,
+      "title": "阿卡迪亚大学",
+      "titleEn": "Arcadia University",
+      "allStu": 4,
+      "sourceId": 2604
+    },
+    {
+      "rank": 392,
+      "title": "亚利桑那州立大学哈瓦苏湖城分校",
+      "titleEn": "Arizona State University at Lake Havasu City",
+      "allStu": 1,
+      "sourceId": 2606
+    },
+    {
+      "rank": 393,
+      "title": "亚利桑那州立大学凤凰城分校",
+      "titleEn": "Arizona State University-Downtown Phoenix",
+      "allStu": 1,
+      "sourceId": 2613
+    },
+    {
+      "rank": 394,
+      "title": "亚利桑那州立大学坦佩分校",
+      "titleEn": "Arizona State University-Tempe",
+      "allStu": 3,
+      "sourceId": 2616
+    },
+    {
+      "rank": 395,
+      "title": "贝尔蒙特大学",
+      "titleEn": "Belmont University",
+      "allStu": 1,
+      "sourceId": 2635
+    },
+    {
+      "rank": 396,
+      "title": "巴特勒大学",
+      "titleEn": "Butler University",
+      "allStu": 3,
+      "sourceId": 2654
+    },
+    {
+      "rank": 397,
+      "title": "加州州立大学贝克斯菲尔德分校",
+      "titleEn": "California State University, Bakersfield",
+      "allStu": 1,
+      "sourceId": 2658
+    },
+    {
+      "rank": 398,
+      "title": "凯尔文学院",
+      "titleEn": "Calvin University",
+      "allStu": 1,
+      "sourceId": 2661
+    },
+    {
+      "rank": 399,
+      "title": "中央华盛顿大学",
+      "titleEn": "Central Washington University",
+      "allStu": 1,
+      "sourceId": 2674
+    },
+    {
+      "rank": 400,
+      "title": "中心学院",
+      "titleEn": "Centre College",
+      "allStu": 4,
+      "sourceId": 2675
+    },
+    {
+      "rank": 401,
+      "title": "卡罗来纳海岸大学",
+      "titleEn": "Coastal Carolina University",
+      "allStu": 1,
+      "sourceId": 2686
+    },
+    {
+      "rank": 402,
+      "title": "康奈尔学院",
+      "titleEn": "Cornell College",
+      "allStu": 3,
+      "sourceId": 2707
+    },
+    {
+      "rank": 403,
+      "title": "纽约市立大学柏鲁克分校",
+      "titleEn": "CUNY Baruch College",
+      "allStu": 1,
+      "sourceId": 2709
+    },
+    {
+      "rank": 404,
+      "title": "德雷克大学",
+      "titleEn": "Drake University",
+      "allStu": 2,
+      "sourceId": 2725
+    },
+    {
+      "rank": 405,
+      "title": "德鲁大学",
+      "titleEn": "Drew University",
+      "allStu": 7,
+      "sourceId": 2726
+    },
+    {
+      "rank": 406,
+      "title": "厄勒姆学院",
+      "titleEn": "Earlham College",
+      "allStu": 1,
+      "sourceId": 2728
+    },
+    {
+      "rank": 407,
+      "title": "埃迪柯特学院",
+      "titleEn": "Endicott College",
+      "allStu": 1,
+      "sourceId": 2738
+    },
+    {
+      "rank": 408,
+      "title": "乔治福克斯大学",
+      "titleEn": "George Fox University",
+      "allStu": 1,
+      "sourceId": 2753
+    },
+    {
+      "rank": 409,
+      "title": "哈姆林大学",
+      "titleEn": "Hamline University",
+      "allStu": 1,
+      "sourceId": 2768
+    },
+    {
+      "rank": 410,
+      "title": "印第安纳大学与普渡大学印第安纳波里斯联合分校",
+      "titleEn": "Indiana University-Purdue University Indianapolis",
+      "allStu": 1,
+      "sourceId": 2792
+    },
+    {
+      "rank": 411,
+      "title": "林菲尔德学院",
+      "titleEn": "Linfield College",
+      "allStu": 1,
+      "sourceId": 2829
+    },
+    {
+      "rank": 412,
+      "title": "洛拉斯学院",
+      "titleEn": "Loras College",
+      "allStu": 1,
+      "sourceId": 2832
+    },
+    {
+      "rank": 413,
+      "title": "马里兰洛约拉大学",
+      "titleEn": "Loyola University Maryland",
+      "allStu": 1,
+      "sourceId": 2835
+    },
+    {
+      "rank": 414,
+      "title": "林恩大学",
+      "titleEn": "Lynn University",
+      "allStu": 1,
+      "sourceId": 2837
+    },
+    {
+      "rank": 415,
+      "title": "缅因州海事学院",
+      "titleEn": "Maine Maritime Academy",
+      "allStu": 1,
+      "sourceId": 2838
+    },
+    {
+      "rank": 416,
+      "title": "密尔沃基工程学院",
+      "titleEn": "Milwaukee School of Engineering",
+      "allStu": 1,
+      "sourceId": 2857
+    },
+    {
+      "rank": 417,
+      "title": "北亚利桑那大学",
+      "titleEn": "Northern Arizona University",
+      "allStu": 2,
+      "sourceId": 2890
+    },
+    {
+      "rank": 418,
+      "title": "俄克拉何马州立大学",
+      "titleEn": "Oklahoma Panhandle State University",
+      "allStu": 1,
+      "sourceId": 2913
+    },
+    {
+      "rank": 419,
+      "title": "佩斯大学",
+      "titleEn": "Pace University",
+      "allStu": 12,
+      "sourceId": 2922
+    },
+    {
+      "rank": 420,
+      "title": "太平洋路德大学",
+      "titleEn": "Pacific Lutheran University",
+      "allStu": 1,
+      "sourceId": 2923
+    },
+    {
+      "rank": 421,
+      "title": "宾州州立大学艾宾顿分校",
+      "titleEn": "Penn State Abington",
+      "allStu": 3,
+      "sourceId": 2927
+    },
+    {
+      "rank": 422,
+      "title": "宾州州立大学阿尔图纳校区",
+      "titleEn": "Penn State Altoona",
+      "allStu": 3,
+      "sourceId": 2928
+    },
+    {
+      "rank": 423,
+      "title": "宾州州立大学布兰德万河校区",
+      "titleEn": "Penn State Brandywine",
+      "allStu": 4,
+      "sourceId": 2931
+    },
+    {
+      "rank": 424,
+      "title": "宾夕法尼亚州立大学约克分校",
+      "titleEn": "Penn State York",
+      "allStu": 7,
+      "sourceId": 2940
+    },
+    {
+      "rank": 425,
+      "title": "普林西庇亚学院",
+      "titleEn": "Principia College",
+      "allStu": 1,
+      "sourceId": 2953
+    },
+    {
+      "rank": 426,
+      "title": "普渡大学-印第安纳波利斯普渡理工学院",
+      "titleEn": "Purdue University - Purdue Polytechnic Indianapolis",
+      "allStu": 1,
+      "sourceId": 2957
+    },
+    {
+      "rank": 427,
+      "title": "瑞吉斯大学",
+      "titleEn": "Regis University",
+      "allStu": 2,
+      "sourceId": 2967
+    },
+    {
+      "rank": 428,
+      "title": "圣文森特学院",
+      "titleEn": "Saint Vincent College",
+      "allStu": 1,
+      "sourceId": 2984
+    },
+    {
+      "rank": 429,
+      "title": "西门子学院",
+      "titleEn": "Simmons University",
+      "allStu": 4,
+      "sourceId": 2996
+    },
+    {
+      "rank": 430,
+      "title": "南卡罗来纳州立大学",
+      "titleEn": "South Carolina State University",
+      "allStu": 1,
+      "sourceId": 3002
+    },
+    {
+      "rank": 431,
+      "title": "圣劳伦斯大学",
+      "titleEn": "St. Lawrence University",
+      "allStu": 6,
+      "sourceId": 3011
+    },
+    {
+      "rank": 432,
+      "title": "纽约州立大学奥尔巴尼分校",
+      "titleEn": "SUNY Albany",
+      "allStu": 1,
+      "sourceId": 3017
+    },
+    {
+      "rank": 433,
+      "title": "伍斯特学院",
+      "titleEn": "The College of Wooster",
+      "allStu": 6,
+      "sourceId": 3037
+    },
+    {
+      "rank": 434,
+      "title": "联合大学",
+      "titleEn": "Union University",
+      "allStu": 2,
+      "sourceId": 3045
+    },
+    {
+      "rank": 435,
+      "title": "辛辛那提大学",
+      "titleEn": "University of Cincinnati",
+      "allStu": 8,
+      "sourceId": 3054
+    },
+    {
+      "rank": 436,
+      "title": "印第安纳波利斯大学",
+      "titleEn": "University of Indianapolis",
+      "allStu": 1,
+      "sourceId": 3061
+    },
+    {
+      "rank": 437,
+      "title": "密歇根大学迪尔伯恩分校",
+      "titleEn": "University of Michigan-Dearborn",
+      "allStu": 5,
+      "sourceId": 3066
+    },
+    {
+      "rank": 438,
+      "title": "明尼苏达大学克鲁斯丁分校",
+      "titleEn": "University of Minnesota Crookston",
+      "allStu": 1,
+      "sourceId": 3067
+    },
+    {
+      "rank": 439,
+      "title": "明尼苏达大学德卢斯分校",
+      "titleEn": "University of Minnesota Duluth",
+      "allStu": 3,
+      "sourceId": 3068
+    },
+    {
+      "rank": 440,
+      "title": "明尼苏达大学罗切斯特分校",
+      "titleEn": "University of Minnesota-Rochester",
+      "allStu": 1,
+      "sourceId": 3069
+    },
+    {
+      "rank": 441,
+      "title": "明尼苏达大学莫里斯分校",
+      "titleEn": "University of Minnesota, Morris",
+      "allStu": 3,
+      "sourceId": 3070
+    },
+    {
+      "rank": 442,
+      "title": "纽黑文大学",
+      "titleEn": "University of New Haven",
+      "allStu": 1,
+      "sourceId": 3080
+    },
+    {
+      "rank": 443,
+      "title": "波特兰大学",
+      "titleEn": "University of Portland",
+      "allStu": 1,
+      "sourceId": 3084
+    },
+    {
+      "rank": 444,
+      "title": "雷德兰兹大学",
+      "titleEn": "University of Redlands",
+      "allStu": 2,
+      "sourceId": 3094
+    },
+    {
+      "rank": 445,
+      "title": "圣托马斯大学",
+      "titleEn": "University of St Thomas",
+      "allStu": 1,
+      "sourceId": 3099
+    },
+    {
+      "rank": 446,
+      "title": "威斯康星大学奥什科什分校",
+      "titleEn": "University of Wisconsin-Oshkosh",
+      "allStu": 4,
+      "sourceId": 3112
+    },
+    {
+      "rank": 447,
+      "title": "威斯康星大学斯托特分校",
+      "titleEn": "University of Wisconsin-Stout",
+      "allStu": 1,
+      "sourceId": 3115
+    },
+    {
+      "rank": 448,
+      "title": "文森斯大学",
+      "titleEn": "Vincennes University",
+      "allStu": 1,
+      "sourceId": 3119
+    },
+    {
+      "rank": 449,
+      "title": "惠特沃斯大学",
+      "titleEn": "Whitworth University",
+      "allStu": 1,
+      "sourceId": 3135
+    },
+    {
+      "rank": 450,
+      "title": "阿斯伯里大学",
+      "titleEn": "Asbury University",
+      "allStu": 1,
+      "sourceId": 3155
+    },
+    {
+      "rank": 451,
+      "title": "本宁顿学院",
+      "titleEn": "Bennington College",
+      "allStu": 2,
+      "sourceId": 3157
+    },
+    {
+      "rank": 452,
+      "title": "麻省医药与健康科学学院",
+      "titleEn": "Massachusetts College of Pharmacy and Health Sciences",
+      "allStu": 4,
+      "sourceId": 3190
+    },
+    {
+      "rank": 453,
+      "title": "奥城大学",
+      "titleEn": "Oklahoma City University",
+      "allStu": 1,
+      "sourceId": 3199
+    },
+    {
+      "rank": 454,
+      "title": "宾州州立大学阿宾顿校区",
+      "titleEn": "Penn State University Abington",
+      "allStu": 8,
+      "sourceId": 3200
+    },
+    {
+      "rank": 455,
+      "title": "宾州州立大学贝伦德分校",
+      "titleEn": "Penn State University Beaver",
+      "allStu": 3,
+      "sourceId": 3201
+    },
+    {
+      "rank": 456,
+      "title": "宾州州立大学伯克斯分校",
+      "titleEn": "Penn State University Berks",
+      "allStu": 2,
+      "sourceId": 3202
+    },
+    {
+      "rank": 457,
+      "title": "宾州州立大学约克校区",
+      "titleEn": "Penn State University York",
+      "allStu": 1,
+      "sourceId": 3213
+    },
+    {
+      "rank": 458,
+      "title": "斯普林阿伯大学",
+      "titleEn": "Spring Arbor University",
+      "allStu": 1,
+      "sourceId": 3220
+    },
+    {
+      "rank": 459,
+      "title": "罕布什尔学院",
+      "titleEn": "Hampshire College",
+      "allStu": 1,
+      "sourceId": 3243
+    },
+    {
+      "rank": 460,
+      "title": "林菲尔德大学",
+      "titleEn": "Linfield University",
+      "allStu": 1,
+      "sourceId": 3257
+    },
+    {
+      "rank": 461,
+      "title": "富兰克林欧林工程学院",
+      "titleEn": "Franklin W Olin College of Engineering",
+      "allStu": 4,
+      "sourceId": 3290
+    },
+    {
+      "rank": 462,
+      "title": "迈阿密大学（俄亥俄）",
+      "titleEn": "Miami University (Ohio)",
+      "allStu": 2,
+      "sourceId": 3348
+    },
+    {
+      "rank": 463,
+      "title": "明尼阿波利斯社区技术学院",
+      "titleEn": "Minneapolis Community and Technical College",
+      "allStu": 1,
+      "sourceId": 3349
+    },
+    {
+      "rank": 464,
+      "title": "保伯琼斯大学",
+      "titleEn": "Bob Jones University",
+      "allStu": 1,
+      "sourceId": 3386
+    },
+    {
+      "rank": 465,
+      "title": "AA建筑联盟学院",
+      "titleEn": "Architectural Association School of Architecture",
+      "allStu": 14,
+      "sourceId": 3403
+    },
+    {
+      "rank": 466,
+      "title": "加州艺术学院（CAL Arts）",
+      "titleEn": "California Institute of the Arts",
+      "allStu": 56,
+      "sourceId": 3407
+    },
+    {
+      "rank": 467,
+      "title": "埃克塞特大学",
+      "titleEn": "University of Exeter",
+      "allStu": 37,
+      "sourceId": 3408
+    },
+    {
+      "rank": 468,
+      "title": "韦仕敦大学",
+      "titleEn": "Western University",
+      "allStu": 325,
+      "sourceId": 3411
+    },
+    {
+      "rank": 471,
+      "title": "大西洋学院",
+      "titleEn": "College of the Atlantic",
+      "allStu": 1,
+      "sourceId": 3418
+    },
+    {
+      "rank": 472,
+      "title": "迪吉彭理工学院",
+      "titleEn": "DigiPen Institute of Technology",
+      "allStu": 6,
+      "sourceId": 3420
+    },
+    {
+      "rank": 473,
+      "title": "马里兰大学全球校区",
+      "titleEn": "University of Maryland Global Campus",
+      "allStu": 2,
+      "sourceId": 3439
+    },
+    {
+      "rank": 474,
+      "title": "伦敦大学金史密斯学院",
+      "titleEn": "Goldsmiths, University of London",
+      "allStu": 141,
+      "sourceId": 10019
+    },
+    {
+      "rank": 475,
+      "title": "肯特大学",
+      "titleEn": "University of Kent",
+      "allStu": 10,
+      "sourceId": 10213
+    },
+    {
+      "rank": 478,
+      "title": "美国MI现代音乐学院",
+      "titleEn": "MI College of Contemporary Music",
+      "allStu": 23,
+      "sourceId": 10271
+    },
+    {
+      "rank": 479,
+      "title": "圣约翰学院",
+      "titleEn": "St.John's College",
+      "allStu": 2,
+      "sourceId": 10292
+    },
+    {
+      "rank": 480,
+      "title": "上海纽约大学",
+      "titleEn": "New York University Shanghai",
+      "allStu": 10,
+      "sourceId": 10300
+    },
+    {
+      "rank": 481,
+      "title": "阿姆斯特丹大学",
+      "titleEn": "University of Amsterdam",
+      "allStu": 192,
+      "sourceId": 10304
+    },
+    {
+      "rank": 484,
+      "title": "上海交通大学",
+      "titleEn": "Shanghai Jiao Tong University",
+      "allStu": 5,
+      "sourceId": 10572
+    },
+    {
+      "rank": 485,
+      "title": "北京大学",
+      "titleEn": "Peking University",
+      "allStu": 6,
+      "sourceId": 10575
+    },
+    {
+      "rank": 486,
+      "title": "清华大学",
+      "titleEn": "Tsinghua University",
+      "allStu": 7,
+      "sourceId": 10576
+    },
+    {
+      "rank": 487,
+      "title": "宁波诺丁汉大学",
+      "titleEn": "University of Nottingham Ningbo China",
+      "allStu": 7,
+      "sourceId": 10689
+    },
+    {
+      "rank": 488,
+      "title": "萨里大学",
+      "titleEn": "University of Surrey",
+      "allStu": 17,
+      "sourceId": 10696
+    },
+    {
+      "rank": 490,
+      "title": "伦敦大学亚非学院",
+      "titleEn": "SOAS University of London",
+      "allStu": 5,
+      "sourceId": 10723
+    },
+    {
+      "rank": 491,
+      "title": "瑞士洛桑酒店管理学院",
+      "titleEn": "Ecole Hoteliere de Lausanne",
+      "allStu": 37,
+      "sourceId": 10732
+    },
+    {
+      "rank": 492,
+      "title": "阿伯丁大学",
+      "titleEn": "University of Aberdeen",
+      "allStu": 11,
+      "sourceId": 10749
+    },
+    {
+      "rank": 493,
+      "title": "亚伯大学",
+      "titleEn": "Aberystwyth University",
+      "allStu": 1,
+      "sourceId": 10750
+    },
+    {
+      "rank": 494,
+      "title": "韦仕敦大学国王大学学院",
+      "titleEn": "King's University College at Western University",
+      "allStu": 5,
+      "sourceId": 10751
+    },
+    {
+      "rank": 495,
+      "title": "四川大学",
+      "titleEn": "Si Chuan University",
+      "allStu": 1,
+      "sourceId": 10781
+    },
+    {
+      "rank": 496,
+      "title": "苏黎世联邦理工学院",
+      "titleEn": "Swiss Federal Institute of Technology in Zurich",
+      "allStu": 2,
+      "sourceId": 10784
+    },
+    {
+      "rank": 497,
+      "title": "上海外国语大学贤达经济人文学院",
+      "titleEn": "Xianda College of Economics and Humanities Shanghai International Studies University",
+      "allStu": 1,
+      "sourceId": 10790
+    },
+    {
+      "rank": 498,
+      "title": "立命馆亚洲太平洋大学",
+      "titleEn": "APU",
+      "allStu": 25,
+      "sourceId": 10824
+    },
+    {
+      "rank": 500,
+      "title": "中山大学",
+      "titleEn": "Sun Yat-sen University",
+      "allStu": 1,
+      "sourceId": 10828
+    },
+    {
+      "rank": 501,
+      "title": "哥伦比亚大学-都柏林圣三一学院双学位项目",
+      "titleEn": "哥伦比亚大学-都柏林圣三一学院双学位项目",
+      "allStu": 33,
+      "sourceId": 10857
+    },
+    {
+      "rank": 502,
+      "title": "哥伦比亚大学-巴黎政治学院双学位项目",
+      "titleEn": "Dual BA Program Between Columbia University and Sciences Po",
+      "allStu": 16,
+      "sourceId": 10858
+    },
+    {
+      "rank": 503,
+      "title": "哥伦比亚大学-特拉维夫大学双学位项目",
+      "titleEn": "哥伦比亚大学-特拉维夫大学双学位项目",
+      "allStu": 2,
+      "sourceId": 10861
+    },
+    {
+      "rank": 505,
+      "title": "香港中文大学（深圳）",
+      "titleEn": "The Chinese University of Hong Kong, Shenzhen",
+      "allStu": 3,
+      "sourceId": 10892
+    },
+    {
+      "rank": 506,
+      "title": "布鲁克大学",
+      "titleEn": "Brock University",
+      "allStu": 11,
+      "sourceId": 10914
+    },
+    {
+      "rank": 507,
+      "title": "东京庆应义塾大学",
+      "titleEn": "Keio University (Tokyo)",
+      "allStu": 47,
+      "sourceId": 10916
+    },
+    {
+      "rank": 508,
+      "title": "上海财经大学",
+      "titleEn": "Shanghai University of Finance and Economics",
+      "allStu": 2,
+      "sourceId": 10962
+    },
+    {
+      "rank": 509,
+      "title": "巴黎政治大学",
+      "titleEn": "Institut d'Etudes Politiques de Paris",
+      "allStu": 1,
+      "sourceId": 11016
+    },
+    {
+      "rank": 510,
+      "title": "西交利物浦大学",
+      "titleEn": "Xi’an Jiaotong-liverpool University",
+      "allStu": 8,
+      "sourceId": 11019
+    },
+    {
+      "rank": 511,
+      "title": "伦敦国王学院",
+      "titleEn": "King's College London",
+      "allStu": 4095,
+      "sourceId": 11150
+    },
+    {
+      "rank": 512,
+      "title": "都柏林大学",
+      "titleEn": "University College Dublin",
+      "allStu": 42,
+      "sourceId": 11155
+    },
+    {
+      "rank": 513,
+      "title": "澳门科技大学",
+      "titleEn": "Macau University of Science and Technology",
+      "allStu": 1,
+      "sourceId": 11157
+    },
+    {
+      "rank": 514,
+      "title": "多伦多大学密西沙加校区",
+      "titleEn": "University of Toronto at Mississauga",
+      "allStu": 306,
+      "sourceId": 11202
+    },
+    {
+      "rank": 515,
+      "title": "同济大学",
+      "titleEn": "Tongji University",
+      "allStu": 1,
+      "sourceId": 11204
+    },
+    {
+      "rank": 516,
+      "title": "代尔夫特理工大学",
+      "titleEn": "Technische Universiteit Delft",
+      "allStu": 26,
+      "sourceId": 11214
+    },
+    {
+      "rank": 517,
+      "title": "贝尔法斯特女王大学",
+      "titleEn": "Queen's University Belfast",
+      "allStu": 12,
+      "sourceId": 11238
+    },
+    {
+      "rank": 519,
+      "title": "克里夫兰艺术学院",
+      "titleEn": "Cleveland Institute of Art",
+      "allStu": 1,
+      "sourceId": 11322
+    },
+    {
+      "rank": 520,
+      "title": "北京师范大学-香港浸会大学联合国际学院",
+      "titleEn": "United International College(UIC)",
+      "allStu": 23,
+      "sourceId": 11329
+    },
+    {
+      "rank": 521,
+      "title": "悉尼科技大学",
+      "titleEn": "University of Technology Sydney",
+      "allStu": 218,
+      "sourceId": 11341
+    },
+    {
+      "rank": 523,
+      "title": "伯明翰城市大学",
+      "titleEn": "Birmingham City University",
+      "allStu": 30,
+      "sourceId": 11556
+    },
+    {
+      "rank": 524,
+      "title": "伦敦城市大学",
+      "titleEn": "London Metropolitan University",
+      "allStu": 9,
+      "sourceId": 11558
+    },
+    {
+      "rank": 526,
+      "title": "皇家兽医学院",
+      "titleEn": "Royal Veterinary College",
+      "allStu": 23,
+      "sourceId": 11591
+    },
+    {
+      "rank": 528,
+      "title": "欧洲高等商学院",
+      "titleEn": "ESCP Business School",
+      "allStu": 14,
+      "sourceId": 11651
+    },
+    {
+      "rank": 529,
+      "title": "鹿特丹伊拉斯姆斯大学",
+      "titleEn": "Erasmus University Rotterdam",
+      "allStu": 6,
+      "sourceId": 11658
+    },
+    {
+      "rank": 530,
+      "title": "宾州州立大学阿宾顿分校",
+      "titleEn": "The Pennsylvania State University Abington",
+      "allStu": 4,
+      "sourceId": 11661
+    },
+    {
+      "rank": 532,
+      "title": "同志社大学",
+      "titleEn": "Doshisha University",
+      "allStu": 6,
+      "sourceId": 11720
+    },
+    {
+      "rank": 533,
+      "title": "赫特福德大学",
+      "titleEn": "University of Herfordshire",
+      "allStu": 10,
+      "sourceId": 11733
+    },
+    {
+      "rank": 534,
+      "title": "金斯顿大学",
+      "titleEn": "Kingston University",
+      "allStu": 204,
+      "sourceId": 11734
+    },
+    {
+      "rank": 535,
+      "title": "伯恩茅斯艺术大学",
+      "titleEn": "Arts University Bournemouth",
+      "allStu": 24,
+      "sourceId": 11735
+    },
+    {
+      "rank": 536,
+      "title": "布莱顿大学",
+      "titleEn": "University of Brighton",
+      "allStu": 32,
+      "sourceId": 11736
+    },
+    {
+      "rank": 537,
+      "title": "思克莱德大学",
+      "titleEn": "University of Strathclyde",
+      "allStu": 2,
+      "sourceId": 11738
+    },
+    {
+      "rank": 538,
+      "title": "利兹艺术大学",
+      "titleEn": "Leeds Arts University",
+      "allStu": 3,
+      "sourceId": 11748
+    },
+    {
+      "rank": 539,
+      "title": "考文垂大学",
+      "titleEn": "Coventry University",
+      "allStu": 20,
+      "sourceId": 11749
+    },
+    {
+      "rank": 540,
+      "title": "阿斯顿大学",
+      "titleEn": "Aston University",
+      "allStu": 8,
+      "sourceId": 11750
+    },
+    {
+      "rank": 541,
+      "title": "基尔大学",
+      "titleEn": "Keele University",
+      "allStu": 3,
+      "sourceId": 11751
+    },
+    {
+      "rank": 542,
+      "title": "上智大学",
+      "titleEn": "Sophia University",
+      "allStu": 55,
+      "sourceId": 11752
+    },
+    {
+      "rank": 543,
+      "title": "芝加哥哥伦比亚学院",
+      "titleEn": "Columbia College Chicago",
+      "allStu": 11,
+      "sourceId": 11753
+    },
+    {
+      "rank": 545,
+      "title": "瑞士理诺士国际酒店管理学院",
+      "titleEn": "Les Roches Inernational School of Hotel Management",
+      "allStu": 13,
+      "sourceId": 11756
+    },
+    {
+      "rank": 546,
+      "title": "劳瑞尔大学",
+      "titleEn": "Whifrid Laurier University",
+      "allStu": 10,
+      "sourceId": 11758
+    },
+    {
+      "rank": 548,
+      "title": "米兰路易吉·博科尼大学",
+      "titleEn": "Bocconi University",
+      "allStu": 6,
+      "sourceId": 11838
+    },
+    {
+      "rank": 549,
+      "title": "昆山杜克大学",
+      "titleEn": "Duke Kunshan University",
+      "allStu": 4,
+      "sourceId": 11862
+    },
+    {
+      "rank": 550,
+      "title": "北京理工大学",
+      "titleEn": "Beijing Institute of Technology",
+      "allStu": 1,
+      "sourceId": 11866
+    },
+    {
+      "rank": 551,
+      "title": "都柏林圣三一大学",
+      "titleEn": "都柏林圣三一大学",
+      "allStu": 68,
+      "sourceId": 11872
+    },
+    {
+      "rank": 552,
+      "title": "阿尔伯塔艺术设计学院",
+      "titleEn": "阿尔伯塔艺术设计学院",
+      "allStu": 7,
+      "sourceId": 11885
+    },
+    {
+      "rank": 553,
+      "title": "艾米丽卡尔艺术设计学院",
+      "titleEn": "艾米丽卡尔艺术设计学院",
+      "allStu": 14,
+      "sourceId": 11886
+    },
+    {
+      "rank": 554,
+      "title": "卡尔顿大学",
+      "titleEn": "卡尔顿大学",
+      "allStu": 8,
+      "sourceId": 11887
+    },
+    {
+      "rank": 555,
+      "title": "九州大学",
+      "titleEn": "Kyushu University",
+      "allStu": 6,
+      "sourceId": 11898
+    },
+    {
+      "rank": 556,
+      "title": "泰莱大学",
+      "titleEn": "Taylor`s university",
+      "allStu": 3,
+      "sourceId": 11948
+    },
+    {
+      "rank": 557,
+      "title": "多伦多大学世嘉堡校区",
+      "titleEn": "University of Toronto Scarborough",
+      "allStu": 271,
+      "sourceId": 11954
+    },
+    {
+      "rank": 558,
+      "title": "哥伦比亚大学通识学院",
+      "titleEn": "哥伦比亚大学通识学院",
+      "allStu": 1,
+      "sourceId": 11971
+    },
+    {
+      "rank": 559,
+      "title": "卡内基梅隆大学卡塔尔分校",
+      "titleEn": "卡内基梅隆大学卡塔尔分校",
+      "allStu": 5,
+      "sourceId": 11995
+    },
+    {
+      "rank": 560,
+      "title": "米兰新美术学院",
+      "titleEn": "Nuova Accademia di belle arti di MILANO",
+      "allStu": 3,
+      "sourceId": 12024
+    },
+    {
+      "rank": 561,
+      "title": "法国里昂商学院",
+      "titleEn": "EMLYON Business School",
+      "allStu": 7,
+      "sourceId": 12027
+    },
+    {
+      "rank": 562,
+      "title": "邓迪大学",
+      "titleEn": "University of Dundee",
+      "allStu": 5,
+      "sourceId": 12029
+    },
+    {
+      "rank": 563,
+      "title": "伦敦大学伯贝克学院",
+      "titleEn": "Birkbeck, University of London",
+      "allStu": 2,
+      "sourceId": 12030
+    },
+    {
+      "rank": 564,
+      "title": "朴次茅斯大学",
+      "titleEn": "University of Portsmouth",
+      "allStu": 4,
+      "sourceId": 12032
+    },
+    {
+      "rank": 565,
+      "title": "谢菲尔德哈勒姆大学",
+      "titleEn": "Sheffield Hallam University",
+      "allStu": 1,
+      "sourceId": 12033
+    },
+    {
+      "rank": 566,
+      "title": "巴斯泉大学",
+      "titleEn": "Bath Spa University",
+      "allStu": 1,
+      "sourceId": 12034
+    },
+    {
+      "rank": 567,
+      "title": "伯明翰大学学院",
+      "titleEn": "University College Birmingham",
+      "allStu": 1,
+      "sourceId": 12035
+    },
+    {
+      "rank": 569,
+      "title": "威斯敏斯特大学",
+      "titleEn": "University of Westminster",
+      "allStu": 68,
+      "sourceId": 12037
+    },
+    {
+      "rank": 570,
+      "title": "早稻田大学",
+      "titleEn": "Waseda University",
+      "allStu": 93,
+      "sourceId": 12040
+    },
+    {
+      "rank": 571,
+      "title": "香港都会大学",
+      "titleEn": "Hong Kong Metropolitan University",
+      "allStu": 97,
+      "sourceId": 12047
+    },
+    {
+      "rank": 572,
+      "title": "香港恒生大学",
+      "titleEn": "The Hang Seng University of Hong Kong",
+      "allStu": 40,
+      "sourceId": 12048
+    },
+    {
+      "rank": 573,
+      "title": "格罗宁根大学",
+      "titleEn": "University of Groningen",
+      "allStu": 37,
+      "sourceId": 12051
+    },
+    {
+      "rank": 574,
+      "title": "提赛德大学",
+      "titleEn": "Teesside University",
+      "allStu": 45,
+      "sourceId": 12057
+    },
+    {
+      "rank": 575,
+      "title": "诺丁汉特伦特大学",
+      "titleEn": "Nottingham Trent University",
+      "allStu": 25,
+      "sourceId": 12058
+    },
+    {
+      "rank": 576,
+      "title": "马兰戈尼学院",
+      "titleEn": "Istituto Marangoni",
+      "allStu": 8,
+      "sourceId": 12059
+    },
+    {
+      "rank": 577,
+      "title": "安大略艺术设计学院",
+      "titleEn": "Ontario College of Art & Design University",
+      "allStu": 22,
+      "sourceId": 12062
+    },
+    {
+      "rank": 578,
+      "title": "利兹音乐学院",
+      "titleEn": "Leeds Conservatoire",
+      "allStu": 19,
+      "sourceId": 12071
+    },
+    {
+      "rank": 579,
+      "title": "伯恩茅斯大学",
+      "titleEn": "Bournemouth University",
+      "allStu": 55,
+      "sourceId": 12072
+    },
+    {
+      "rank": 580,
+      "title": "安格利亚鲁斯金大学",
+      "titleEn": "Anglia Ruskin University",
+      "allStu": 11,
+      "sourceId": 12073
+    },
+    {
+      "rank": 581,
+      "title": "福赛大学",
+      "titleEn": "Full Sail University",
+      "allStu": 1,
+      "sourceId": 12075
+    },
+    {
+      "rank": 583,
+      "title": "普利茅斯艺术学院",
+      "titleEn": "Plymouth College of Art",
+      "allStu": 1,
+      "sourceId": 12078
+    },
+    {
+      "rank": 584,
+      "title": "赫瑞-瓦特大学",
+      "titleEn": "Heriot-Watt University",
+      "allStu": 8,
+      "sourceId": 12079
+    },
+    {
+      "rank": 585,
+      "title": "北安普顿大学",
+      "titleEn": "The University of Northampton",
+      "allStu": 1,
+      "sourceId": 12080
+    },
+    {
+      "rank": 586,
+      "title": "剑桥视觉及表演艺术学校",
+      "titleEn": "Cambridge School of Visual & performing Arts",
+      "allStu": 2,
+      "sourceId": 12083
+    },
+    {
+      "rank": 587,
+      "title": "曼尼托巴大学",
+      "titleEn": "University of Manitoba",
+      "allStu": 8,
+      "sourceId": 12110
+    },
+    {
+      "rank": 588,
+      "title": "多伦多都会大学",
+      "titleEn": "Toronto Metropolitan University",
+      "allStu": 17,
+      "sourceId": 12111
+    },
+    {
+      "rank": 589,
+      "title": "阿伯里斯特维斯大学",
+      "titleEn": "Aberystwyth University",
+      "allStu": 1,
+      "sourceId": 12112
+    },
+    {
+      "rank": 590,
+      "title": "牛津布鲁克斯大学",
+      "titleEn": "Oxford Brookes University",
+      "allStu": 12,
+      "sourceId": 12113
+    },
+    {
+      "rank": 591,
+      "title": "科廷大学新加坡校区",
+      "titleEn": "Curtin Singapore",
+      "allStu": 46,
+      "sourceId": 12116
+    },
+    {
+      "rank": 592,
+      "title": "昆士兰科技大学",
+      "titleEn": "Queensland University of Technology",
+      "allStu": 21,
+      "sourceId": 12117
+    },
+    {
+      "rank": 593,
+      "title": "乌特勒支大学",
+      "titleEn": "Utrecht University",
+      "allStu": 25,
+      "sourceId": 12118
+    },
+    {
+      "rank": 594,
+      "title": "莱顿大学",
+      "titleEn": "Leiden University",
+      "allStu": 25,
+      "sourceId": 12119
+    },
+    {
+      "rank": 595,
+      "title": "蒙纳士大学马来西亚校区",
+      "titleEn": "Monash University Malaysia",
+      "allStu": 207,
+      "sourceId": 12120
+    },
+    {
+      "rank": 596,
+      "title": "德蒙福特大学",
+      "titleEn": "De Montfort University",
+      "allStu": 5,
+      "sourceId": 12121
+    },
+    {
+      "rank": 597,
+      "title": "曼彻斯特城市大学",
+      "titleEn": "Manchester Metropolitan University",
+      "allStu": 24,
+      "sourceId": 12125
+    },
+    {
+      "rank": 599,
+      "title": "冈山大学",
+      "titleEn": "Okayama University",
+      "allStu": 3,
+      "sourceId": 12128
+    },
+    {
+      "rank": 600,
+      "title": "格里昂高等教育学院",
+      "titleEn": "Glion Institute of Higher Education",
+      "allStu": 1,
+      "sourceId": 12129
+    },
+    {
+      "rank": 601,
+      "title": "瑞士酒店管理学院",
+      "titleEn": "Swiss Hotel Management School",
+      "allStu": 38,
+      "sourceId": 12130
+    },
+    {
+      "rank": 602,
+      "title": "瑞士蒙特勒酒店工商管理大学",
+      "titleEn": "Hotel Institute Montreux",
+      "allStu": 2,
+      "sourceId": 12131
+    },
+    {
+      "rank": 603,
+      "title": "奎尔夫大学",
+      "titleEn": "Universityof Guelph",
+      "allStu": 2,
+      "sourceId": 12132
+    },
+    {
+      "rank": 604,
+      "title": "法国北方高等商学院",
+      "titleEn": "EDHEC Business School",
+      "allStu": 3,
+      "sourceId": 12133
+    },
+    {
+      "rank": 605,
+      "title": "赫尔大学",
+      "titleEn": "赫尔大学",
+      "allStu": 1,
+      "sourceId": 12135
+    },
+    {
+      "rank": 606,
+      "title": "埃塞克高等商学院",
+      "titleEn": "ESSEC Business School",
+      "allStu": 12,
+      "sourceId": 12136
+    },
+    {
+      "rank": 607,
+      "title": "皇家墨尔本理工大学",
+      "titleEn": "Royal Melbourne Institute of Technology",
+      "allStu": 82,
+      "sourceId": 12141
+    },
+    {
+      "rank": 608,
+      "title": "哈德斯菲尔德大学",
+      "titleEn": "University of Huddersfield",
+      "allStu": 2,
+      "sourceId": 12148
+    },
+    {
+      "rank": 609,
+      "title": "班戈大学",
+      "titleEn": "Bangor University",
+      "allStu": 2,
+      "sourceId": 12149
+    },
+    {
+      "rank": 610,
+      "title": "日本大学",
+      "titleEn": "Nihon University",
+      "allStu": 4,
+      "sourceId": 12152
+    },
+    {
+      "rank": 611,
+      "title": "武藏野美术大学",
+      "titleEn": "Musashino Art University",
+      "allStu": 1,
+      "sourceId": 12153
+    },
+    {
+      "rank": 612,
+      "title": "西沃恩南方大学",
+      "titleEn": "Sewanee: The University of the South",
+      "allStu": 6,
+      "sourceId": 12166
+    },
+    {
+      "rank": 613,
+      "title": "斯特灵大学",
+      "titleEn": "University of Stirling",
+      "allStu": 8,
+      "sourceId": 12167
+    },
+    {
+      "rank": 614,
+      "title": "西英格兰大学",
+      "titleEn": "University of the West of England",
+      "allStu": 2,
+      "sourceId": 12168
+    },
+    {
+      "rank": 615,
+      "title": "皇家中央演讲和戏剧学院",
+      "titleEn": "Royal Central School of Speech & Drama",
+      "allStu": 5,
+      "sourceId": 12171
+    },
+    {
+      "rank": 616,
+      "title": "埃因霍芬理工大学",
+      "titleEn": "Eindhoven University of Technology",
+      "allStu": 32,
+      "sourceId": 12174
+    },
+    {
+      "rank": 618,
+      "title": "新加坡拉萨尔艺术学院",
+      "titleEn": "LASALLE College of the Arts",
+      "allStu": 16,
+      "sourceId": 12177
+    },
+    {
+      "rank": 619,
+      "title": "迪肯大学",
+      "titleEn": "Deakin University",
+      "allStu": 24,
+      "sourceId": 12197
+    },
+    {
+      "rank": 620,
+      "title": "詹姆斯-库克大学",
+      "titleEn": "James Cook University",
+      "allStu": 7,
+      "sourceId": 12198
+    },
+    {
+      "rank": 621,
+      "title": "诺瓦艺术与设计大学",
+      "titleEn": "Nova Scotia College of Art and Design University",
+      "allStu": 1,
+      "sourceId": 12199
+    },
+    {
+      "rank": 622,
+      "title": "诺丁汉大学马来西亚校区",
+      "titleEn": "University of Nottingham Malaysia ",
+      "allStu": 77,
+      "sourceId": 12201
+    },
+    {
+      "rank": 623,
+      "title": "奥克兰理工大学",
+      "titleEn": "Auckland University of Technology",
+      "allStu": 16,
+      "sourceId": 12202
+    },
+    {
+      "rank": 624,
+      "title": "西伦敦大学",
+      "titleEn": "University of West London ",
+      "allStu": 8,
+      "sourceId": 12251
+    },
+    {
+      "rank": 625,
+      "title": "奥塔哥大学",
+      "titleEn": "University of Otago",
+      "allStu": 12,
+      "sourceId": 12254
+    },
+    {
+      "rank": 626,
+      "title": "桑德兰大学",
+      "titleEn": "University of Sunderland",
+      "allStu": 1,
+      "sourceId": 12256
+    },
+    {
+      "rank": 627,
+      "title": "利兹贝克特大学",
+      "titleEn": "Leeds Beckett University",
+      "allStu": 1,
+      "sourceId": 12257
+    },
+    {
+      "rank": 628,
+      "title": "坎特伯雷大学",
+      "titleEn": "University of Canterbury",
+      "allStu": 11,
+      "sourceId": 12258
+    },
+    {
+      "rank": 629,
+      "title": "伍伦贡大学",
+      "titleEn": "University of Wollongong",
+      "allStu": 4,
+      "sourceId": 12259
+    },
+    {
+      "rank": 630,
+      "title": "瓦赫宁根大学",
+      "titleEn": "Wageningen University & Research",
+      "allStu": 17,
+      "sourceId": 12260
+    },
+    {
+      "rank": 631,
+      "title": "阿姆斯特丹自由大学",
+      "titleEn": "Vrije University Amsterdam",
+      "allStu": 9,
+      "sourceId": 12261
+    },
+    {
+      "rank": 633,
+      "title": "爱德华王子岛大学",
+      "titleEn": "University of Prince Edward Island",
+      "allStu": 1,
+      "sourceId": 12266
+    },
+    {
+      "rank": 634,
+      "title": "谢尔丹学院",
+      "titleEn": "Sheridan College",
+      "allStu": 11,
+      "sourceId": 12267
+    },
+    {
+      "rank": 635,
+      "title": "成均馆大学",
+      "titleEn": "Sungkyunkwan University",
+      "allStu": 9,
+      "sourceId": 12345
+    },
+    {
+      "rank": 636,
+      "title": "澳门城市大学",
+      "titleEn": "City University of Macau",
+      "allStu": 2,
+      "sourceId": 12350
+    },
+    {
+      "rank": 637,
+      "title": "格里菲斯大学",
+      "titleEn": "Griffith University",
+      "allStu": 9,
+      "sourceId": 12372
+    },
+    {
+      "rank": 638,
+      "title": "格里昂酒店管理学院",
+      "titleEn": "Glion Institute of Higher Education",
+      "allStu": 8,
+      "sourceId": 12396
+    },
+    {
+      "rank": 639,
+      "title": "英国皇家威尔士音乐戏剧学院",
+      "titleEn": "Royal Welsh College of Music  and Drama",
+      "allStu": 9,
+      "sourceId": 12517
+    },
+    {
+      "rank": 640,
+      "title": "纽芬兰纪念大学",
+      "titleEn": "Memorial University of Newfoundland",
+      "allStu": 1,
+      "sourceId": 12539
+    },
+    {
+      "rank": 641,
+      "title": "萨塞克斯大学(英国)",
+      "titleEn": "University of Sussex",
+      "allStu": 6,
+      "sourceId": 12557
+    },
+    {
+      "rank": 642,
+      "title": "麦考瑞大学",
+      "titleEn": "Macquarie University",
+      "allStu": 16,
+      "sourceId": 12570
+    },
+    {
+      "rank": 643,
+      "title": "奥克兰大学",
+      "titleEn": "University of Auckland",
+      "allStu": 334,
+      "sourceId": 12575
+    },
+    {
+      "rank": 644,
+      "title": "圣三一拉邦音乐舞蹈学院",
+      "titleEn": "Trinity Laban Conservatoire of Music and Dance",
+      "allStu": 8,
+      "sourceId": 12577
+    },
+    {
+      "rank": 645,
+      "title": "特文特大学",
+      "titleEn": "University of Twente",
+      "allStu": 4,
+      "sourceId": 12581
+    },
+    {
+      "rank": 646,
+      "title": "马斯特里赫特大学",
+      "titleEn": "Maastricht University",
+      "allStu": 4,
+      "sourceId": 12582
+    },
+    {
+      "rank": 648,
+      "title": "利物浦约翰摩尔大学",
+      "titleEn": "Liverpool John Moores University",
+      "allStu": 1,
+      "sourceId": 12600
+    },
+    {
+      "rank": 650,
+      "title": "爱尔兰高威大学",
+      "titleEn": "University of Galway",
+      "allStu": 5,
+      "sourceId": 12602
+    },
+    {
+      "rank": 651,
+      "title": "切斯特大学",
+      "titleEn": "University of Chester",
+      "allStu": 1,
+      "sourceId": 12603
+    },
+    {
+      "rank": 652,
+      "title": "巴斯大学",
+      "titleEn": "University of Bath",
+      "allStu": 51,
+      "sourceId": 12623
+    },
+    {
+      "rank": 653,
+      "title": "立命馆大学",
+      "titleEn": "Ritsumeikan University",
+      "allStu": 38,
+      "sourceId": 12636
+    },
+    {
+      "rank": 654,
+      "title": "皇家北方音乐学院",
+      "titleEn": "Royal Northern College of Music",
+      "allStu": 16,
+      "sourceId": 12656
+    },
+    {
+      "rank": 655,
+      "title": "堪培拉大学",
+      "titleEn": "University of Canberra",
+      "allStu": 10,
+      "sourceId": 12658
+    },
+    {
+      "rank": 656,
+      "title": "瑞士美食艺术管理大学",
+      "titleEn": "Culinary Arts Academy",
+      "allStu": 7,
+      "sourceId": 12682
+    },
+    {
+      "rank": 657,
+      "title": "怀卡托大学",
+      "titleEn": "The University of Waikato",
+      "allStu": 17,
+      "sourceId": 12683
+    },
+    {
+      "rank": 658,
+      "title": "东京理科大学",
+      "titleEn": "Tokyo University of Science",
+      "allStu": 18,
+      "sourceId": 12684
+    },
+    {
+      "rank": 659,
+      "title": "关西大学",
+      "titleEn": "Kansai University",
+      "allStu": 7,
+      "sourceId": 12686
+    },
+    {
+      "rank": 660,
+      "title": "斯旺西大学",
+      "titleEn": "Swansea University",
+      "allStu": 5,
+      "sourceId": 12687
+    },
+    {
+      "rank": 661,
+      "title": "市政厅音乐及戏剧学院",
+      "titleEn": "Guildhall School of Music & Drama",
+      "allStu": 6,
+      "sourceId": 12703
+    },
+    {
+      "rank": 662,
+      "title": "澳门大学",
+      "titleEn": "University of Macau",
+      "allStu": 1,
+      "sourceId": 12739
+    },
+    {
+      "rank": 663,
+      "title": "创意设计学院",
+      "titleEn": "College for Creative Studies",
+      "allStu": 2,
+      "sourceId": 12747
+    },
+    {
+      "rank": 664,
+      "title": "京都精华大学",
+      "titleEn": "Kyoto Seika University",
+      "allStu": 5,
+      "sourceId": 12766
+    },
+    {
+      "rank": 665,
+      "title": "梅特电影学院",
+      "titleEn": "Met Film School",
+      "allStu": 6,
+      "sourceId": 12767
+    },
+    {
+      "rank": 666,
+      "title": "宝冢大学",
+      "titleEn": "Takarazuka University",
+      "allStu": 1,
+      "sourceId": 12810
+    },
+    {
+      "rank": 667,
+      "title": "美国纽约利姆时尚商业管理学院",
+      "titleEn": "LIM College",
+      "allStu": 4,
+      "sourceId": 12811
+    },
+    {
+      "rank": 668,
+      "title": "京都艺术大学",
+      "titleEn": "Kyoto University of the Arts",
+      "allStu": 2,
+      "sourceId": 12819
+    },
+    {
+      "rank": 669,
+      "title": "特伦特大学",
+      "titleEn": "Trent University",
+      "allStu": 2,
+      "sourceId": 12835
+    },
+    {
+      "rank": 670,
+      "title": "多伦多大学圣乔治校区",
+      "titleEn": "University of Toronto-St. George",
+      "allStu": 374,
+      "sourceId": 12849
+    },
+    {
+      "rank": 671,
+      "title": "梅西大学",
+      "titleEn": "Massey University",
+      "allStu": 20,
+      "sourceId": 12860
+    },
+    {
+      "rank": 672,
+      "title": "惠灵顿维多利亚大学",
+      "titleEn": "Victoria University of Wellington",
+      "allStu": 15,
+      "sourceId": 12863
+    },
+    {
+      "rank": 673,
+      "title": "塔斯马尼亚大学",
+      "titleEn": "University of Tasmania",
+      "allStu": 3,
+      "sourceId": 12880
+    },
+    {
+      "rank": 674,
+      "title": "香港树仁大学",
+      "titleEn": "Hong Kong Shue Yan University",
+      "allStu": 3,
+      "sourceId": 12983
+    },
+    {
+      "rank": 675,
+      "title": "新加坡管理学院",
+      "titleEn": "Singapore Institute of Management",
+      "allStu": 3,
+      "sourceId": 13070
+    },
+    {
+      "rank": 676,
+      "title": "香港珠海学院",
+      "titleEn": "Hong Kong Chu Hai College",
+      "allStu": 3,
+      "sourceId": 13092
+    },
+    {
+      "rank": 677,
+      "title": "伦敦布鲁内尔大学",
+      "titleEn": "Brunel University London",
+      "allStu": 17,
+      "sourceId": 13129
+    },
+    {
+      "rank": 678,
+      "title": "乔治城大学卡塔尔分校",
+      "titleEn": "Georgetown University in Qatar",
+      "allStu": 3,
+      "sourceId": 13172
+    },
+    {
+      "rank": 679,
+      "title": "中国传媒大学",
+      "titleEn": "Communication University of China",
+      "allStu": 4,
+      "sourceId": 13184
+    },
+    {
+      "rank": 680,
+      "title": "纽布伦斯威克大学",
+      "titleEn": "University of New Brunswick",
+      "allStu": 1,
+      "sourceId": 13201
+    },
+    {
+      "rank": 681,
+      "title": "安大略理工大学",
+      "titleEn": "University of Ontario Institute of Technology",
+      "allStu": 3,
+      "sourceId": 13202
+    },
+    {
+      "rank": 682,
+      "title": "里贾纳大学",
+      "titleEn": "University of Regina",
+      "allStu": 3,
+      "sourceId": 13203
+    },
+    {
+      "rank": 683,
+      "title": "湖首大学",
+      "titleEn": "Lakehead University",
+      "allStu": 6,
+      "sourceId": 13204
+    },
+    {
+      "rank": 684,
+      "title": "东英吉利大学",
+      "titleEn": "UEA",
+      "allStu": 2,
+      "sourceId": 13206
+    },
+    {
+      "rank": 685,
+      "title": "韩国科学技术院",
+      "titleEn": "Korea Advanced Institute of Science and Technology",
+      "allStu": 5,
+      "sourceId": 13209
+    },
+    {
+      "rank": 686,
+      "title": "莫道克大学",
+      "titleEn": "Murdoch University",
+      "allStu": 2,
+      "sourceId": 13216
+    },
+    {
+      "rank": 687,
+      "title": "筑波大学",
+      "titleEn": "University of Tsukuba",
+      "allStu": 7,
+      "sourceId": 13232
+    },
+    {
+      "rank": 688,
+      "title": "美国戏剧学校",
+      "titleEn": "American Conservatory Theater",
+      "allStu": 2,
+      "sourceId": 13241
+    },
+    {
+      "rank": 689,
+      "title": "坎伯韦尔艺术学院",
+      "titleEn": "Camberwell College of Arts",
+      "allStu": 39,
+      "sourceId": 13242
+    },
+    {
+      "rank": 690,
+      "title": "索伦特大学",
+      "titleEn": "Solent University",
+      "allStu": 2,
+      "sourceId": 13245
+    },
+    {
+      "rank": 691,
+      "title": "奇切斯特大学",
+      "titleEn": "University of Chichester",
+      "allStu": 1,
+      "sourceId": 13246
+    },
+    {
+      "rank": 692,
+      "title": "马萨诸塞大学波士顿分校",
+      "titleEn": "University of Massachusetts Boston",
+      "allStu": 7,
+      "sourceId": 13247
+    },
+    {
+      "rank": 693,
+      "title": "劳伦森大学",
+      "titleEn": "Laurentian University",
+      "allStu": 2,
+      "sourceId": 13248
+    },
+    {
+      "rank": 694,
+      "title": "新加坡PSB学院",
+      "titleEn": "PSB Academy",
+      "allStu": 4,
+      "sourceId": 13250
+    },
+    {
+      "rank": 695,
+      "title": "乌得勒支大学",
+      "titleEn": "Utrecht University",
+      "allStu": 1,
+      "sourceId": 13251
+    },
+    {
+      "rank": 696,
+      "title": "国际基督教大学",
+      "titleEn": "International Christian University",
+      "allStu": 3,
+      "sourceId": 13258
+    },
+    {
+      "rank": 697,
+      "title": "考陶尔德艺术学院",
+      "titleEn": "The Courtauld lnstitute of Art",
+      "allStu": 5,
+      "sourceId": 13259
+    },
+    {
+      "rank": 698,
+      "title": "立教大学",
+      "titleEn": "Rikkyo University",
+      "allStu": 5,
+      "sourceId": 13260
+    },
+    {
+      "rank": 699,
+      "title": "法尔茅斯大学",
+      "titleEn": "Falmouth University",
+      "allStu": 3,
+      "sourceId": 13265
+    },
+    {
+      "rank": 700,
+      "title": "中央兰开夏大学",
+      "titleEn": "University of Central Lancashire",
+      "allStu": 1,
+      "sourceId": 13266
+    },
+    {
+      "rank": 701,
+      "title": "日本天普大学",
+      "titleEn": "Temple University, Japan Campus",
+      "allStu": 24,
+      "sourceId": 13267
+    },
+    {
+      "rank": 702,
+      "title": "中央大学",
+      "titleEn": "Chuo University",
+      "allStu": 11,
+      "sourceId": 13270
+    },
+    {
+      "rank": 703,
+      "title": "哥伦比亚GS学院",
+      "titleEn": "Columbia University School of General Studies",
+      "allStu": 1,
+      "sourceId": 13275
+    },
+    {
+      "rank": 704,
+      "title": "德保大学",
+      "allStu": 1,
+      "sourceId": 13276
+    },
+    {
+      "rank": 705,
+      "title": "诺森比亚大学",
+      "titleEn": "University of Northumbria at Newcastle",
+      "allStu": 1,
+      "sourceId": 13304
+    },
+    {
+      "rank": 706,
+      "title": "法国时尚艺术与技术高等学院",
+      "titleEn": "Ecole Supérieure des Arts et Techniques de la Mode",
+      "allStu": 2,
+      "sourceId": 13313
+    },
+    {
+      "rank": 707,
+      "title": "慕尼黑工业大学",
+      "titleEn": "Technical University of Munich",
+      "allStu": 7,
+      "sourceId": 13314
+    },
+    {
+      "rank": 708,
+      "title": "马来亚大学",
+      "titleEn": "University of Malaya",
+      "allStu": 8,
+      "sourceId": 13315
+    },
+    {
+      "rank": 709,
+      "title": "巴黎综合理工学院",
+      "titleEn": "École Polytechnique",
+      "allStu": 1,
+      "sourceId": 13316
+    },
+    {
+      "rank": 710,
+      "title": "伦敦大学皇家音乐学院",
+      "titleEn": "Royal Academy of Music",
+      "allStu": 2,
+      "sourceId": 13320
+    },
+    {
+      "rank": 711,
+      "title": "伊迪斯·科文大学",
+      "titleEn": "Edith Cowan University",
+      "allStu": 1,
+      "sourceId": 13321
+    },
+    {
+      "rank": 712,
+      "title": "高丽大学",
+      "titleEn": "Korea University",
+      "allStu": 1,
+      "sourceId": 13323
+    },
+    {
+      "rank": 713,
+      "title": "东伦敦大学",
+      "titleEn": "University of East London",
+      "allStu": 3,
+      "sourceId": 13324
+    },
+    {
+      "rank": 714,
+      "title": "法政大学",
+      "titleEn": "Hosei University",
+      "allStu": 13,
+      "sourceId": 13333
+    },
+    {
+      "rank": 715,
+      "title": "东洋大学",
+      "titleEn": "Toyo University",
+      "allStu": 4,
+      "sourceId": 13334
+    },
+    {
+      "rank": 716,
+      "title": "东海大学",
+      "titleEn": "Tokai University",
+      "allStu": 4,
+      "sourceId": 13337
+    },
+    {
+      "rank": 717,
+      "title": "顺天堂大学",
+      "titleEn": "Juntendo University",
+      "allStu": 3,
+      "sourceId": 13339
+    },
+    {
+      "rank": 718,
+      "title": "帝京大学",
+      "titleEn": "Teikyo University",
+      "allStu": 1,
+      "sourceId": 13341
+    },
+    {
+      "rank": 719,
+      "title": "武藏野大学",
+      "titleEn": "Musashino University",
+      "allStu": 1,
+      "sourceId": 13342
+    },
+    {
+      "rank": 720,
+      "title": "科廷大学",
+      "titleEn": "Curtin University",
+      "allStu": 15,
+      "sourceId": 13347
+    },
+    {
+      "rank": 721,
+      "title": "普利茅斯大学",
+      "titleEn": "University of Plymouth",
+      "allStu": 2,
+      "sourceId": 13348
+    },
+    {
+      "rank": 722,
+      "title": "慕尼黑大学",
+      "titleEn": "University of Munich",
+      "allStu": 1,
+      "sourceId": 13352
+    },
+    {
+      "rank": 723,
+      "title": "亚琛工业大学",
+      "titleEn": "RWTH Aachen University",
+      "allStu": 47,
+      "sourceId": 13353
+    },
+    {
+      "rank": 724,
+      "title": "哥廷根大学",
+      "titleEn": "University of Göttingen",
+      "allStu": 8,
+      "sourceId": 13354
+    },
+    {
+      "rank": 725,
+      "title": "伊斯曼音乐学院",
+      "titleEn": "Eastman School of Music",
+      "allStu": 2,
+      "sourceId": 13355
+    },
+    {
+      "rank": 726,
+      "title": "卡迪夫城市大学",
+      "titleEn": "Cardiff Metropolitan University",
+      "allStu": 1,
+      "sourceId": 13366
+    },
+    {
+      "rank": 727,
+      "title": "恺撒里兹酒店管理学院",
+      "titleEn": "Cesar Ritz Colleges Switzerland.",
+      "allStu": 10,
+      "sourceId": 13367
+    },
+    {
+      "rank": 728,
+      "title": "巴黎理工学院",
+      "titleEn": "Institut polytechnique de Paris",
+      "allStu": 2,
+      "sourceId": 13382
+    },
+    {
+      "rank": 729,
+      "title": "爱尔兰皇家外科医学院",
+      "titleEn": "Royal College of Surgeons in Ireland",
+      "allStu": 1,
+      "sourceId": 13384
+    },
+    {
+      "rank": 730,
+      "title": "马兰戈尼学院伦敦校区",
+      "titleEn": "Istituto Marangoni London",
+      "allStu": 1,
+      "sourceId": 13387
+    },
+    {
+      "rank": 731,
+      "title": "德克萨斯农工大学学院站分校",
+      "titleEn": "Texas A&M University, College Station",
+      "allStu": 5,
+      "sourceId": 13388
+    },
+    {
+      "rank": 732,
+      "title": "特威克南圣玛丽大学",
+      "titleEn": "St Mary's University, Twickenham",
+      "allStu": 2,
+      "sourceId": 13389
+    },
+    {
+      "rank": 733,
+      "title": "关西学院大学",
+      "titleEn": "Kwansei Gakuin University",
+      "allStu": 8,
+      "sourceId": 13395
+    },
+    {
+      "rank": 734,
+      "title": "明治大学",
+      "titleEn": "Meiji University",
+      "allStu": 3,
+      "sourceId": 13396
+    },
+    {
+      "rank": 735,
+      "title": "学习院大学",
+      "titleEn": "Gakushuin University",
+      "allStu": 2,
+      "sourceId": 13397
+    },
+    {
+      "rank": 736,
+      "title": "延世大学",
+      "titleEn": "Yonsei University",
+      "allStu": 3,
+      "sourceId": 13410
+    },
+    {
+      "rank": 737,
+      "title": "NHTV布雷达大学",
+      "titleEn": "NHTV Breda University of Applied Sciences",
+      "allStu": 1,
+      "sourceId": 13418
+    },
+    {
+      "rank": 738,
+      "title": "马来西亚国立大学",
+      "titleEn": "The National University of Malaysia",
+      "allStu": 1,
+      "sourceId": 13425
+    },
+    {
+      "rank": 739,
+      "title": "南洋艺术学院",
+      "titleEn": "Nanyang Academy of Fine Arts",
+      "allStu": 15,
+      "sourceId": 13426
+    },
+    {
+      "rank": 740,
+      "title": "纽卡斯尔大学",
+      "titleEn": "University of Newcastle",
+      "allStu": 2,
+      "sourceId": 13429
+    },
+    {
+      "rank": 741,
+      "title": "北不列颠哥伦比亚大学",
+      "titleEn": "University of Northern British Columbia",
+      "allStu": 5,
+      "sourceId": 13430
+    },
+    {
+      "rank": 742,
+      "title": "汉恩大学",
+      "titleEn": "HAN University of Applied Sciences",
+      "allStu": 1,
+      "sourceId": 13434
+    },
+    {
+      "rank": 743,
+      "title": "梨花女子大学",
+      "titleEn": "Ewha Womans University",
+      "allStu": 3,
+      "sourceId": 13435
+    },
+    {
+      "rank": 744,
+      "title": "中央大学",
+      "titleEn": "Chung-Ang University",
+      "allStu": 1,
+      "sourceId": 13436
+    },
+    {
+      "rank": 745,
+      "title": "科廷大学马来西亚校区",
+      "titleEn": "Curtin University, Malaysia",
+      "allStu": 2,
+      "sourceId": 13449
+    },
+    {
+      "rank": 746,
+      "title": "宾州州立大学伊利比伦德学院",
+      "titleEn": "Penn State Erie, The Behrend College",
+      "allStu": 5,
+      "sourceId": 13494
+    },
+    {
+      "rank": 747,
+      "title": "荷语鲁汶大学",
+      "titleEn": "Katholieke Universiteit Leuven",
+      "allStu": 8,
+      "sourceId": 13617
+    },
+    {
+      "rank": 748,
+      "title": "德比大学",
+      "titleEn": "University of Derby",
+      "allStu": 1,
+      "sourceId": 13644
+    },
+    {
+      "rank": 749,
+      "title": "香农理工大学",
+      "titleEn": "Technological University of the Shannon: Midlands Midwest",
+      "allStu": 1,
+      "sourceId": 13654
+    },
+    {
+      "rank": 750,
+      "title": "理诺士酒店管理学院",
+      "titleEn": "Les RochesGlobal Hospitality Education",
+      "allStu": 5,
+      "sourceId": 13749
+    },
+    {
+      "rank": 751,
+      "title": "美国音乐戏剧学院",
+      "titleEn": "American Musical and Dramatic Academy",
+      "allStu": 10,
+      "sourceId": 13750
+    },
+    {
+      "rank": 752,
+      "title": "密歇根大学罗斯商学院",
+      "titleEn": "Michigan Ross School of Business",
+      "allStu": 1,
+      "sourceId": 13783
+    },
+    {
+      "rank": 753,
+      "title": "圣乔治大学",
+      "titleEn": "St George's, University of London",
+      "allStu": 1,
+      "sourceId": 13786
+    },
+    {
+      "rank": 754,
+      "title": "爱尔兰国立科克大学",
+      "titleEn": "University College Cork",
+      "allStu": 3,
+      "sourceId": 13799
+    },
+    {
+      "rank": 755,
+      "title": "美国东北大学伦敦校区",
+      "titleEn": "Northeastern University London",
+      "allStu": 34,
+      "sourceId": 13826
+    },
+    {
+      "rank": 756,
+      "title": "诺维奇艺术大学",
+      "titleEn": "Norwich University of the Arts",
+      "allStu": 2,
+      "sourceId": 13827
+    },
+    {
+      "rank": 757,
+      "title": "罗汉普顿大学",
+      "titleEn": "University of Roehampton",
+      "allStu": 1,
+      "sourceId": 13895
+    },
+    {
+      "rank": 758,
+      "title": "韦仕敦大学毅伟商学院",
+      "titleEn": "Richard Ivey School of Business, University of Western Ontario",
+      "allStu": 1,
+      "sourceId": 13934
+    },
+    {
+      "rank": 759,
+      "title": "澳大利亚音乐学院",
+      "titleEn": "Australian Institute of Music",
+      "allStu": 3,
+      "sourceId": 13944
+    },
+    {
+      "rank": 760,
+      "title": "SKEMA商学院",
+      "titleEn": "SKEMA (School of Knowledge Economy and Management)",
+      "allStu": 5,
+      "sourceId": 13962
+    },
+    {
+      "rank": 761,
+      "title": "京都外国语大学",
+      "titleEn": "Kyoto University of Foreign Studies",
+      "allStu": 1,
+      "sourceId": 14023
+    },
+    {
+      "rank": 762,
+      "title": "巴黎科学艺术人文大学",
+      "titleEn": "Université Paris Sciences et Lettres",
+      "allStu": 1,
+      "sourceId": 14254
+    },
+    {
+      "rank": 763,
+      "title": "台湾大学",
+      "titleEn": "National Taiwan University (NTU)",
+      "allStu": 5,
+      "sourceId": 14258
+    },
+    {
+      "rank": 764,
+      "title": "都柏林三一学院",
+      "titleEn": "Trinity College Dublin",
+      "allStu": 20,
+      "sourceId": 14263
+    },
+    {
+      "rank": 765,
+      "title": "法赫德国王石油和矿物大学（KFUPM）",
+      "titleEn": "King Fahd University of Petroleum and Minerals",
+      "allStu": 1,
+      "sourceId": 14281
+    },
+    {
+      "rank": 766,
+      "title": "阿尔托大学",
+      "titleEn": "Aalto University",
+      "allStu": 1,
+      "sourceId": 14333
+    },
+    {
+      "rank": 767,
+      "title": "切尔西艺术与设计学院",
+      "titleEn": "Chelsea College of Arts",
+      "allStu": 28,
+      "sourceId": 14335
+    },
+    {
+      "rank": 768,
+      "title": "伦敦艺术大学中央圣马丁艺术与设计学院",
+      "titleEn": "Central Saint Martins, University of the Arts London",
+      "allStu": 32,
+      "sourceId": 14336
+    },
+    {
+      "rank": 769,
+      "title": "康斯特大学",
+      "titleEn": "Constructor University",
+      "allStu": 2,
+      "sourceId": 14415
+    },
+    {
+      "rank": 770,
+      "title": "巴黎政治学院",
+      "titleEn": "Paris Institute of Political Studies",
+      "allStu": 8,
+      "sourceId": 14440
+    },
+    {
+      "rank": 771,
+      "title": "都柏林城市大学",
+      "titleEn": "Dublin City University",
+      "allStu": 2,
+      "sourceId": 14465
+    },
+    {
+      "rank": 772,
+      "title": "纳瓦拉大学",
+      "titleEn": "University of Navarra",
+      "allStu": 2,
+      "sourceId": 14466
+    },
+    {
+      "rank": 773,
+      "title": "广岛大学",
+      "titleEn": "Hiroshima University",
+      "allStu": 2,
+      "sourceId": 14477
+    },
+    {
+      "rank": 774,
+      "title": "香港高等教育科技学院 （THEi高科院）",
+      "titleEn": "The Technological and Higher Education Institute of Hong Kong",
+      "allStu": 7,
+      "sourceId": 14496
+    },
+    {
+      "rank": 775,
+      "title": "东华学院",
+      "titleEn": "Tung Wah College",
+      "allStu": 3,
+      "sourceId": 14497
+    },
+    {
+      "rank": 776,
+      "title": "纽约大学坦登工程学院",
+      "titleEn": "NYU Tandon School of Engineering",
+      "allStu": 4,
+      "sourceId": 14506
+    },
+    {
+      "rank": 777,
+      "title": "伍斯特大学",
+      "titleEn": "University of Worcester",
+      "allStu": 2,
+      "sourceId": 14511
+    },
+    {
+      "rank": 778,
+      "title": "爱丁堡玛格丽特女王大学",
+      "titleEn": "Queen Margaret University Edinburgh",
+      "allStu": 1,
+      "sourceId": 14515
+    },
+    {
+      "rank": 779,
+      "title": "阿伯泰大学",
+      "titleEn": "Abertay University",
+      "allStu": 2,
+      "sourceId": 14516
+    },
+    {
+      "rank": 780,
+      "title": "约克圣约翰大学",
+      "titleEn": "York St John University",
+      "allStu": 3,
+      "sourceId": 14517
+    },
+    {
+      "rank": 781,
+      "title": "哥伦比亚大学-香港城市大学双学位",
+      "allStu": 43,
+      "sourceId": 14537
+    },
+    {
+      "rank": 782,
+      "title": "匈牙利佩奇大学医学院",
+      "titleEn": "University of Pecs Medical School ",
+      "allStu": 1,
+      "sourceId": 14540
+    },
+    {
+      "rank": 784,
+      "title": "卡罗林斯卡学院",
+      "titleEn": "Karolinska InstituteSweden",
+      "allStu": 1,
+      "sourceId": 14566
+    },
+    {
+      "rank": 785,
+      "title": "巴黎高等商学院--意大利博科尼大学双学位",
+      "titleEn": "HEC Paris and Bocconi University",
+      "allStu": 1,
+      "sourceId": 14584
+    },
+    {
+      "rank": 786,
+      "title": "弗林德斯大学",
+      "titleEn": "Flinders University",
+      "allStu": 7,
+      "sourceId": 14599
+    },
+    {
+      "rank": 787,
+      "title": "康涅狄格大学斯坦福德校区",
+      "titleEn": "University of Connecticut，Stamford",
+      "allStu": 4,
+      "sourceId": 14656
+    },
+    {
+      "rank": 788,
+      "title": "米兰理工大学",
+      "titleEn": "Polytechnic University of Milan",
+      "allStu": 1,
+      "sourceId": 14672
+    },
+    {
+      "rank": 789,
+      "title": "浦项科技大学",
+      "titleEn": "Vienna University of Technology",
+      "allStu": 1,
+      "sourceId": 14675
+    },
+    {
+      "rank": 790,
+      "title": "伦敦艺术大学伦敦时装学院",
+      "titleEn": "London College of Fashion",
+      "allStu": 42,
+      "sourceId": 14678
+    },
+    {
+      "rank": 791,
+      "title": "匈牙利森梅威斯大学",
+      "titleEn": "Semmelweis University",
+      "allStu": 3,
+      "sourceId": 14679
+    },
+    {
+      "rank": 792,
+      "title": "马来西亚南安普顿大学",
+      "titleEn": "University of Southampton Malaysia",
+      "allStu": 17,
+      "sourceId": 14680
+    },
+    {
+      "rank": 793,
+      "title": "德国EBS商学院",
+      "titleEn": "EBS Business School",
+      "allStu": 1,
+      "sourceId": 14681
+    },
+    {
+      "rank": 794,
+      "title": "欧洲设计学院",
+      "titleEn": "Istituto Europeo di Design",
+      "allStu": 3,
+      "sourceId": 14683
+    },
+    {
+      "rank": 795,
+      "title": "IE大学",
+      "titleEn": "IE University",
+      "allStu": 6,
+      "sourceId": 14685
+    },
+    {
+      "rank": 796,
+      "title": "加拿大航空学院",
+      "titleEn": "Canadian Aviation College",
+      "allStu": 1,
+      "sourceId": 14686
+    },
+    {
+      "rank": 797,
+      "title": "北海道大学",
+      "titleEn": "Hokkaido University",
+      "allStu": 2,
+      "sourceId": 14688
+    },
+    {
+      "rank": 798,
+      "title": "菲莎国际学院",
+      "titleEn": "Fraser International College",
+      "allStu": 1,
+      "sourceId": 14689
+    },
+    {
+      "rank": 799,
+      "title": "上海温哥华电影学院",
+      "titleEn": "Shanghai Vancouver Film School",
+      "allStu": 5,
+      "sourceId": 14692
+    },
+    {
+      "rank": 800,
+      "title": "新加坡莱佛士设计学院",
+      "titleEn": "Raffles Design Institute Singapore",
+      "allStu": 1,
+      "sourceId": 14704
+    },
+    {
+      "rank": 801,
+      "title": "韩国外国语大学",
+      "titleEn": "Hankuk University of Foreign Studies",
+      "allStu": 1,
+      "sourceId": 14706
+    },
+    {
+      "rank": 802,
+      "title": "拓殖大学",
+      "titleEn": "Takushoku University",
+      "allStu": 3,
+      "sourceId": 14709
+    },
+    {
+      "rank": 803,
+      "title": "湘南工科大学",
+      "titleEn": "Shonan Institute of Technology",
+      "allStu": 1,
+      "sourceId": 14711
+    },
+    {
+      "rank": 804,
+      "title": "赫瑞瓦特大学马来西亚分校",
+      "titleEn": "Heriot-Watt University Malaysia",
+      "allStu": 7,
+      "sourceId": 14715
+    },
+    {
+      "rank": 805,
+      "title": "沙迦美国大学",
+      "titleEn": "American University of Sharjah",
+      "allStu": 1,
+      "sourceId": 14716
+    },
+    {
+      "rank": 806,
+      "title": "瑞士蒙特勒酒店工商管理大学",
+      "titleEn": "瑞士蒙特勒酒店工商管理大学",
+      "allStu": 2,
+      "sourceId": 14719
+    },
+    {
+      "rank": 807,
+      "title": "青山学院大学",
+      "titleEn": "Aoyama Gakuin University",
+      "allStu": 2,
+      "sourceId": 14720
+    },
+    {
+      "rank": 808,
+      "title": "比利时布鲁塞尔皇家艺术学院-高等美术学院",
+      "titleEn": "比利时布鲁塞尔皇家艺术学院-高等美术学院",
+      "allStu": 1,
+      "sourceId": 14722
+    },
+    {
+      "rank": 809,
+      "title": "哈特伯瑞学院",
+      "titleEn": "Hartpury College",
+      "allStu": 3,
+      "sourceId": 14727
+    },
+    {
+      "rank": 810,
+      "title": "詹姆斯·库克大学新加坡校区",
+      "titleEn": "James Cook University, Singapore Campus",
+      "allStu": 13,
+      "sourceId": 14728
+    },
+    {
+      "rank": 811,
+      "title": "法国高等信息工程师学院",
+      "titleEn": "École d'Ingénieurs en Informatique",
+      "allStu": 1,
+      "sourceId": 14733
+    },
+    {
+      "rank": 812,
+      "title": "西班牙艾赛德商学院",
+      "titleEn": "ESADE Business School",
+      "allStu": 2,
+      "sourceId": 14735
+    },
+    {
+      "rank": 813,
+      "title": "索尔福德大学",
+      "titleEn": "University of Salford",
+      "allStu": 2,
+      "sourceId": 14736
+    },
+    {
+      "rank": 814,
+      "title": "伍伦贡大学马来西亚校区",
+      "titleEn": "University of Wollongong",
+      "allStu": 4,
+      "sourceId": 14738
+    },
+    {
+      "rank": 816,
+      "title": "法国诺欧商学院",
+      "titleEn": "NEOMA Business School",
+      "allStu": 3,
+      "sourceId": 14764
+    },
+    {
+      "rank": 817,
+      "title": "香港演艺学院",
+      "titleEn": "The Hong Kong Academy for Performing Arts",
+      "allStu": 4,
+      "sourceId": 14765
+    },
+    {
+      "rank": 818,
+      "title": "亚利桑那州立大学菲尼克斯（凤凰城）",
+      "titleEn": "University of Arizona--Phoenix",
+      "allStu": 1,
+      "sourceId": 14782
+    },
+    {
+      "rank": 819,
+      "title": "利物浦表演艺术学院",
+      "titleEn": "The Liverpool Institute for Performing Arts",
+      "allStu": 3,
+      "sourceId": 14788
+    },
+    {
+      "rank": 820,
+      "title": "伦敦传媒学院",
+      "titleEn": "London College of Communication",
+      "allStu": 35,
+      "sourceId": 14790
+    },
+    {
+      "rank": 821,
+      "title": "伦敦艺术大学-温布尔登艺术学院",
+      "titleEn": "Wimbledon College of Arts",
+      "allStu": 19,
+      "sourceId": 14791
+    },
+    {
+      "rank": 822,
+      "title": "BI挪威商学院",
+      "titleEn": "BI Norwegian Business School",
+      "allStu": 1,
+      "sourceId": 15338
+    },
+    {
+      "rank": 823,
+      "title": "拉德堡德大学",
+      "titleEn": "Radboud University",
+      "allStu": 2,
+      "sourceId": 15341
+    },
+    {
+      "rank": 824,
+      "title": "帕萨迪纳城市学院",
+      "titleEn": "Pasadena City College",
+      "allStu": 1,
+      "sourceId": 15344
+    },
+    {
+      "rank": 825,
+      "title": "法国时尚学院",
+      "titleEn": "Institut Français de la Mode",
+      "allStu": 1,
+      "sourceId": 15354
+    },
+    {
+      "rank": 826,
+      "title": "西悉尼大学",
+      "titleEn": "Western Sydney University",
+      "allStu": 12,
+      "sourceId": 15433
+    },
+    {
+      "rank": 827,
+      "title": "英属哥伦比亚大学奥卡那根分校 ",
+      "titleEn": "okanagan  college ",
+      "allStu": 7,
+      "sourceId": 15466
+    },
+    {
+      "rank": 828,
+      "title": "南卡罗来纳大学哥伦比亚分校",
+      "titleEn": "University of South Carolina-Columbia",
+      "allStu": 1,
+      "sourceId": 15467
+    },
+    {
+      "rank": 829,
+      "title": "圣弗朗西斯大学",
+      "titleEn": "University of St. Francis",
+      "allStu": 1,
+      "sourceId": 15468
+    },
+    {
+      "rank": 830,
+      "title": "香港伍伦贡学院",
+      "titleEn": "UOW College Hong Kong",
+      "allStu": 1,
+      "sourceId": 15472
+    },
+    {
+      "rank": 831,
+      "title": "白金汉大学",
+      "titleEn": "The University of Buckingham",
+      "allStu": 1,
+      "sourceId": 15477
+    },
+    {
+      "rank": 832,
+      "title": "南特高等商学院",
+      "titleEn": "Audencia Business School",
+      "allStu": 1,
+      "sourceId": 15494
+    },
+    {
+      "rank": 833,
+      "title": "海牙应用科学大学",
+      "titleEn": "The Hague University of Applied Science",
+      "allStu": 2,
+      "sourceId": 15521
+    },
+    {
+      "rank": 834,
+      "title": "戴维斯大学",
+      "titleEn": "Davis University",
+      "allStu": 2,
+      "sourceId": 15536
+    },
+    {
+      "rank": 835,
+      "title": "荷兰威登堡大学",
+      "titleEn": "Wittenborg University of Applied Sciences",
+      "allStu": 1,
+      "sourceId": 15537
+    },
+    {
+      "rank": 836,
+      "title": "雅典大学",
+      "titleEn": "University of Athens",
+      "allStu": 2,
+      "sourceId": 15563
+    },
+    {
+      "rank": 837,
+      "title": "霍利奥克社区学院",
+      "titleEn": "Holyoke Community College",
+      "allStu": 4,
+      "sourceId": 15576
+    },
+    {
+      "rank": 838,
+      "title": "一桥大学",
+      "titleEn": "Hitotsubashi University",
+      "allStu": 5,
+      "sourceId": 15773
+    },
+    {
+      "rank": 839,
+      "title": "长崎大学",
+      "titleEn": "Nagasaki University",
+      "allStu": 2,
+      "sourceId": 15777
+    },
+    {
+      "rank": 840,
+      "title": "东京科学大学",
+      "titleEn": "Institute of Science Tokyo",
+      "allStu": 11,
+      "sourceId": 15780
+    },
+    {
+      "rank": 841,
+      "title": "横滨国立大学",
+      "titleEn": "Yokohama National University",
+      "allStu": 2,
+      "sourceId": 15782
+    },
+    {
+      "rank": 842,
+      "title": "日本湖滨大学",
+      "titleEn": "Lakeland University Japan",
+      "allStu": 1,
+      "sourceId": 15795
+    },
+    {
+      "rank": 843,
+      "title": "东京福祉大学",
+      "titleEn": "Tokyo University of Social Welfare",
+      "allStu": 2,
+      "sourceId": 15802
+    },
+    {
+      "rank": 844,
+      "title": "山形大学",
+      "titleEn": "Yamagata University",
+      "allStu": 1,
+      "sourceId": 15811
+    },
+    {
+      "rank": 845,
+      "title": "东京电机大学",
+      "titleEn": "Tokyo Denki University",
+      "allStu": 3,
+      "sourceId": 15812
+    },
+    {
+      "rank": 846,
+      "title": "驹泽大学",
+      "titleEn": "Komazawa University",
+      "allStu": 1,
+      "sourceId": 15813
+    },
+    {
+      "rank": 847,
+      "title": "神户大学",
+      "titleEn": "Kobe University",
+      "allStu": 3,
+      "sourceId": 15825
+    },
+    {
+      "rank": 848,
+      "title": "岛根大学",
+      "titleEn": "Shimane University",
+      "allStu": 1,
+      "sourceId": 15835
+    },
+    {
+      "rank": 849,
+      "title": "滋贺县立大学",
+      "titleEn": "The University of Shiga Prefecture",
+      "allStu": 1,
+      "sourceId": 15840
+    },
+    {
+      "rank": 850,
+      "title": "近畿大学",
+      "titleEn": "Kindai University",
+      "allStu": 2,
+      "sourceId": 15843
+    },
+    {
+      "rank": 851,
+      "title": "樱美林大学",
+      "titleEn": "J.F.Oberlin University",
+      "allStu": 2,
+      "sourceId": 15856
+    },
+    {
+      "rank": 852,
+      "title": "戴波罗谷社区大学",
+      "titleEn": "Diablo Valley College",
+      "allStu": 1,
+      "sourceId": 15861
+    },
+    {
+      "rank": 853,
+      "title": "乐卓博大学",
+      "titleEn": "La Trobe University",
+      "allStu": 3,
+      "sourceId": 15865
+    },
+    {
+      "rank": 854,
+      "title": "斯威本科技大学",
+      "titleEn": "Swinburne University of Technology",
+      "allStu": 3,
+      "sourceId": 15867
+    },
+    {
+      "rank": 855,
+      "title": "爱尔兰都柏林大学新加坡分校",
+      "allStu": 4,
+      "sourceId": 15872
+    },
+    {
+      "rank": 856,
+      "title": "匈牙利德布勒森大学",
+      "titleEn": "University of Debrecen",
+      "allStu": 1,
+      "sourceId": 15875
+    },
+    {
+      "rank": 857,
+      "title": "匈牙利佩奇大学",
+      "allStu": 1,
+      "sourceId": 15876
+    },
+    {
+      "rank": 858,
+      "title": "欧柏林音乐学院",
+      "titleEn": "Oberlin Conservatory of Music",
+      "allStu": 2,
+      "sourceId": 15884
+    },
+    {
+      "rank": 859,
+      "title": "建国大学",
+      "titleEn": "Konkuk University",
+      "allStu": 1,
+      "sourceId": 15885
+    },
+    {
+      "rank": 860,
+      "title": "新加坡艺术学院",
+      "titleEn": "School of the Arts, Singapore",
+      "allStu": 4,
+      "sourceId": 15888
+    },
+    {
+      "rank": 861,
+      "title": "千叶大学院",
+      "titleEn": "Chiba University",
+      "allStu": 3,
+      "sourceId": 15893
+    },
+    {
+      "rank": 862,
+      "title": "亚琛应用技术大学",
+      "titleEn": "Fachhochschulen Aachen",
+      "allStu": 1,
+      "sourceId": 15896
+    },
+    {
+      "rank": 863,
+      "title": "温哥华岛大学",
+      "titleEn": "Vancouver Island University",
+      "allStu": 1,
+      "sourceId": 15941
+    },
+    {
+      "rank": 864,
+      "title": "瓦岱勒国际酒店管理学院",
+      "titleEn": "INTERNATIONAL SCHOOL OF HOSPITALITY AND TOURISM MANAGEMENT",
+      "allStu": 1,
+      "sourceId": 16191
+    },
+    {
+      "rank": 865,
+      "title": "巴黎豪华酒店学校",
+      "titleEn": "Luxury Hotelschool Paris",
+      "allStu": 1,
+      "sourceId": 16192
+    },
+    {
+      "rank": 866,
+      "title": "纽约州立大学韩国分校",
+      "titleEn": "State University of New York, SUNY",
+      "allStu": 1,
+      "sourceId": 16335
+    },
+    {
+      "rank": 868,
+      "title": "伯明翰大学迪拜校区",
+      "allStu": 3,
+      "sourceId": 16513
+    },
+    {
+      "rank": 869,
+      "title": "迪拜伍伦贡大学",
+      "titleEn": "University of Wollongong in Dubai",
+      "allStu": 1,
+      "sourceId": 16514
+    },
+    {
+      "rank": 870,
+      "title": "穆罕默德·本·扎耶德人工智能大学",
+      "titleEn": "Mohamed bin Zayed University of Artificial Intelligence",
+      "allStu": 12,
+      "sourceId": 16529
+    },
+    {
+      "rank": 871,
+      "title": "Point Blank 音乐学院",
+      "allStu": 1,
+      "sourceId": 16547
+    },
+    {
+      "rank": 872,
+      "title": "墨尔本大学圣三一学院",
+      "titleEn": "Trinity College, The University of Melbourne",
+      "allStu": 3,
+      "sourceId": 16587
+    },
+    {
+      "rank": 873,
+      "title": "英美大学",
+      "titleEn": "Anglo-American University (Czech)",
+      "allStu": 1,
+      "sourceId": 16613
+    },
+    {
+      "rank": 874,
+      "title": "斯图加特大学",
+      "titleEn": "Baden-Wuerttemberg Stuttgart",
+      "allStu": 1,
+      "sourceId": 16614
+    },
+    {
+      "rank": 875,
+      "title": "EHL 酒店管理商学院‌帕苏格校区",
+      "titleEn": "EHL Hotel School Passugg",
+      "allStu": 7,
+      "sourceId": 16619
+    },
+    {
+      "rank": 876,
+      "title": "新加坡莱佛士音乐学院",
+      "titleEn": "Singapore Raffles Music College",
+      "allStu": 2,
+      "sourceId": 16660
+    },
+    {
+      "rank": 877,
+      "title": "东北大学奥克兰分校",
+      "titleEn": "Northeastern University Oakland Campus",
+      "allStu": 7,
+      "sourceId": 16662
+    },
+    {
+      "rank": 878,
+      "title": "澳大利亚托伦斯大学",
+      "titleEn": "Torrens University Australia",
+      "allStu": 1,
+      "sourceId": 16665
+    },
+    {
+      "rank": 879,
+      "title": "蒂尔堡大学",
+      "titleEn": "Tilburg University",
+      "allStu": 8,
+      "sourceId": 16701
+    },
+    {
+      "rank": 880,
+      "title": "橘郡海岸学院",
+      "titleEn": "Orange Coast College",
+      "allStu": 1,
+      "sourceId": 16702
+    },
+    {
+      "rank": 881,
+      "title": "多特蒙德国际管理学院",
+      "titleEn": "International School of Managemen",
+      "allStu": 1,
+      "sourceId": 16703
+    },
+    {
+      "rank": 882,
+      "title": "仁荷大学",
+      "titleEn": "Inha University",
+      "allStu": 6,
+      "sourceId": 16704
+    },
+    {
+      "rank": 883,
+      "title": "日本立命馆大学与澳大利亚国立大学双学位",
+      "titleEn": "日本立命馆大学与澳大利亚国立大学双学位",
+      "allStu": 1,
+      "sourceId": 16705
+    },
+    {
+      "rank": 884,
+      "title": "兰卡斯特大学莱比锡校区",
+      "titleEn": "Lancaster University, Leipzig",
+      "allStu": 1,
+      "sourceId": 16718
+    },
+    {
+      "rank": 885,
+      "title": "温哥华拉萨尔学院",
+      "titleEn": "LaSalle College Vancouver",
+      "allStu": 1,
+      "sourceId": 16721
+    },
+    {
+      "rank": 886,
+      "title": "加州大学圣芭芭拉分校桥梁项目",
+      "titleEn": "University of California, Santa Barbara Connect Program",
+      "allStu": 60,
+      "sourceId": 16729
+    },
+    {
+      "rank": 887,
+      "title": "马来西亚雷丁大学",
+      "titleEn": "University of Reading Malasia",
+      "allStu": 5,
+      "sourceId": 16738
+    },
+    {
+      "rank": 888,
+      "title": "格鲁斯特大学",
+      "titleEn": "University of Gloucestershire",
+      "allStu": 1,
+      "sourceId": 16760
+    },
+    {
+      "rank": 889,
+      "title": "延雪平大学",
+      "allStu": 1,
+      "sourceId": 16803
+    },
+    {
+      "rank": 891,
+      "title": "罗斯布鲁弗戏剧演艺学院",
+      "titleEn": "Rose Bruford College of Theatre & Performance",
+      "allStu": 1,
+      "sourceId": 16831
+    },
+    {
+      "rank": 892,
+      "title": "慕尼黑商学院",
+      "titleEn": "MBS",
+      "allStu": 1,
+      "sourceId": 16848
+    },
+    {
+      "rank": 893,
+      "title": "华威商学院",
+      "titleEn": "Warwick Business School",
+      "allStu": 2,
+      "sourceId": 16863
+    },
+    {
+      "rank": 894,
+      "title": "伯克利波士顿音乐学院",
+      "titleEn": "The Boston Conservatory at Berklee",
+      "allStu": 12,
+      "sourceId": 16889
+    },
+    {
+      "rank": 895,
+      "title": "香港大学－加州大学伯克利分校联合双学位",
+      "titleEn": "The Dual Degree Program between the University of California, Berkeley and the University of Hong Kong ",
+      "allStu": 6,
+      "sourceId": 16891
+    },
+    {
+      "rank": 896,
+      "title": "名古屋工业大学",
+      "titleEn": "Nagoya Institute of Technology",
+      "allStu": 5,
+      "sourceId": 16909
+    },
+    {
+      "rank": 897,
+      "title": "金泽大学",
+      "titleEn": "Kanazawa University",
+      "allStu": 5,
+      "sourceId": 16910
+    },
+    {
+      "rank": 898,
+      "title": "巴黎文理研究大学",
+      "titleEn": "Paris Sciences & Lettres-PSL University",
+      "allStu": 6,
+      "sourceId": 16915
+    },
+    {
+      "rank": 899,
+      "title": "美国曼彻斯特大学",
+      "titleEn": "Manchester University ",
+      "allStu": 2,
+      "sourceId": 16916
+    },
+    {
+      "rank": 900,
+      "title": "查尔斯特大学",
+      "titleEn": "Charles Sturt University",
+      "allStu": 2,
+      "sourceId": 16921
+    },
+    {
+      "rank": 901,
+      "title": "伦敦大学城市圣乔治",
+      "titleEn": "City St George’s, University of London",
+      "allStu": 4,
+      "sourceId": 16924
+    },
+    {
+      "rank": 902,
+      "title": "上海财经大学国际教育学院",
+      "titleEn": "SUFE-International Education College",
+      "allStu": 1,
+      "sourceId": 16925
+    },
+    {
+      "rank": 903,
+      "title": "埃尔金社区学院",
+      "titleEn": "Elgin Community College",
+      "allStu": 1,
+      "sourceId": 16927
+    },
+    {
+      "rank": 904,
+      "title": "南十字星大学",
+      "titleEn": "Southern Cross University",
+      "allStu": 1,
+      "sourceId": 16928
+    },
+    {
+      "rank": 905,
+      "title": "维多利亚大学",
+      "titleEn": "Victoria University, Melbourne, Australia",
+      "allStu": 2,
+      "sourceId": 16929
+    },
+    {
+      "rank": 906,
+      "title": "米兰工业设计学院",
+      "titleEn": "SPD",
+      "allStu": 2,
+      "sourceId": 16936
+    },
+    {
+      "rank": 907,
+      "title": "芬兰图尔库大学",
+      "titleEn": "University of Turku",
+      "allStu": 1,
+      "sourceId": 16944
+    },
+    {
+      "rank": 908,
+      "title": "韦仕敦大学休伦大学学院",
+      "titleEn": "Huron University College at Western University",
+      "allStu": 7,
+      "sourceId": 16947
+    },
+    {
+      "rank": 909,
+      "title": "意大利卡托利卡大学",
+      "titleEn": "Università Cattolica del Sacro Cuore",
+      "allStu": 2,
+      "sourceId": 16949
+    },
+    {
+      "rank": 910,
+      "title": "菲莎河谷大学",
+      "titleEn": "University of the Fraser Valley",
+      "allStu": 1,
+      "sourceId": 16952
+    },
+    {
+      "rank": 911,
+      "title": "芬兰奥卢大学",
+      "titleEn": "University of Oulu",
+      "allStu": 1,
+      "sourceId": 16967
+    },
+    {
+      "rank": 912,
+      "title": "坦佩雷大学",
+      "titleEn": "University of Tampere",
+      "allStu": 1,
+      "sourceId": 16968
+    },
+    {
+      "rank": 913,
+      "title": "伯克利音乐学院西班牙校区",
+      "titleEn": "Berklee Valencia",
+      "allStu": 1,
+      "sourceId": 16973
+    },
+    {
+      "rank": 914,
+      "title": "方提斯大学（荷兰应用科学大学）",
+      "titleEn": "Fontys University of Applied Sciences",
+      "allStu": 1,
+      "sourceId": 16977
+    },
+    {
+      "rank": 915,
+      "title": "佛罗里达海湾海岸大学",
+      "titleEn": "Florida Gulf Coast University",
+      "allStu": 1,
+      "sourceId": 16979
+    },
+    {
+      "rank": 916,
+      "title": "西澳大学学院",
+      "titleEn": "UWA College",
+      "allStu": 1,
+      "sourceId": 16980
+    },
+    {
+      "rank": 917,
+      "title": "香港城市大学-巴黎中央理工学院双学位",
+      "allStu": 1,
+      "sourceId": 16986
+    },
+    {
+      "rank": 918,
+      "title": "皇家戏剧艺术学院",
+      "titleEn": "Royal Academy of Dramatic Arts",
+      "allStu": 1,
+      "sourceId": 16987
+    },
+    {
+      "rank": 919,
+      "title": "巴黎艺术学院-爱默生学院",
+      "titleEn": "Paris Collegeof Art&EmersonCollege",
+      "allStu": 1,
+      "sourceId": 16988
+    },
+    {
+      "rank": 920,
+      "title": "东京都立大学",
+      "titleEn": "Tokyo Metropolitan University",
+      "allStu": 2,
+      "sourceId": 16989
+    },
+    {
+      "rank": 921,
+      "title": "马耳他大学",
+      "titleEn": "L-Università ta' Malta",
+      "allStu": 1,
+      "sourceId": 16990
+    },
+    {
+      "rank": 922,
+      "title": "东吴大学",
+      "titleEn": "Soochow University",
+      "allStu": 2,
+      "sourceId": 17025
+    },
+    {
+      "rank": 923,
+      "title": "台湾元智大学",
+      "titleEn": "Yuan Ze University",
+      "allStu": 2,
+      "sourceId": 17027
+    },
+    {
+      "rank": 924,
+      "title": "逢甲大学",
+      "titleEn": "Feng Chia University",
+      "allStu": 4,
+      "sourceId": 17028
+    },
+    {
+      "rank": 925,
+      "title": "台湾海洋大学",
+      "titleEn": "National Taiwan Ocean University",
+      "allStu": 2,
+      "sourceId": 17029
+    },
+    {
+      "rank": 926,
+      "title": "旧金山艺术学院",
+      "titleEn": "San Francisco Art Institute",
+      "allStu": 2,
+      "sourceId": 17033
+    },
+    {
+      "rank": 927,
+      "title": "斯德哥尔摩经济学院",
+      "titleEn": "Stockholm School of Economics",
+      "allStu": 1,
+      "sourceId": 17035
+    },
+    {
+      "rank": 928,
+      "title": "北阿尔伯塔理工学院",
+      "titleEn": "Northern Alberta Institute of Technology",
+      "allStu": 1,
+      "sourceId": 17041
+    },
+    {
+      "rank": 929,
+      "title": "台湾中正大学",
+      "titleEn": "National Chung Cheng University",
+      "allStu": 1,
+      "sourceId": 17042
+    },
+    {
+      "rank": 930,
+      "title": "东京齿科大学",
+      "titleEn": "东齿",
+      "allStu": 1,
+      "sourceId": 17045
+    },
+    {
+      "rank": 931,
+      "title": "大阪齿科大学",
+      "titleEn": "Osaka Dental University",
+      "allStu": 1,
+      "sourceId": 17046
+    },
+    {
+      "rank": 932,
+      "title": "日本松本牙科大学",
+      "titleEn": "Matsumoto Dental University",
+      "allStu": 1,
+      "sourceId": 17047
+    },
+    {
+      "rank": 933,
+      "title": "熊本大学",
+      "titleEn": "Kumamoto University",
+      "allStu": 1,
+      "sourceId": 17048
+    },
+    {
+      "rank": 934,
+      "title": "琉球大学",
+      "titleEn": "University of the Ryukyus",
+      "allStu": 1,
+      "sourceId": 17049
+    },
+    {
+      "rank": 935,
+      "title": "京都工艺纤维大学",
+      "titleEn": "Kyoto Institute of Technology",
+      "allStu": 1,
+      "sourceId": 17050
+    },
+    {
+      "rank": 936,
+      "title": "福井工业大学",
+      "titleEn": "Fukui University of Technology",
+      "allStu": 1,
+      "sourceId": 17051
+    },
+    {
+      "rank": 937,
+      "title": "摄南大学",
+      "titleEn": "Setsunan University",
+      "allStu": 1,
+      "sourceId": 17052
+    },
+    {
+      "rank": 938,
+      "title": "帝京平成大学",
+      "titleEn": "Teikyo Heisei University",
+      "allStu": 1,
+      "sourceId": 17053
+    },
+    {
+      "rank": 939,
+      "title": "爱尔兰皇家音乐学院",
+      "titleEn": "Royal Irish Academy of Music",
+      "allStu": 1,
+      "sourceId": 17056
+    },
+    {
+      "rank": 940,
+      "title": "巴塞罗那自治大学",
+      "titleEn": "Autonomous University of Barcelona",
+      "allStu": 2,
+      "sourceId": 17057
+    },
+    {
+      "rank": 941,
+      "title": "英国创意艺术BIMM大学",
+      "titleEn": "BIMM University",
+      "allStu": 3,
+      "sourceId": 17060
+    },
+    {
+      "rank": 942,
+      "title": "普瑞特艺术学院穆森校区",
+      "titleEn": "Pratt Institute Musson Campus",
+      "allStu": 4,
+      "sourceId": 17062
+    },
+    {
+      "rank": 943,
+      "title": "法国图卢兹国家音乐学院",
+      "titleEn": "Conservatoire National de Région de Toulouse",
+      "allStu": 1,
+      "sourceId": 17063
+    },
+    {
+      "rank": 944,
+      "title": "巴黎政治学院与香港大学双学位",
+      "titleEn": "Dual Degree Sciences Po - Hong Kong University",
+      "allStu": 1,
+      "sourceId": 17065
+    },
+    {
+      "rank": 945,
+      "title": "富山大学",
+      "titleEn": "University of Toyama",
+      "allStu": 1,
+      "sourceId": 17066
+    },
+    {
+      "rank": 946,
+      "title": "马兰戈尼学院深圳校区",
+      "titleEn": "Istituto Marangoni Shenzhen",
+      "allStu": 1,
+      "sourceId": 17067
+    },
+    {
+      "rank": 947,
+      "title": "伦敦雷文斯本大学",
+      "titleEn": "Ravensbourne University London ",
+      "allStu": 1,
+      "sourceId": 17068
+    },
+    {
+      "rank": 948,
+      "title": "南山大学",
+      "titleEn": "Nanzan University",
+      "allStu": 1,
+      "sourceId": 17072
+    },
+    {
+      "rank": 949,
+      "title": "格诺蒙视觉特效学院",
+      "titleEn": "Gnomon School of Visual Effects",
+      "allStu": 1,
+      "sourceId": 17073
+    },
+    {
+      "rank": 950,
+      "title": "马德里欧洲大学",
+      "titleEn": "Universidad Europea MADRID",
+      "allStu": 2,
+      "sourceId": 17075
+    },
+    {
+      "rank": 951,
+      "title": "京都先端科学大学",
+      "titleEn": "Kyoto University of Advanced Science",
+      "allStu": 1,
+      "sourceId": 17077
+    },
+    {
+      "rank": 952,
+      "title": "曼谷大学",
+      "titleEn": "Bangkok University",
+      "allStu": 1,
+      "sourceId": 17078
+    },
+    {
+      "rank": 953,
+      "title": "台湾阳明交通大学",
+      "titleEn": "National Yang Ming Chiao Tung University",
+      "allStu": 1,
+      "sourceId": 17080
+    },
+    {
+      "rank": 954,
+      "title": "台湾清华大学",
+      "titleEn": "National Tsing Hua University",
+      "allStu": 2,
+      "sourceId": 17081
+    },
+    {
+      "rank": 955,
+      "title": "台湾政治大学",
+      "titleEn": "National Chengchi University",
+      "allStu": 2,
+      "sourceId": 17082
+    },
+    {
+      "rank": 956,
+      "title": "台湾成功大学",
+      "titleEn": "Cheng Kung University",
+      "allStu": 1,
+      "sourceId": 17083
+    },
+    {
+      "rank": 957,
+      "title": "台湾中兴大学",
+      "titleEn": "Chung Hsing University",
+      "allStu": 3,
+      "sourceId": 17084
+    },
+    {
+      "rank": 958,
+      "title": "台湾师范大学",
+      "titleEn": "National Taiwan Normal University",
+      "allStu": 1,
+      "sourceId": 17085
+    },
+    {
+      "rank": 959,
+      "title": "台湾中央大学",
+      "titleEn": "Central University",
+      "allStu": 2,
+      "sourceId": 17086
+    },
+    {
+      "rank": 960,
+      "title": "高雄师范大学",
+      "titleEn": "National Kaohsiung Normal University",
+      "allStu": 1,
+      "sourceId": 17087
+    },
+    {
+      "rank": 961,
+      "title": "台湾中山大学",
+      "titleEn": "National Sun Yat-sen University",
+      "allStu": 2,
+      "sourceId": 17088
+    },
+    {
+      "rank": 962,
+      "title": "国立台北教育大学",
+      "allStu": 1,
+      "sourceId": 17089
+    },
+    {
+      "rank": 963,
+      "title": "台湾东华大学",
+      "titleEn": "Donghwa University, Taiwan",
+      "allStu": 1,
+      "sourceId": 17090
+    },
+    {
+      "rank": 964,
+      "title": "台湾屏东大学",
+      "titleEn": "National Pingtung University",
+      "allStu": 1,
+      "sourceId": 17091
+    },
+    {
+      "rank": 965,
+      "title": "台北大学",
+      "titleEn": "National Taipei University",
+      "allStu": 1,
+      "sourceId": 17092
+    },
+    {
+      "rank": 966,
+      "title": "高雄大学",
+      "titleEn": "National Unity of Kaohsiung",
+      "allStu": 1,
+      "sourceId": 17093
+    },
+    {
+      "rank": 967,
+      "title": "宜兰大学",
+      "titleEn": "National Ilan University",
+      "allStu": 3,
+      "sourceId": 17094
+    },
+    {
+      "rank": 968,
+      "title": "台湾联合大学",
+      "titleEn": "National United University",
+      "allStu": 1,
+      "sourceId": 17095
+    },
+    {
+      "rank": 969,
+      "title": "台北医学大学",
+      "titleEn": "Taipei Medical University",
+      "allStu": 1,
+      "sourceId": 17096
+    },
+    {
+      "rank": 970,
+      "title": "中国医药大学",
+      "titleEn": "China Medical University",
+      "allStu": 1,
+      "sourceId": 17097
+    },
+    {
+      "rank": 971,
+      "title": "中山医学大学",
+      "titleEn": "Chung Shan Medical University",
+      "allStu": 1,
+      "sourceId": 17098
+    },
+    {
+      "rank": 972,
+      "title": "东吴大学",
+      "titleEn": "Soochow University",
+      "allStu": 1,
+      "sourceId": 17099
+    },
+    {
+      "rank": 973,
+      "title": "台湾中原大学",
+      "titleEn": "Chung Yuan Christian University",
+      "allStu": 2,
+      "sourceId": 17100
+    },
+    {
+      "rank": 974,
+      "title": "台湾东海大学",
+      "titleEn": "Tunghai University",
+      "allStu": 1,
+      "sourceId": 17101
+    },
+    {
+      "rank": 975,
+      "title": "台湾淡江大学",
+      "titleEn": "Tamkang University",
+      "allStu": 3,
+      "sourceId": 17102
+    },
+    {
+      "rank": 976,
+      "title": "台湾大同大学",
+      "titleEn": "Tatung University",
+      "allStu": 1,
+      "sourceId": 17103
+    },
+    {
+      "rank": 977,
+      "title": "台湾辅仁大学",
+      "titleEn": "Fu Jen Catholic University",
+      "allStu": 2,
+      "sourceId": 17104
+    },
+    {
+      "rank": 978,
+      "title": "台湾长庚大学",
+      "titleEn": "Chang Gung University",
+      "allStu": 1,
+      "sourceId": 17105
+    },
+    {
+      "rank": 979,
+      "title": "台湾铭传大学",
+      "titleEn": "Ming Chuan University",
+      "allStu": 2,
+      "sourceId": 17106
+    },
+    {
+      "rank": 980,
+      "title": "台湾世新大学",
+      "titleEn": "Shih Hsin University",
+      "allStu": 1,
+      "sourceId": 17107
+    },
+    {
+      "rank": 981,
+      "title": "意大利路易斯·圭多·卡利大学",
+      "titleEn": "Libera Università Internazionale degli Studi Sociali Guido Carli",
+      "allStu": 1,
+      "sourceId": 17108
+    },
+    {
+      "rank": 982,
+      "title": "巴黎吕埃-马迈松国家音乐学院",
+      "titleEn": "Conservatoire à rayonnement régional de Rueil-Malmaison",
+      "allStu": 1,
+      "sourceId": 17111
+    },
+    {
+      "rank": 983,
+      "title": "厄特沃什·罗兰大学",
+      "titleEn": "Universitas Budapestinensis de Rolando Eötvös nominata",
+      "allStu": 1,
+      "sourceId": 17113
+    },
+    {
+      "rank": 984,
+      "title": "西班牙金融研究大学学院",
+      "titleEn": "Colegio Universitario de Estudios Financieros",
+      "allStu": 2,
+      "sourceId": 17114
+    },
+    {
+      "rank": 985,
+      "title": "法国鲁昂高等电子工程工程师学院",
+      "titleEn": "École Supérieure d'Ingénieurs en Génie Électrique",
+      "allStu": 9,
+      "sourceId": 17115
+    },
+    {
+      "rank": 986,
+      "title": "马德里康普顿斯大学",
+      "titleEn": "Universidad Complutense",
+      "allStu": 9,
+      "sourceId": 17116
+    },
+    {
+      "rank": 987,
+      "title": "澳大利亚天主教大学",
+      "titleEn": "Australian Catholic University",
+      "allStu": 1,
+      "sourceId": 17121
+    },
+    {
+      "rank": 988,
+      "title": "德国巴登符腾堡双元制大学斯图加特校区",
+      "titleEn": "IBM 与德国巴登符腾堡双元制大学斯图加特校区合作的双元制本科项目",
+      "allStu": 1,
+      "sourceId": 17122
+    },
+    {
+      "rank": 989,
+      "title": "巴德学院柏林分校",
+      "titleEn": "Bard College Berlin – A Liberal Arts University",
+      "allStu": 1,
+      "sourceId": 17123
+    }
+  ]
+}

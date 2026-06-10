@@ -12,6 +12,7 @@
     "rank": 1,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.princeton.edu/",
     "tuition": {
       "amount": 62688,
@@ -60,6 +61,7 @@
     "rank": 2,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://web.mit.edu/",
     "tuition": {
       "amount": 62396,
@@ -108,6 +110,7 @@
     "rank": 3,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.harvard.edu/",
     "tuition": {
       "amount": 61676,
@@ -156,6 +159,7 @@
     "rank": 4,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.stanford.edu/",
     "tuition": {
       "amount": 65910,
@@ -204,6 +208,7 @@
     "rank": 4,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.yale.edu/",
     "tuition": {
       "amount": 67250,
@@ -252,6 +257,7 @@
     "rank": 6,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.uchicago.edu/",
     "tuition": {
       "amount": 70662,
@@ -300,6 +306,7 @@
     "rank": 7,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.duke.edu/",
     "tuition": {
       "amount": 68758,
@@ -348,6 +355,7 @@
     "rank": 7,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.jhu.edu/",
     "tuition": {
       "amount": 65230,
@@ -396,6 +404,7 @@
     "rank": 7,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.northwestern.edu/",
     "tuition": {
       "amount": 68322,
@@ -444,6 +453,7 @@
     "rank": 7,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.upenn.edu/",
     "tuition": {
       "amount": 68686,
@@ -492,6 +502,7 @@
     "rank": 11,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.caltech.edu/",
     "tuition": {
       "amount": 65898,
@@ -540,6 +551,7 @@
     "rank": 12,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.cornell.edu/",
     "tuition": {
       "amount": 69314,
@@ -588,6 +600,7 @@
     "rank": 13,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.brown.edu/",
     "tuition": {
       "amount": 71412,
@@ -636,6 +649,7 @@
     "rank": 13,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://dartmouth.edu/",
     "tuition": {
       "amount": 68268,
@@ -684,6 +698,7 @@
     "rank": 15,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.tc.columbia.edu/",
     "tuition": {
       "amount": 71845,
@@ -732,6 +747,7 @@
     "rank": 15,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.berkeley.edu/",
     "tuition": {
       "amount": 50547,
@@ -780,6 +796,7 @@
     "rank": 17,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.rice.edu/",
     "tuition": {
       "amount": 64144,
@@ -828,6 +845,7 @@
     "rank": 17,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ucla.edu/",
     "tuition": {
       "amount": 49403,
@@ -876,6 +894,7 @@
     "rank": 17,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.vanderbilt.edu/",
     "tuition": {
       "amount": 67498,
@@ -924,6 +943,7 @@
     "rank": 20,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.cmu.edu/",
     "tuition": {
       "amount": 66246,
@@ -972,6 +992,7 @@
     "rank": 20,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://umich.edu/",
     "tuition": {
       "amount": 60946,
@@ -1014,6 +1035,7 @@
     "rank": 20,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.nd.edu/",
     "tuition": {
       "amount": 65025,
@@ -1062,6 +1084,7 @@
     "rank": 20,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://washu.edu/",
     "tuition": {
       "amount": 65790,
@@ -1104,6 +1127,7 @@
     "rank": 24,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.georgetown.edu/",
     "tuition": {
       "amount": 68017,
@@ -1152,6 +1176,7 @@
     "rank": 24,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.emory.edu/",
     "tuition": {
       "amount": 64280,
@@ -1200,6 +1225,7 @@
     "rank": 26,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.virginia.edu/",
     "tuition": {
       "amount": 59512,
@@ -1248,6 +1274,7 @@
     "rank": 26,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.unc.edu/",
     "tuition": {
       "amount": 41203,
@@ -1296,6 +1323,7 @@
     "rank": 28,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.usc.edu/",
     "tuition": {
       "amount": 72097,
@@ -1344,6 +1372,7 @@
     "rank": 29,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ucsd.edu/",
     "tuition": {
       "amount": 50958,
@@ -1392,6 +1421,7 @@
     "rank": 30,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ufl.edu/",
     "tuition": {
       "amount": 28659,
@@ -1440,6 +1470,7 @@
     "rank": 30,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.utexas.edu/",
     "tuition": {
       "amount": 44908,
@@ -1482,6 +1513,7 @@
     "rank": 32,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.nyu.edu/",
     "tuition": {
       "amount": 62796,
@@ -1530,6 +1562,7 @@
     "rank": 32,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://ucdavis.edu/",
     "tuition": {
       "amount": 50974,
@@ -1578,6 +1611,7 @@
     "rank": 32,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.gatech.edu/",
     "tuition": {
       "amount": 34484,
@@ -1620,6 +1654,7 @@
     "rank": 32,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.uci.edu/",
     "tuition": {
       "amount": 49922,
@@ -1668,6 +1703,7 @@
     "rank": 36,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.illinois.edu/",
     "tuition": {
       "amount": 35124,
@@ -1716,6 +1752,7 @@
     "rank": 36,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.bc.edu/",
     "tuition": {
       "amount": 70702,
@@ -1764,6 +1801,7 @@
     "rank": 36,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.tufts.edu/",
     "tuition": {
       "amount": 70704,
@@ -1812,6 +1850,7 @@
     "rank": 36,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.wisc.edu/",
     "tuition": {
       "amount": 42103,
@@ -1854,6 +1893,7 @@
     "rank": 40,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ucsb.edu/",
     "tuition": {
       "amount": 50614,
@@ -1902,6 +1942,7 @@
     "rank": 41,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.osu.edu/",
     "tuition": {
       "amount": 40022,
@@ -1950,6 +1991,7 @@
     "rank": 42,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.bu.edu/",
     "tuition": {
       "amount": 68102,
@@ -1998,6 +2040,7 @@
     "rank": 42,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://newbrunswick.rutgers.edu/",
     "tuition": {
       "amount": 37441,
@@ -2040,6 +2083,7 @@
     "rank": 42,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.umd.edu/",
     "tuition": {
       "amount": 41186,
@@ -2082,6 +2126,7 @@
     "rank": 42,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.washington.edu/",
     "tuition": {
       "amount": 43209,
@@ -2130,6 +2175,7 @@
     "rank": 42,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.purdue.edu/",
     "tuition": {
       "amount": 28794,
@@ -2178,6 +2224,7 @@
     "rank": 46,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.rochester.edu/",
     "tuition": {
       "amount": 67080,
@@ -2226,6 +2273,7 @@
     "rank": 46,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.lehigh.edu/",
     "tuition": {
       "amount": 64980,
@@ -2274,6 +2322,7 @@
     "rank": 46,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.northeastern.edu/",
     "tuition": {
       "amount": 66162,
@@ -2322,6 +2371,7 @@
     "rank": 46,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.uga.edu/",
     "tuition": {
       "amount": 31688,
@@ -2370,6 +2420,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.tamu.edu/",
     "tuition": {
       "amount": 40124,
@@ -2418,6 +2469,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.vt.edu/",
     "tuition": {
       "amount": 37764,
@@ -2466,6 +2518,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.wfu.edu/",
     "tuition": {
       "amount": 67642,
@@ -2514,6 +2567,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.wm.edu/",
     "tuition": {
       "amount": 51038,
@@ -2556,6 +2610,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.fsu.edu/",
     "tuition": {
       "amount": 18786,
@@ -2604,6 +2659,7 @@
     "rank": 51,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.case.edu/",
     "tuition": {
       "amount": 66608,
@@ -2652,6 +2708,7 @@
     "rank": 57,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://ucmerced.edu/",
     "tuition": {
       "amount": 49823,
@@ -2700,6 +2757,7 @@
     "rank": 57,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.villanova.edu/",
     "tuition": {
       "amount": 67776,
@@ -2748,6 +2806,7 @@
     "rank": 59,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.scu.edu/",
     "tuition": {
       "amount": 61293,
@@ -2796,6 +2855,7 @@
     "rank": 59,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.psu.edu/",
     "tuition": {
       "amount": 41790,
@@ -2844,6 +2904,7 @@
     "rank": 59,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.gwu.edu/",
     "tuition": {
       "amount": 67710,
@@ -2892,6 +2953,7 @@
     "rank": 59,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.stonybrook.edu/",
     "tuition": {
       "amount": 32741,
@@ -2940,6 +3002,7 @@
     "rank": 59,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://twin-cities.umn.edu/",
     "tuition": {
       "amount": 38362,
@@ -2982,6 +3045,7 @@
     "rank": 64,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.msu.edu/",
     "tuition": {
       "amount": 43842,
@@ -3030,6 +3094,7 @@
     "rank": 64,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ncsu.edu/",
     "tuition": {
       "amount": 32847,
@@ -3072,6 +3137,7 @@
     "rank": 64,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.rpi.edu/",
     "tuition": {
       "amount": 64081,
@@ -3120,6 +3186,7 @@
     "rank": 64,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.umass.edu/",
     "tuition": {
       "amount": 40449,
@@ -3168,6 +3235,7 @@
     "rank": 64,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.miami.edu/",
     "tuition": {
       "amount": 62616,
@@ -3216,6 +3284,7 @@
     "rank": 69,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.brandeis.edu/",
     "tuition": {
       "amount": 68080,
@@ -3264,6 +3333,7 @@
     "rank": 69,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://tulane.edu/",
     "tuition": {
       "amount": 68678,
@@ -3312,6 +3382,7 @@
     "rank": 69,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.pitt.edu/",
     "tuition": {
       "amount": 41430,
@@ -3360,6 +3431,7 @@
     "rank": 69,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://uconn.edu/",
     "tuition": {
       "amount": 43712,
@@ -3408,6 +3480,7 @@
     "rank": 73,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.binghamton.edu/",
     "tuition": {
       "amount": 30447,
@@ -3456,6 +3529,7 @@
     "rank": 73,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://bloomington.iu.edu/",
     "tuition": {
       "amount": 41891,
@@ -3498,6 +3572,7 @@
     "rank": 75,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.syracuse.edu/",
     "tuition": {
       "amount": 65528,
@@ -3546,6 +3621,7 @@
     "rank": 75,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.clemson.edu/",
     "tuition": {
       "amount": 40866,
@@ -3594,6 +3670,7 @@
     "rank": 75,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.buffalo.edu/",
     "tuition": {
       "amount": 31536,
@@ -3642,6 +3719,7 @@
     "rank": 75,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ucr.edu/",
     "tuition": {
       "amount": 49806,
@@ -3690,6 +3768,7 @@
     "rank": 75,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.newark.rutgers.edu/",
     "tuition": {
       "amount": 36762,
@@ -3732,6 +3811,7 @@
     "rank": 80,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.stevens.edu/",
     "tuition": {
       "amount": 63462,
@@ -3780,6 +3860,7 @@
     "rank": 80,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.mines.edu/",
     "tuition": {
       "amount": 45824,
@@ -3828,6 +3909,7 @@
     "rank": 80,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.njit.edu/",
     "tuition": {
       "amount": 37664,
@@ -3876,6 +3958,7 @@
     "rank": 80,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://drexel.edu/",
     "tuition": {
       "amount": 62412,
@@ -3924,6 +4007,7 @@
     "rank": 84,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.pepperdine.edu/",
     "tuition": {
       "amount": 69918,
@@ -3972,6 +4056,7 @@
     "rank": 84,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.uic.edu/",
     "tuition": {
       "amount": 29884,
@@ -4020,6 +4105,7 @@
     "rank": 84,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.wpi.edu/",
     "tuition": {
       "amount": 60965,
@@ -4068,6 +4154,7 @@
     "rank": 84,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.yu.edu/",
     "tuition": {
       "amount": 51800,
@@ -4116,6 +4203,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.baylor.edu/",
     "tuition": {
       "amount": 58100,
@@ -4164,6 +4252,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.american.edu/",
     "tuition": {
       "amount": 58771,
@@ -4212,6 +4301,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.howard.edu/",
     "tuition": {
       "amount": 35810,
@@ -4260,6 +4350,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.smu.edu/",
     "tuition": {
       "amount": 67040,
@@ -4308,6 +4399,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.usf.edu/",
     "tuition": {
       "amount": 17324,
@@ -4356,6 +4448,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.marquette.edu/",
     "tuition": {
       "amount": 51170,
@@ -4404,6 +4497,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.udel.edu/",
     "tuition": {
       "amount": 41400,
@@ -4452,6 +4546,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.ucsc.edu/",
     "tuition": {
       "amount": 50205,
@@ -4500,6 +4595,7 @@
     "rank": 88,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.rit.edu/",
     "tuition": {
       "amount": 59274,
@@ -4548,6 +4644,7 @@
     "rank": 97,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.fordham.edu/",
     "tuition": {
       "amount": 64915,
@@ -4596,6 +4693,7 @@
     "rank": 97,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://camden.rutgers.edu/",
     "tuition": {
       "amount": 37276,
@@ -4638,6 +4736,7 @@
     "rank": 97,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.colorado.edu/",
     "tuition": {
       "amount": 44918,
@@ -4686,6 +4785,7 @@
     "rank": 97,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.tcu.edu/",
     "tuition": {
       "amount": 61740,
@@ -4734,6 +4834,7 @@
     "rank": 102,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://www.temple.edu/",
     "tuition": {
       "amount": 38958,
@@ -4782,6 +4883,7 @@
     "rank": 102,
     "rankYear": 2026,
     "rankingSystem": "U.S. News",
+    "tags": [],
     "website": "https://uiowa.edu/",
     "tuition": {
       "amount": 33371,
@@ -4818,6 +4920,1836 @@
     ]
   },
   {
+    "id": "williams-college",
+    "nameEn": "Williams College",
+    "nameZh": "威廉姆斯学院",
+    "abbreviation": "WC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Williamstown, MA",
+    "latitude": 42.712725,
+    "longitude": -73.203132,
+    "rank": 1,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.williams.edu/",
+    "tuition": {
+      "amount": 68560,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 8.25,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2076,
+    "wikidataId": "Q49166",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49166",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "amherst-college",
+    "nameEn": "Amherst College",
+    "nameZh": "阿默斯特学院",
+    "abbreviation": "AC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Amherst, MA",
+    "latitude": 42.372459,
+    "longitude": -72.518493,
+    "rank": 2,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.amherst.edu/",
+    "tuition": {
+      "amount": 70480,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 9.01,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1911,
+    "wikidataId": "Q49165",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49165",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "swarthmore-college",
+    "nameEn": "Swarthmore College",
+    "nameZh": "斯沃斯莫尔学院",
+    "abbreviation": "SC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Swarthmore, PA",
+    "latitude": 39.905159,
+    "longitude": -75.354278,
+    "rank": 3,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.swarthmore.edu/",
+    "tuition": {
+      "amount": 65494,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 7.46,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1613,
+    "wikidataId": "Q1378320",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1378320",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "pomona-college",
+    "nameEn": "Pomona College",
+    "nameZh": "波莫纳学院",
+    "abbreviation": "PC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Claremont, CA",
+    "latitude": 34.099027,
+    "longitude": -117.714556,
+    "rank": 4,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.pomona.edu/",
+    "tuition": {
+      "amount": 65420,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 7.09,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1666,
+    "wikidataId": "Q7227384",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7227384",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "wellesley-college",
+    "nameEn": "Wellesley College",
+    "nameZh": "韦尔斯利学院",
+    "abbreviation": "WC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Wellesley, MA",
+    "latitude": 42.291554,
+    "longitude": -71.306605,
+    "rank": 5,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.wellesley.edu/",
+    "tuition": {
+      "amount": 67176,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 14.05,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2300,
+    "wikidataId": "Q49205",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49205",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "bowdoin-college",
+    "nameEn": "Bowdoin College",
+    "nameZh": "鲍登学院",
+    "abbreviation": "BC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Brunswick, ME",
+    "latitude": 43.907134,
+    "longitude": -69.963942,
+    "rank": 6,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.bowdoin.edu/",
+    "tuition": {
+      "amount": 67832,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 7.13,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1873,
+    "wikidataId": "Q895401",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q895401",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "carleton-college",
+    "nameEn": "Carleton College",
+    "nameZh": "卡尔顿学院",
+    "abbreviation": "CC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Northfield, MN",
+    "latitude": 44.462318,
+    "longitude": -93.154666,
+    "rank": 7,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.carleton.edu/",
+    "tuition": {
+      "amount": 68892,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 20.41,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2086,
+    "wikidataId": "Q1041671",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1041671",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "claremont-mckenna-college",
+    "nameEn": "Claremont McKenna College",
+    "nameZh": "克莱蒙特麦肯纳学院",
+    "abbreviation": "CMC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Claremont, CA",
+    "latitude": 34.102154,
+    "longitude": -117.711188,
+    "rank": 8,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.cmc.edu/",
+    "tuition": {
+      "amount": 67980,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 9.59,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1388,
+    "wikidataId": "Q5126318",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q5126318",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "middlebury-college",
+    "nameEn": "Middlebury College",
+    "nameZh": "明德学院",
+    "abbreviation": "MC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Middlebury, VT",
+    "latitude": 44.009117,
+    "longitude": -73.176068,
+    "rank": 9,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.middlebury.edu/college/",
+    "tuition": {
+      "amount": 67600,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 10.75,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2738,
+    "wikidataId": "Q1357891",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1357891",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "haverford-college",
+    "nameEn": "Haverford College",
+    "nameZh": "哈弗福德学院",
+    "abbreviation": "HC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Haverford, PA",
+    "latitude": 40.007452,
+    "longitude": -75.305207,
+    "rank": 10,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.haverford.edu/",
+    "tuition": {
+      "amount": 70688,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 12.37,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1430,
+    "wikidataId": "Q579611",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q579611",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "davidson-college",
+    "nameEn": "Davidson College",
+    "nameZh": "戴维森学院",
+    "abbreviation": "DC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Davidson, NC",
+    "latitude": 35.499767,
+    "longitude": -80.843979,
+    "rank": 11,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://davidson.edu/",
+    "tuition": {
+      "amount": 64410,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.37,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1867,
+    "wikidataId": "Q2902978",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2902978",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "wesleyan-university",
+    "nameEn": "Wesleyan University",
+    "nameZh": "卫斯理大学",
+    "abbreviation": "WU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Middletown, CT",
+    "latitude": 41.554665,
+    "longitude": -72.657146,
+    "rank": 12,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.wesleyan.edu/",
+    "tuition": {
+      "amount": 70342,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 16.49,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3067,
+    "wikidataId": "Q49167",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49167",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "grinnell-college",
+    "nameEn": "Grinnell College",
+    "nameZh": "格林内尔学院",
+    "abbreviation": "GC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Grinnell, IA",
+    "latitude": 41.747952,
+    "longitude": -92.722094,
+    "rank": 13,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.grinnell.edu/",
+    "tuition": {
+      "amount": 68106,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 14.51,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1729,
+    "wikidataId": "Q2982991",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2982991",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "hamilton-college",
+    "nameEn": "Hamilton College",
+    "nameZh": "汉密尔顿学院",
+    "abbreviation": "HC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Clinton, NY",
+    "latitude": 43.050245,
+    "longitude": -75.408195,
+    "rank": 14,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.hamilton.edu/",
+    "tuition": {
+      "amount": 68960,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.62,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2030,
+    "wikidataId": "Q3113011",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3113011",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "vassar-college",
+    "nameEn": "Vassar College",
+    "nameZh": "瓦萨学院",
+    "abbreviation": "VC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Poughkeepsie, NY",
+    "latitude": 41.686895,
+    "longitude": -73.895088,
+    "rank": 15,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.vassar.edu/",
+    "tuition": {
+      "amount": 71030,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 18.57,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2444,
+    "wikidataId": "Q2093794",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2093794",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "colby-college",
+    "nameEn": "Colby College",
+    "nameZh": "科尔比学院",
+    "abbreviation": "CC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Waterville, ME",
+    "latitude": 44.564211,
+    "longitude": -69.66337,
+    "rank": 16,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.colby.edu/",
+    "tuition": {
+      "amount": 69600,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 7.09,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2407,
+    "wikidataId": "Q1075116",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1075116",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "barnard-college",
+    "nameEn": "Barnard College",
+    "nameZh": "巴纳德学院",
+    "abbreviation": "BC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "New York, NY",
+    "latitude": 40.810098,
+    "longitude": -73.963346,
+    "rank": 17,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.barnard.edu/",
+    "tuition": {
+      "amount": 69888,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 8.84,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3264,
+    "wikidataId": "Q167733",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q167733",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "smith-college",
+    "nameEn": "Smith College",
+    "nameZh": "史密斯学院",
+    "abbreviation": "SC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Northampton, MA",
+    "latitude": 42.318111,
+    "longitude": -72.638097,
+    "rank": 18,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.smith.edu/",
+    "tuition": {
+      "amount": 65178,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 21,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2544,
+    "wikidataId": "Q49204",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q49204",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "washington-and-lee-university",
+    "nameEn": "Washington and Lee University",
+    "nameZh": "华盛顿与李大学",
+    "abbreviation": "WLU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Lexington, VA",
+    "latitude": 37.788939,
+    "longitude": -79.443018,
+    "rank": 19,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.wlu.edu/",
+    "tuition": {
+      "amount": 68045,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.97,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1881,
+    "wikidataId": "Q1785291",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1785291",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "harvey-mudd-college",
+    "nameEn": "Harvey Mudd College",
+    "nameZh": "哈维穆德学院",
+    "abbreviation": "HMC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Claremont, CA",
+    "latitude": 34.106515,
+    "longitude": -117.709837,
+    "rank": 20,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.hmc.edu/",
+    "tuition": {
+      "amount": 68613,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 12.66,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 921,
+    "wikidataId": "Q12236173",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q12236173",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "colgate-university",
+    "nameEn": "Colgate University",
+    "nameZh": "科尔盖特大学",
+    "abbreviation": "CU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Hamilton, NY",
+    "latitude": 42.819475,
+    "longitude": -75.536346,
+    "rank": 21,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.colgate.edu/",
+    "tuition": {
+      "amount": 70306,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.88,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3180,
+    "wikidataId": "Q1191335",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1191335",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "bates-college",
+    "nameEn": "Bates College",
+    "nameZh": "贝茨学院",
+    "abbreviation": "BC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Lewiston, ME",
+    "latitude": 44.105299,
+    "longitude": -70.203333,
+    "rank": 22,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.bates.edu/",
+    "tuition": {
+      "amount": 66590,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 13.32,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1760,
+    "wikidataId": "Q810771",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q810771",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "colorado-college",
+    "nameEn": "Colorado College",
+    "nameZh": "科罗拉多学院",
+    "abbreviation": "CC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Colorado Springs, CO",
+    "latitude": 38.84886,
+    "longitude": -104.822697,
+    "rank": 23,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.coloradocollege.edu/",
+    "tuition": {
+      "amount": 70734,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 18.47,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2014,
+    "wikidataId": "Q1111261",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1111261",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "macalester-college",
+    "nameEn": "Macalester College",
+    "nameZh": "麦卡莱斯特学院",
+    "abbreviation": "MC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Saint Paul, MN",
+    "latitude": 44.938565,
+    "longitude": -93.168053,
+    "rank": 24,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.macalester.edu/",
+    "tuition": {
+      "amount": 68104,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 28.52,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2131,
+    "wikidataId": "Q1141571",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1141571",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "oberlin-college",
+    "nameEn": "Oberlin College",
+    "nameZh": "欧柏林学院",
+    "abbreviation": "OC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Oberlin, OH",
+    "latitude": 41.291992,
+    "longitude": -82.216795,
+    "rank": 25,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.oberlin.edu/",
+    "tuition": {
+      "amount": 67366,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 34.18,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2887,
+    "wikidataId": "Q616591",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q616591",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "scripps-college",
+    "nameEn": "Scripps College",
+    "nameZh": "斯克里普斯学院",
+    "abbreviation": "SC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Claremont, CA",
+    "latitude": 34.104147,
+    "longitude": -117.711294,
+    "rank": 26,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.scrippscollege.edu/",
+    "tuition": {
+      "amount": 65950,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 38.29,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1113,
+    "wikidataId": "Q10664609",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q10664609",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "bryn-mawr-college",
+    "nameEn": "Bryn Mawr College",
+    "nameZh": "布林莫尔学院",
+    "abbreviation": "BMC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Bryn Mawr, PA",
+    "latitude": 40.02736,
+    "longitude": -75.313223,
+    "rank": 27,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.brynmawr.edu/",
+    "tuition": {
+      "amount": 65920,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 29.43,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1359,
+    "wikidataId": "Q995265",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q995265",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "kenyon-college",
+    "nameEn": "Kenyon College",
+    "nameZh": "凯尼恩学院",
+    "abbreviation": "KC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Gambier, OH",
+    "latitude": 40.374408,
+    "longitude": -82.397977,
+    "rank": 28,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.kenyon.edu/",
+    "tuition": {
+      "amount": 71520,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 31.03,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1732,
+    "wikidataId": "Q1797768",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1797768",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "mount-holyoke-college",
+    "nameEn": "Mount Holyoke College",
+    "nameZh": "曼荷莲学院",
+    "abbreviation": "MHC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "South Hadley, MA",
+    "latitude": 42.25489,
+    "longitude": -72.573916,
+    "rank": 29,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.mtholyoke.edu/",
+    "tuition": {
+      "amount": 67018,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 36.03,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2169,
+    "wikidataId": "Q1140542",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1140542",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "college-of-the-holy-cross",
+    "nameEn": "College of the Holy Cross",
+    "nameZh": "圣十字学院",
+    "abbreviation": "CHC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Worcester, MA",
+    "latitude": 42.23752,
+    "longitude": -71.808214,
+    "rank": 30,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.holycross.edu/",
+    "tuition": {
+      "amount": 64500,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 17.61,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3106,
+    "wikidataId": "Q2620177",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2620177",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "bucknell-university",
+    "nameEn": "Bucknell University",
+    "nameZh": "巴克内尔大学",
+    "abbreviation": "BU",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Lewisburg, PA",
+    "latitude": 40.954317,
+    "longitude": -76.882616,
+    "rank": 31,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.bucknell.edu/",
+    "tuition": {
+      "amount": 67812,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 28.93,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 3876,
+    "wikidataId": "Q3444679",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3444679",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "lafayette-college",
+    "nameEn": "Lafayette College",
+    "nameZh": "拉法叶学院",
+    "abbreviation": "LC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Easton, PA",
+    "latitude": 40.69956,
+    "longitude": -75.209786,
+    "rank": 32,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.lafayette.edu/",
+    "tuition": {
+      "amount": 65398,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 31.45,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 2757,
+    "wikidataId": "Q1592074",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1592074",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "franklin-and-marshall-college",
+    "nameEn": "Franklin and Marshall College",
+    "nameZh": "富兰克林与马歇尔学院",
+    "abbreviation": "FMC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Lancaster, PA",
+    "latitude": 40.048045,
+    "longitude": -76.319037,
+    "rank": 33,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.fandm.edu/",
+    "tuition": {
+      "amount": 70794,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 28.19,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1799,
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "id": "occidental-college",
+    "nameEn": "Occidental College",
+    "nameZh": "西方学院",
+    "abbreviation": "OC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Los Angeles, CA",
+    "latitude": 34.127124,
+    "longitude": -118.210908,
+    "rank": 34,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.oxy.edu/",
+    "tuition": {
+      "amount": 66274,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 44.17,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1877,
+    "wikidataId": "Q1346110",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1346110",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "reed-college",
+    "nameEn": "Reed College",
+    "nameZh": "里德学院",
+    "abbreviation": "RC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Portland, OR",
+    "latitude": 45.480959,
+    "longitude": -122.630348,
+    "rank": 35,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.reed.edu/",
+    "tuition": {
+      "amount": 69350,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 24.61,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1320,
+    "wikidataId": "Q1140775",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q1140775",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "pitzer-college",
+    "nameEn": "Pitzer College",
+    "nameZh": "匹泽学院",
+    "abbreviation": "PC",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Claremont, CA",
+    "latitude": 34.104107,
+    "longitude": -117.706675,
+    "rank": 36,
+    "rankYear": 2026,
+    "rankingSystem": "U.S. News",
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.pitzer.edu/",
+    "tuition": {
+      "amount": 65192,
+      "currency": "USD",
+      "period": "year",
+      "year": 2024,
+      "source": "https://collegescorecard.ed.gov/data/"
+    },
+    "admissionHistory": [
+      {
+        "year": 2024,
+        "acceptanceRate": 25.16,
+        "source": "https://collegescorecard.ed.gov/data/"
+      }
+    ],
+    "enrollment": 1227,
+    "wikidataId": "Q7199570",
+    "sources": [
+      {
+        "label": "2026 U.S. News National Liberal Arts Colleges",
+        "url": "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+        "year": 2026
+      },
+      {
+        "label": "U.S. Department of Education College Scorecard",
+        "url": "https://collegescorecard.ed.gov/data/",
+        "year": 2024
+      },
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q7199570",
+        "year": 2026
+      }
+    ]
+  },
+  {
     "id": "australian-national-university",
     "nameEn": "Australian National University",
     "nameZh": "澳大利亚国立大学",
@@ -4829,6 +6761,7 @@
     "longitude": 149.1205,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.anu.edu.au/",
     "wikidataId": "Q127990",
     "sources": [
@@ -4851,6 +6784,7 @@
     "longitude": 144.9614,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.unimelb.edu.au/",
     "sources": []
   },
@@ -4866,6 +6800,7 @@
     "longitude": 151.1873,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.sydney.edu.au/",
     "sources": []
   },
@@ -4881,6 +6816,7 @@
     "longitude": 151.232514,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.unsw.edu.au/",
     "wikidataId": "Q734764",
     "sources": [
@@ -4903,6 +6839,7 @@
     "longitude": 153.0137,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uq.edu.au/",
     "sources": []
   },
@@ -4918,6 +6855,7 @@
     "longitude": 145.13805555556,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.monash.edu/",
     "wikidataId": "Q598841",
     "sources": [
@@ -4940,6 +6878,7 @@
     "longitude": 115.8176,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uwa.edu.au/",
     "sources": []
   },
@@ -4955,6 +6894,7 @@
     "longitude": 138.6062,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.adelaide.edu.au/",
     "sources": []
   },
@@ -4970,6 +6910,7 @@
     "longitude": 103.77666666667,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://nus.edu.sg",
     "wikidataId": "Q738236",
     "sources": [
@@ -4992,6 +6933,7 @@
     "longitude": 103.68138888889,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://ntu.edu.sg",
     "wikidataId": "Q721064",
     "sources": [
@@ -5014,6 +6956,7 @@
     "longitude": 103.84972222222,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.smu.edu.sg",
     "wikidataId": "Q950609",
     "sources": [
@@ -5036,6 +6979,7 @@
     "longitude": 103.96295555555555,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.sutd.edu.sg/",
     "wikidataId": "Q11081251",
     "sources": [
@@ -5058,6 +7002,7 @@
     "longitude": 103.849,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://singaporetech.edu.sg",
     "wikidataId": "Q7523022",
     "sources": [
@@ -5080,6 +7025,7 @@
     "longitude": 103.776,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.suss.edu.sg",
     "wikidataId": "Q494179",
     "sources": [
@@ -5102,6 +7048,7 @@
     "longitude": 114.1371,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.hku.hk/",
     "sources": []
   },
@@ -5117,6 +7064,7 @@
     "longitude": 114.2068,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.cuhk.edu.hk/",
     "sources": []
   },
@@ -5132,6 +7080,7 @@
     "longitude": 114.2654,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://hkust.edu.hk/",
     "sources": []
   },
@@ -5147,6 +7096,7 @@
     "longitude": 114.17298888889,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://cityu.edu.hk",
     "wikidataId": "Q787360",
     "sources": [
@@ -5169,6 +7119,7 @@
     "longitude": 114.1795,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.polyu.edu.hk/",
     "sources": []
   },
@@ -5184,6 +7135,7 @@
     "longitude": 114.18166666667,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.hkbu.edu.hk/",
     "wikidataId": "Q603686",
     "sources": [
@@ -5206,6 +7158,7 @@
     "longitude": 113.983,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.ln.edu.hk/",
     "wikidataId": "Q1541161",
     "sources": [
@@ -5228,6 +7181,7 @@
     "longitude": 114.1949,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.eduhk.hk/",
     "sources": []
   },
@@ -5243,6 +7197,7 @@
     "longitude": -73.5775,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.mcgill.ca/",
     "wikidataId": "Q201492",
     "sources": [
@@ -5265,6 +7220,7 @@
     "longitude": -79.395746,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.utoronto.ca/",
     "wikidataId": "Q180865",
     "sources": [
@@ -5287,6 +7243,7 @@
     "longitude": -123.25277777777778,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.ubc.ca/",
     "wikidataId": "Q391028",
     "sources": [
@@ -5309,6 +7266,7 @@
     "longitude": -113.52444444444,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.ualberta.ca",
     "wikidataId": "Q640694",
     "sources": [
@@ -5331,6 +7289,7 @@
     "longitude": -80.54,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://uwaterloo.ca",
     "wikidataId": "Q1049470",
     "sources": [
@@ -5353,6 +7312,7 @@
     "longitude": -81.27377651628304,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.uwo.ca",
     "wikidataId": "Q1144262",
     "sources": [
@@ -5375,6 +7335,7 @@
     "longitude": -73.61433,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.umontreal.ca/",
     "wikidataId": "Q392189",
     "sources": [
@@ -5397,6 +7358,7 @@
     "longitude": -79.91888888888889,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.mcmaster.ca/",
     "wikidataId": "Q632891",
     "sources": [
@@ -5419,6 +7381,7 @@
     "longitude": -75.6824,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uottawa.ca/en",
     "wikidataId": "Q627969",
     "sources": [
@@ -5441,6 +7404,7 @@
     "longitude": -76.4951,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.queensu.ca/",
     "wikidataId": "Q422402",
     "sources": [
@@ -5463,6 +7427,7 @@
     "longitude": -114.13305555556,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "http://www.ucalgary.ca/",
     "wikidataId": "Q1067471",
     "sources": [
@@ -5485,6 +7450,7 @@
     "longitude": -63.591666666667,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.dal.ca/",
     "wikidataId": "Q579321",
     "sources": [
@@ -5507,6 +7473,7 @@
     "longitude": -122.91939382818825,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.sfu.ca/",
     "wikidataId": "Q201603",
     "sources": [
@@ -5529,6 +7496,7 @@
     "longitude": -123.31166666666667,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uvic.ca/",
     "wikidataId": "Q1458113",
     "sources": [
@@ -5551,6 +7519,7 @@
     "longitude": -71.274722222222,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.ulaval.ca/",
     "wikidataId": "Q1067935",
     "sources": [
@@ -5573,6 +7542,7 @@
     "longitude": -106.6328,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.usask.ca/",
     "wikidataId": "Q1514848",
     "sources": [
@@ -5595,6 +7565,7 @@
     "longitude": -79.503611111111,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.yorku.ca/",
     "wikidataId": "Q849751",
     "sources": [
@@ -5617,6 +7588,7 @@
     "longitude": -73.57805555555555,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.concordia.ca/",
     "wikidataId": "Q326342",
     "sources": [
@@ -5639,6 +7611,7 @@
     "longitude": -80.22361111111111,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uoguelph.ca/",
     "wikidataId": "Q795988",
     "sources": [
@@ -5661,12 +7634,187 @@
     "longitude": -83.065833333333,
     "rankingSystem": "QS",
     "rankYear": 2026,
+    "tags": [],
     "website": "https://www.uwindsor.ca/",
     "wikidataId": "Q2065769",
     "sources": [
       {
         "label": "Wikidata",
         "url": "https://www.wikidata.org/wiki/Q2065769",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "acadia-university",
+    "nameEn": "Acadia University",
+    "nameZh": "阿卡迪亚大学",
+    "abbreviation": "AU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Wolfville",
+    "latitude": 45.08777777777778,
+    "longitude": -64.36611111111111,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "http://www.acadiau.ca",
+    "wikidataId": "Q337382",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q337382",
+        "year": 2026
+      },
+      {
+        "label": "文理学院公开资料",
+        "url": "https://www.acadiau.ca/",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "bishop-s-university",
+    "nameEn": "Bishop's University",
+    "nameZh": "毕索大学",
+    "abbreviation": "BU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Sherbrooke",
+    "latitude": 45.366711111111,
+    "longitude": -71.845463888889,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://www.ubishops.ca/",
+    "wikidataId": "Q3551383",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q3551383",
+        "year": 2026
+      },
+      {
+        "label": "文理学院公开资料",
+        "url": "https://www.ubishops.ca/",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "mount-allison-university",
+    "nameEn": "Mount Allison University",
+    "nameZh": "蒙特爱立森大学",
+    "abbreviation": "MAU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Sackville",
+    "latitude": 45.900519444444,
+    "longitude": -64.377822222222,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://mta.ca/",
+    "wikidataId": "Q742150",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q742150",
+        "year": 2026
+      },
+      {
+        "label": "文理学院公开资料",
+        "url": "https://mta.ca/",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "st-francis-xavier-university",
+    "nameEn": "St. Francis Xavier University",
+    "nameZh": "圣弗朗西斯泽维尔大学",
+    "abbreviation": "SFXU",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Antigonish",
+    "latitude": 45.616797222222,
+    "longitude": -61.982888888889,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "http://www.stfx.ca/",
+    "wikidataId": "Q2038889",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q2038889",
+        "year": 2026
+      },
+      {
+        "label": "文理学院公开资料",
+        "url": "https://www.stfx.ca/",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "campion-college",
+    "nameEn": "Campion College",
+    "nameZh": "坎皮恩学院",
+    "abbreviation": "CC",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Sydney",
+    "latitude": -33.7844,
+    "longitude": 150.965,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "http://www.campion.edu.au/",
+    "wikidataId": "Q5028401",
+    "sources": [
+      {
+        "label": "Wikidata",
+        "url": "https://www.wikidata.org/wiki/Q5028401",
+        "year": 2026
+      },
+      {
+        "label": "文理学院公开资料",
+        "url": "https://www.campion.edu.au/",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "id": "christian-heritage-college",
+    "nameEn": "Christian Heritage College",
+    "nameZh": "基督教遗产学院",
+    "abbreviation": "CHC",
+    "country": "Australia",
+    "countryCode": "AU",
+    "city": "Brisbane",
+    "latitude": -27.5315,
+    "longitude": 153.0936,
+    "rankingSystem": "QS",
+    "rankYear": 2026,
+    "tags": [
+      "文理学院"
+    ],
+    "website": "https://chc.edu.au/",
+    "sources": [
+      {
+        "label": "文理学院公开资料",
+        "url": "https://chc.edu.au/",
         "year": 2026
       }
     ]

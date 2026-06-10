@@ -11,6 +11,8 @@
     "db:migrate:local": "wrangler d1 migrations apply DB --local",
     "db:migrate:remote": "wrangler d1 migrations apply DB --remote",
     "data:refresh": "node scripts/refresh-university-catalog.mjs",
+    "offers:csv": "node scripts/build-offer-records-csv.mjs",
+    "offers:sql": "node scripts/import-offer-records.mjs",
     "typecheck": "tsc -b"
   },
   "dependencies": {

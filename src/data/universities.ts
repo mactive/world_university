@@ -10,7 +10,9 @@ const sharedRequirements = {
   language: "非英语母语申请人通常需提交 IELTS、TOEFL 或学校认可的替代成绩。",
 };
 
-const richUniversities: University[] = [
+type RichUniversity = Omit<University, "tags"> & { tags?: string[] };
+
+const richUniversities: RichUniversity[] = [
   {
     id: "mit",
     slug: "massachusetts-institute-of-technology",
@@ -105,7 +107,7 @@ const richUniversities: University[] = [
     updatedAt,
   },
   {
-    id: "berkeley",
+    id: "university-of-california-berkeley",
     slug: "university-of-california-berkeley",
     nameEn: "University of California, Berkeley",
     nameZh: "加州大学伯克利分校",
@@ -135,7 +137,7 @@ const richUniversities: University[] = [
     updatedAt,
   },
   {
-    id: "oxford",
+    id: "university-of-oxford",
     slug: "university-of-oxford",
     nameEn: "University of Oxford",
     nameZh: "牛津大学",
@@ -165,7 +167,7 @@ const richUniversities: University[] = [
     updatedAt,
   },
   {
-    id: "cambridge",
+    id: "university-of-cambridge",
     slug: "university-of-cambridge",
     nameEn: "University of Cambridge",
     nameZh: "剑桥大学",
@@ -195,7 +197,7 @@ const richUniversities: University[] = [
     updatedAt,
   },
   {
-    id: "imperial",
+    id: "imperial-college-london",
     slug: "imperial-college-london",
     nameEn: "Imperial College London",
     nameZh: "帝国理工学院",
@@ -225,7 +227,7 @@ const richUniversities: University[] = [
     updatedAt,
   },
   {
-    id: "ucl",
+    id: "university-college-london",
     slug: "university-college-london",
     nameEn: "University College London",
     nameZh: "伦敦大学学院",
@@ -604,6 +606,7 @@ type CatalogRecord = {
   admissionHistory?: University["admissionHistory"];
   enrollment?: number;
   sources?: University["sources"];
+  tags?: string[];
 };
 
 const generatedUniversities = (generatedCatalog as CatalogRecord[]).map(
@@ -638,6 +641,7 @@ const generatedUniversities = (generatedCatalog as CatalogRecord[]).map(
     },
     admissionHistory: record.admissionHistory ?? [],
     sources: record.sources ?? [],
+    tags: record.tags ?? [],
     status: "published",
     updatedAt,
   }),
@@ -656,6 +660,10 @@ function mergeAdmissionHistory(
   return [...byYear.values()].sort((a, b) => b.year - a.year);
 }
 
+function mergeTags(left: string[] = [], right: string[] = []) {
+  return [...new Set([...left, ...right])];
+}
+
 const richByName = new Map(
   richUniversities.map((university) => [normalizeName(university.nameEn), university]),
 );
@@ -668,6 +676,8 @@ export const seedUniversities: University[] = [
     return {
       ...generated,
       ...detailed,
+      id: generated.id,
+      slug: generated.slug,
       city: generated.city,
       latitude: generated.latitude,
       longitude: generated.longitude,
@@ -682,11 +692,12 @@ export const seedUniversities: University[] = [
         generated.admissionHistory,
       ),
       sources: [...generated.sources, ...detailed.sources],
+      tags: mergeTags(generated.tags, detailed.tags),
     };
   }),
   ...richUniversities.filter(
     (university) => !generatedNames.has(normalizeName(university.nameEn)),
-  ),
+  ).map((university) => ({ ...university, tags: university.tags ?? [] })),
 ].sort((a, b) => {
   if (a.countryCode !== b.countryCode) return a.countryCode.localeCompare(b.countryCode);
   return (a.qsRank ?? 9999) - (b.qsRank ?? 9999);

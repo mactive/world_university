@@ -10,7 +10,9 @@ import {
   Users,
   X,
 } from "lucide-react";
-import type { University } from "../types";
+import { useEffect, useMemo, useState } from "react";
+import { api } from "../api";
+import type { University, UniversityOfferRecord } from "../types";
 import { REGION_LABELS } from "../types";
 
 interface Props {
@@ -19,6 +21,59 @@ interface Props {
 }
 
 export function UniversityDetail({ university, onClose }: Props) {
+  const [offerRecords, setOfferRecords] = useState<UniversityOfferRecord[]>([]);
+  const historyRows = useMemo(() => {
+    const byYear = new Map<
+      number,
+      {
+        year: number;
+        acceptanceRate?: number;
+        offerCount: number;
+        sources: Set<string>;
+      }
+    >();
+
+    for (const item of university.admissionHistory) {
+      byYear.set(item.year, {
+        year: item.year,
+        acceptanceRate: item.acceptanceRate,
+        offerCount: 0,
+        sources: new Set(item.source ? [item.source] : []),
+      });
+    }
+
+    for (const record of offerRecords) {
+      const current =
+        byYear.get(record.year) ??
+        {
+          year: record.year,
+          offerCount: 0,
+          sources: new Set<string>(),
+        };
+      current.offerCount += record.offerCount;
+      current.sources.add(record.sourceName);
+      byYear.set(record.year, current);
+    }
+
+    return [...byYear.values()].sort((a, b) => b.year - a.year);
+  }, [offerRecords, university.admissionHistory]);
+
+  useEffect(() => {
+    let cancelled = false;
+    setOfferRecords([]);
+    api
+      .offerRecords(university.id)
+      .then(({ offerRecords: records }) => {
+        if (!cancelled) setOfferRecords(records);
+      })
+      .catch(() => {
+        if (!cancelled) setOfferRecords([]);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [university.id]);
+
   return (
     <aside className="detail-panel">
       <div className="detail-hero">
@@ -76,6 +131,13 @@ export function UniversityDetail({ university, onClose }: Props) {
             <GraduationCap size={19} />
             <h3>优势专业</h3>
           </div>
+          {university.tags.length > 0 && (
+            <div className="tag-list highlight-tags">
+              {university.tags.map((tag) => (
+                <span key={tag}>{tag}</span>
+              ))}
+            </div>
+          )}
           <div className="tag-list">
             {university.strengths.map((strength) => (
               <span key={strength}>{strength}</span>
@@ -117,16 +179,13 @@ export function UniversityDetail({ university, onClose }: Props) {
             <MapPin size={19} />
             <h3>近年录取情况</h3>
           </div>
-          {university.admissionHistory.length ? (
+          {historyRows.length ? (
             <div className="history-list">
-              {university.admissionHistory.map((year) => (
+              {historyRows.map((year) => (
                 <div key={year.year}>
                   <strong>{year.year}</strong>
-                  <span>
-                    {year.acceptanceRate !== undefined
-                      ? `整体录取率 ${year.acceptanceRate}%`
-                      : "数据待补充"}
-                  </span>
+                  <span>{historySummary(year)}</span>
+                  {year.sources.size > 0 && <small>来源：{[...year.sources].join("、")}</small>}
                 </div>
               ))}
             </div>
@@ -178,6 +237,13 @@ function InfoRow({ label, children }: { label: string; children: React.ReactNode
       <p>{children}</p>
     </div>
   );
+}
+
+function historySummary(year: { acceptanceRate?: number; offerCount: number }) {
+  const parts = [];
+  if (year.acceptanceRate !== undefined) parts.push(`整体录取率 ${year.acceptanceRate}%`);
+  if (year.offerCount > 0) parts.push(`大陆学生 offer ${year.offerCount.toLocaleString()} 枚`);
+  return parts.length ? parts.join(" · ") : "数据待补充";
 }
 
 function formatMoney(value: number) {

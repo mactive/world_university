@@ -137,13 +137,19 @@ export function UniversityMap({ universities, selected, onSelect }: Props) {
     if (!selected || !mapRef.current) return;
     mapRef.current.flyTo({
       center: [selected.longitude, selected.latitude],
-      zoom: Math.max(mapRef.current.getZoom(), 7),
+      zoom: Math.max(mapRef.current.getZoom(), zoomForCountry(selected.countryCode)),
       duration: 900,
       essential: true,
     });
   }, [selected]);
 
   return <div className="map-canvas" ref={containerRef} />;
+}
+
+function zoomForCountry(countryCode: University["countryCode"]) {
+  if (countryCode === "SG" || countryCode === "HK") return 10.5;
+  if (countryCode === "UK") return 8.5;
+  return 7.2;
 }
 
 function toGeoJson(universities: University[]): GeoJSON.FeatureCollection {

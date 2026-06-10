@@ -66,7 +66,56 @@ export interface University {
   };
   admissionHistory: AdmissionYear[];
   sources: SourceLink[];
+  tags: string[];
   status: "published" | "draft";
+  updatedAt: string;
+}
+
+export interface MainlandSchool {
+  id: string;
+  nameZh: string;
+  nameEn: string;
+  province: string;
+  city: string;
+  schoolType: string;
+  website: string;
+  notes: string;
+  tags: string[];
+  status: "active" | "archived";
+  updatedAt: string;
+}
+
+export type OfferSourceKind = "screenshot" | "official" | "api" | "manual";
+
+export interface UniversityOfferRecord {
+  id: string;
+  year: number;
+  universityId: string;
+  universityNameZh?: string;
+  universityNameEn?: string;
+  mainlandSchoolId?: string;
+  mainlandSchoolNameZh?: string;
+  offerCount: number;
+  applicantCount?: number;
+  enrolledCount?: number;
+  degreeLevel: "undergraduate" | "graduate" | "foundation" | "other";
+  sourceName: string;
+  sourceUrl?: string;
+  sourceSnapshot?: string;
+  sourceKind: OfferSourceKind;
+  filters: Record<string, string>;
+  notes: string;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface UniversityAlias {
+  alias: string;
+  universityId: string;
+  universityNameZh?: string;
+  universityNameEn?: string;
+  notes: string;
+  createdAt: string;
   updatedAt: string;
 }
 

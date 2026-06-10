@@ -2,6 +2,7 @@ node_modules
 dist
 .wrangler
 .dev.vars
+admin.conf
 *.log
 *.tsbuildinfo
 .DS_Store

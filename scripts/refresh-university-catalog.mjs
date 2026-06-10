@@ -117,6 +117,45 @@ const usRanked = [
   [102, "University of Iowa"],
 ];
 
+const usLiberalArtsRanked = [
+  [1, "Williams College"],
+  [2, "Amherst College"],
+  [3, "Swarthmore College"],
+  [4, "Pomona College"],
+  [5, "Wellesley College"],
+  [6, "Bowdoin College"],
+  [7, "Carleton College"],
+  [8, "Claremont McKenna College"],
+  [9, "Middlebury College"],
+  [10, "Haverford College"],
+  [11, "Davidson College"],
+  [12, "Wesleyan University"],
+  [13, "Grinnell College"],
+  [14, "Hamilton College"],
+  [15, "Vassar College"],
+  [16, "Colby College"],
+  [17, "Barnard College"],
+  [18, "Smith College"],
+  [19, "Washington and Lee University"],
+  [20, "Harvey Mudd College"],
+  [21, "Colgate University"],
+  [22, "Bates College"],
+  [23, "Colorado College"],
+  [24, "Macalester College"],
+  [25, "Oberlin College"],
+  [26, "Scripps College"],
+  [27, "Bryn Mawr College"],
+  [28, "Kenyon College"],
+  [29, "Mount Holyoke College"],
+  [30, "College of the Holy Cross"],
+  [31, "Bucknell University"],
+  [32, "Lafayette College"],
+  [33, "Franklin and Marshall College"],
+  [34, "Occidental College"],
+  [35, "Reed College"],
+  [36, "Pitzer College"],
+];
+
 const regionalUniversities = [
   // Australia Group of Eight
   ["AU", "Australian National University", "Canberra"],
@@ -164,6 +203,14 @@ const regionalUniversities = [
   ["CA", "Concordia University", "Montreal"],
   ["CA", "University of Guelph", "Guelph"],
   ["CA", "University of Windsor", "Windsor"],
+  // Canada Maple League: primarily undergraduate liberal education institutions
+  ["CA", "Acadia University", "Wolfville", ["文理学院"]],
+  ["CA", "Bishop's University", "Sherbrooke", ["文理学院"]],
+  ["CA", "Mount Allison University", "Sackville", ["文理学院"]],
+  ["CA", "St. Francis Xavier University", "Antigonish", ["文理学院"]],
+  // Australia: dedicated liberal arts / liberal arts college model
+  ["AU", "Campion College", "Sydney", ["文理学院"]],
+  ["AU", "Christian Heritage College", "Brisbane", ["文理学院"]],
 ];
 
 const wikidataSearchOverrides = new Map([
@@ -180,6 +227,8 @@ const wikidataSearchOverrides = new Map([
   ["University of Pittsburgh-Pittsburgh Campus", "University of Pittsburgh"],
   ["UNSW Sydney", "University of New South Wales"],
   ["Western University", "University of Western Ontario"],
+  ["St. Francis Xavier University", "St. Francis Xavier University"],
+  ["Christian Heritage College", "Christian Heritage College Brisbane"],
 ]);
 let wikidataByTitle = new Map();
 let scorecardByName = new Map();
@@ -203,6 +252,12 @@ const manualCoordinates = new Map([
   ["The Hong Kong Polytechnic University", [22.304, 114.1795]],
   ["The Education University of Hong Kong", [22.4673, 114.1949]],
   ["Queen's University", [44.2253, -76.4951]],
+  ["Acadia University", [45.0919, -64.3653]],
+  ["Bishop's University", [45.3666, -71.8486]],
+  ["Mount Allison University", [45.8988, -64.3732]],
+  ["St. Francis Xavier University", [45.6187, -61.9944]],
+  ["Campion College", [-33.8075, 150.9986]],
+  ["Christian Heritage College", [-27.5315, 153.0936]],
 ]);
 const regionalChineseNames = new Map([
   ["Australian National University", "澳大利亚国立大学"],
@@ -247,8 +302,50 @@ const regionalChineseNames = new Map([
   ["Concordia University", "康考迪亚大学"],
   ["University of Guelph", "圭尔夫大学"],
   ["University of Windsor", "温莎大学"],
+  ["Acadia University", "阿卡迪亚大学"],
+  ["Bishop's University", "毕索大学"],
+  ["Mount Allison University", "蒙特爱立森大学"],
+  ["St. Francis Xavier University", "圣弗朗西斯泽维尔大学"],
+  ["Campion College", "坎皮恩学院"],
+  ["Christian Heritage College", "基督教遗产学院"],
 ]);
 const usChineseNames = new Map([
+  ["Williams College", "威廉姆斯学院"],
+  ["Amherst College", "阿默斯特学院"],
+  ["Swarthmore College", "斯沃斯莫尔学院"],
+  ["Pomona College", "波莫纳学院"],
+  ["Wellesley College", "韦尔斯利学院"],
+  ["Bowdoin College", "鲍登学院"],
+  ["Carleton College", "卡尔顿学院"],
+  ["Claremont McKenna College", "克莱蒙特麦肯纳学院"],
+  ["Middlebury College", "明德学院"],
+  ["Haverford College", "哈弗福德学院"],
+  ["Davidson College", "戴维森学院"],
+  ["Wesleyan University", "卫斯理大学"],
+  ["Grinnell College", "格林内尔学院"],
+  ["Hamilton College", "汉密尔顿学院"],
+  ["Vassar College", "瓦萨学院"],
+  ["Colby College", "科尔比学院"],
+  ["Barnard College", "巴纳德学院"],
+  ["Smith College", "史密斯学院"],
+  ["Washington and Lee University", "华盛顿与李大学"],
+  ["Harvey Mudd College", "哈维穆德学院"],
+  ["Colgate University", "科尔盖特大学"],
+  ["Bates College", "贝茨学院"],
+  ["Colorado College", "科罗拉多学院"],
+  ["Macalester College", "麦卡莱斯特学院"],
+  ["Oberlin College", "欧柏林学院"],
+  ["Scripps College", "斯克里普斯学院"],
+  ["Bryn Mawr College", "布林莫尔学院"],
+  ["Kenyon College", "凯尼恩学院"],
+  ["Mount Holyoke College", "曼荷莲学院"],
+  ["College of the Holy Cross", "圣十字学院"],
+  ["Bucknell University", "巴克内尔大学"],
+  ["Lafayette College", "拉法叶学院"],
+  ["Franklin and Marshall College", "富兰克林与马歇尔学院"],
+  ["Occidental College", "西方学院"],
+  ["Reed College", "里德学院"],
+  ["Pitzer College", "匹泽学院"],
   ["Emory University", "埃默里大学"],
   ["University of North Carolina at Chapel Hill", "北卡罗来纳大学教堂山分校"],
   ["University of California, San Diego", "加州大学圣地亚哥分校"],
@@ -297,6 +394,12 @@ const manualWebsites = new Map([
   ["The Hong Kong Polytechnic University", "https://www.polyu.edu.hk/"],
   ["The Education University of Hong Kong", "https://www.eduhk.hk/"],
   ["Queen's University", "https://www.queensu.ca/"],
+  ["Acadia University", "https://www.acadiau.ca/"],
+  ["Bishop's University", "https://www.ubishops.ca/"],
+  ["Mount Allison University", "https://mta.ca/"],
+  ["St. Francis Xavier University", "https://www.stfx.ca/"],
+  ["Campion College", "https://www.campion.edu.au/"],
+  ["Christian Heritage College", "https://chc.edu.au/"],
 ]);
 const manualUsMetrics = new Map([
   [
@@ -410,7 +513,7 @@ function scorecardRecord(name) {
   return exact;
 }
 
-async function buildUsRecord([rank, name], index) {
+async function buildUsRecord([rank, name], index, options = {}) {
   const scorecard = scorecardRecord(name);
   const wikidata = wikidataRecord(name);
   const canonicalName = cleanUsName(wikidata.canonicalName ?? scorecard.INSTNM ?? name);
@@ -426,7 +529,7 @@ async function buildUsRecord([rank, name], index) {
       ]
     : [];
 
-  console.log(`[US ${index + 1}/${usRanked.length}] ${canonicalName}`);
+  console.log(`[${options.logPrefix ?? "US"} ${index + 1}/${options.total ?? usRanked.length}] ${canonicalName}`);
   const manualCoordinate = manualCoordinates.get(canonicalName);
   return {
     id: slugify(canonicalName),
@@ -443,6 +546,7 @@ async function buildUsRecord([rank, name], index) {
     rank,
     rankYear: 2026,
     rankingSystem: "U.S. News",
+    tags: options.tags ?? [],
     website: normalizeWebsite(scorecard.INSTURL ?? wikidata.website),
     tuition: (parseNumber(scorecard.TUITIONFEE_OUT) ?? manualMetrics?.tuition)
       ? {
@@ -457,11 +561,24 @@ async function buildUsRecord([rank, name], index) {
     enrollment: parseNumber(scorecard.UGDS) ?? manualMetrics?.enrollment,
     wikidataId: wikidata.wikidataId,
     sources: [
-      {
-        label: "2026 U.S. News 排名地图",
-        url: "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
-        year: 2026,
-      },
+      ...(options.tags?.includes("文理学院")
+        ? []
+        : [
+            {
+              label: "2026 U.S. News 排名地图",
+              url: "local-pdf:2026年美国大学排名及地图（无logo可编辑）.pdf",
+              year: 2026,
+            },
+          ]),
+      ...(options.source
+        ? [
+            {
+              label: options.source.label,
+              url: options.source.url,
+              year: options.source.year,
+            },
+          ]
+        : []),
       {
         label: "U.S. Department of Education College Scorecard",
         url: "https://collegescorecard.ed.gov/data/",
@@ -480,7 +597,7 @@ async function buildUsRecord([rank, name], index) {
   };
 }
 
-async function buildRegionalRecord([countryCode, name, city], index) {
+async function buildRegionalRecord([countryCode, name, city, tags = []], index) {
   const wikidata = wikidataRecord(name);
   const canonicalName = wikidata.canonicalName ?? name;
   const manualCoordinate =
@@ -502,21 +619,37 @@ async function buildRegionalRecord([countryCode, name, city], index) {
     longitude: wikidata.longitude ?? manualCoordinate?.[1],
     rankingSystem: "QS",
     rankYear: 2026,
+    tags,
     website: normalizeWebsite(
       wikidata.website ??
         manualWebsites.get(canonicalName) ??
         manualWebsites.get(name),
     ),
     wikidataId: wikidata.wikidataId,
-    sources: wikidata.wikidataId
-      ? [
-          {
-            label: "Wikidata",
-            url: `https://www.wikidata.org/wiki/${wikidata.wikidataId}`,
-            year: 2026,
-          },
-        ]
-      : [],
+    sources: [
+      ...(wikidata.wikidataId
+        ? [
+            {
+              label: "Wikidata",
+              url: `https://www.wikidata.org/wiki/${wikidata.wikidataId}`,
+              year: 2026,
+            },
+          ]
+        : []),
+      ...(tags.includes("文理学院")
+        ? [
+            {
+              label: "文理学院公开资料",
+              url: normalizeWebsite(
+                manualWebsites.get(canonicalName) ??
+                  manualWebsites.get(name) ??
+                  wikidata.website,
+              ),
+              year: 2026,
+            },
+          ]
+        : []),
+    ],
   };
 }
 
@@ -650,12 +783,25 @@ function sleep(ms) {
 
 await prefetchWikidata([
   ...usRanked.map(([, name]) => name),
+  ...usLiberalArtsRanked.map(([, name]) => name),
   ...regionalUniversities.map(([, name]) => name),
 ]);
 await prefetchScorecard();
 const us = await mapWithConcurrency(usRanked, 4, buildUsRecord);
+const usLiberalArts = await mapWithConcurrency(usLiberalArtsRanked, 4, (item, index) =>
+  buildUsRecord(item, index, {
+    logPrefix: "US-LAC",
+    total: usLiberalArtsRanked.length,
+    tags: ["文理学院"],
+    source: {
+      label: "2026 U.S. News National Liberal Arts Colleges",
+      url: "https://www.usnews.com/best-colleges/rankings/national-liberal-arts-colleges",
+      year: 2026,
+    },
+  }),
+);
 const regional = await mapWithConcurrency(regionalUniversities, 4, buildRegionalRecord);
-const records = [...us, ...regional];
+const records = [...us, ...usLiberalArts, ...regional];
 const missingCoordinates = records.filter(
   (record) => !Number.isFinite(record.latitude) || !Number.isFinite(record.longitude),
 );

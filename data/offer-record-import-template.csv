@@ -1,0 +1,2 @@
+year,university_id,university_name,offer_count,degree_level,source_name,source_kind,source_snapshot,source_url,filters_json,notes,mainland_school_id,applicant_count,enrolled_count
+2026,princeton-university,Princeton University,20,undergraduate,翠鹿升学榜,screenshot,CleanShot 2026-06-10 at 09.29.41@2x.png,,"{""degree"":""本科"",""ranking"":""中国学生榜"",""region"":""不限"",""schoolType"":""不限""}",示例数据，请导入前核对截图,,,
